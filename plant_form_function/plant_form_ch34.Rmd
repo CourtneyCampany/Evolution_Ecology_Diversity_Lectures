@@ -1,0 +1,260 @@
+---
+title: "Plant form and function"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+
+## About Me
+<hr>
+<br/>
+
+
+## Are plants as advanced (> or =) as humans?
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/whatplantsdo.jpg">
+
+##
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lzq-wRHCTKc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Wounding triggers transmission of Ca^2+^ to start systemic defense responses
+<hr>
+<br/>
+Toyota et al. 2018. Science 361: 1112-1115.
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:800px; HEIGHT:500px" SRC="images/science_paper.jpg">
+
+## Despite this, how to we view plants in the real world?
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:175px; WIDTH:400px; HEIGHT:300px" SRC="images/baby-groot.jpeg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:400px; HEIGHT:300px" SRC="images/ent_lor.jpg">
+
+##
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Plants are nearly universally defined by their total inability to move**
+
+<br/>
+
+* **Is this a good thing or a bad thing?**
+
+<br/>
+
+* **Humans Couldn't Exist Without Plants?**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:575px; WIDTH:400px; HEIGHT:400px" SRC="images/plantscool.png">
+
+## Themes in plant form
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Plants must gather materials to grow**
+      + soil
+      + atmosphere
+      + materials can be limiting
+
+<br/> 
+
+* **Above and belowground body plan**
+  
+<br/> 
+
+* **Plants exhibit _indeterminate growth_**
+      + "foragers"
+      + amazing diversity of size & shape
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:400px; HEIGHT:300px" SRC="images/plantscool.png">
+
+## Diversity of shape exists below our feet
+<hr>
+<br/>
+McNear Jr. et al. 2013. 4(3):1
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:800px; HEIGHT:600px" SRC="images/rootsystems1.jpg">
+
+## What drives diversity in plant form?
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<div class="centered">
+<strong><span style="color:blue">Why/span></strong></div>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:800px; HEIGHT:400px" SRC="images/areavolume.png">
+
+## Consider global patterns in leaf size from Wright el al. 2017...
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:800px; HEIGHT:600px" SRC="images/rootsystems1.jpg">
+
+## Also consider evolution...
+<hr>
+<br/>
+Niklas et al., 1983
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:800px; HEIGHT:400px" SRC="images/angioradiation.png">
+
+## Diversity of plant cell types form distinct tissues
+<hr>
+<br/>
+
+## Complex relationships between roots and plant/ecosystem function
+<hr>
+<br/>
+**Freschet & Roumet. 2017. Functional Ecology 31: 1506-1518**
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:700px; HEIGHT:500px" SRC="images/root_roles.jpg">
+
+## Resonsible for supplying key nutrients & water to plant
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:600px; HEIGHT:400px" SRC="images/rootuptake.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:400px; HEIGHT:400px" SRC="images/roottip.png">
+
+## Roots have their own super information highway
+<hr>
+<br/>
+
+**way more than just ancoring trees and absorbing nutrients**
+**huge surface area for absorption, warning signals of fungus/insects, release toxins
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:800px; HEIGHT:400px" SRC="images/plants-fungi.jpg">
+
+##Plant tissue systems
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:125px; WIDTH:500px; HEIGHT:500px" SRC="images/tissue_structure.jpg">
+
+<div style="float: right; width: 50%;">
+
+* **Protect and interact with the environment**
+
+<br/> 
+
+* **Make and store carbohydrates, structure**
+  
+<br/> 
+
+* **Long term transport**
+
+</div>
+
+## Vascular tissue system: Moving the good stuff
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:125px; LEFT:325px; WIDTH:300px; HEIGHT:500px" SRC="images/xylemphloem2.png">
+
+## How it works: Pressure flow model
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/xylemphloem3.png">
+
+## Woody growth
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:125px; LEFT:175px; WIDTH:500px; HEIGHT:300px" SRC="images/growth.png">
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:400px; WIDTH:400px; HEIGHT:400px" SRC="images/woodgrowth.jpg">
+
+## Cambium produce secondary growth
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:500px; HEIGHT:400px" SRC="images/vascular_cambium.jpg">
+
+## Annual growth rings
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/growthrings.png">
+
+<div style="float: right; width: 45%;">
+* **Year after year, plants record everything that happens on the planet**
+
+<br/>
+
+* **Complete cycle of seasons: recording atmospheric conditions**
+
+<br/>
+
+* **Agreement on solar storms on a global scale!!**
+      + Wang et al. 2017. Nature Communications 8:1487
+ </div> 
+      
+## Leaves: What drives such a large phenotypic diversity
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:700px; HEIGHT:600px" SRC="images/leaves.jpeg">
+
+## Classic economic theory
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Investment**
+      + storage versus use of photosynthetic products
+
+<br/>
+
+* **Marginal cost and revenue **
+      + new leaves vs support structures 
+      + law of diminishing returns
+<br/>
+
+* **Marginal product**
+      + profit of photosynthesis vs resource availability
+      
+<br/>
+
+* **Exchange ratios** 
+      + balancing C gain, nutrient use & water loss
+ </div>     
+      
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:300px; HEIGHT:300px" SRC="images/leafdollar.png">
+
+## Economic strategies drive leaf form and function
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:700px; HEIGHT:600px" SRC="images/leafeconomics.jpeg">
