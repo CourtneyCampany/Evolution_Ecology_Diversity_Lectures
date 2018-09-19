@@ -1,0 +1,167 @@
+---
+title: "Leaf form and photosynthesis"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Leaf structure and why it matters
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/leaf_structure.jpg">
+
+## Leaves exchange gases
+
+* Leaves of most land plants have pores called stomata
+* Greek = “mouth”
+* Stomata evolved when....
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/stomata.png">
+
+## Stomatal function
+
+* The pore space is bordered by two parenchyma cells called Guard Cells
+* Most plants open stomata during the daytime
+* stomata play a huge role in ecology
+* drive water movement
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/stomata4.jpg">
+
+## Leaf veins
+
+* **Transpiration is a by‐product of opening stomatal pores for photosynthesis**
+* **if water transport is insufficient then leaves begin to dry out** 
+* **stomata will close and photosynthesis ceases**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/leafveins.jpg">
+
+* **leaf vein density (a trait preserved on fossils) evolved during the Cretaceous**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/vein_evolution.jpg">
+
+## Leaf anatomy and economics
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/stomata5.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/vein_density.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/stomata5.jpg">
+
+## What do we do when we are hungry?
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:400px; HEIGHT:400x" SRC="images/hangry.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/fastfood.jpg">
+
+## What do plants do when they are hungry?
+<hr>
+    
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/leaf_solar.jpg">
+
+## What do plants do when they are hungry?
+<hr>
+    
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/candy.png">
+
+## Where does this 'Photosynthetic' magic happen?
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:400px; HEIGHT:400x" SRC="images/chlorplasts.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/chlorplast3.png">
+
+## Light, pigments & green leaves
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:400px; HEIGHT:400x" SRC="images/light_spectrum.jpg">
+
+## When chlorophyll absorbs light, 3 things can happen:
+
+- Auto-fluorescence: heat, release of absorbed energy in the form of light
+
+- ENERGY transfer from one chlorophyll to its neighbor
+
+- ELECTRON transfer to a neighboring electron acceptor
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts_light.png">
+
+## Photosynthesis is the basis for most life on Earth
+
+* Greek = “building with light”
+* Autotroph = “self nourishing”
+* Photoautotroph = “self nourishing with light”
+
+* 95% of plant biomass comes from Photosynthesis!
+
+* Photosynthesis is an energy pathway
+
+
+## Stage 1: Light reactions
+
+#Notes
+* Transform light energy into chemical energy
+* Makes molecules that carry energy (ATP and NADPH) to feed Calvin Cycle.
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/photosystems2.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/photosystems1.png">
+
+## Chlorophyll absorbs light and transfers the energy to photosystems
+
+* Cholorphyll is large molcule with structures to capture light energy
+Two photosystems (they harvest light energy)
+PSII = wavelength 680 
+PSI = wavelength 700
+“Special Pair” of chlorophyll molecules at the core serve as reaction centers
+
+## Stage 2: Dark Reactions (aka Calvin cycle)
+
+molecule from light reaction to transform CO2 and water
+uses Rubisco (enzyme) to capture CO2
+6 molecules of CO^2^ enter the cycle : one moleulce of glucose leaves
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/calvin.png">
+
+## Rubisco - the enzyme that dominates carbon fixation
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/rubsico.png">
+
+* **most important protein in the world, and by FAR the most abundant**
+
+rate of photosynthesis is usually limited not by light but by the availability of carbon dioxide for fixation by RuBisCO
+
+More than 90% of the inorganic carbon that is converted into biomass is fixed by the enzyme RubisCO
+
+large molecule : 16 polypeptides : 8 active sites
+
+## Why does Rubsico suck so bad...
+
+1) Only performs 3 reactions per second: SLOW
+
+2a) Has an error rate of 20% (toxic compunds that inhibit seveal C metabolism enzymes) that gets worse at high temperatures...
+
+2b) Performs carboxylation (addition of CO2) as well as OXYGENATION (addition of O2) due to the fact that the substrate (ribulose 1,5 bisphosphate) attaches to both. 
+
+    + The oxygenation products are completely wasted, which means it takes nearly twice as much energy for a plant to produce the same amount of sugar than if Rubisco just reacted with CO2. 
+
+3) Photorespiration = no ATP
+
+Why?: 
+
+
+## Photosynthesis is complicated....
+
+## c3 Photosynthesis how did we get here...
+
+ evolution doesn't necessarily create the best solution.

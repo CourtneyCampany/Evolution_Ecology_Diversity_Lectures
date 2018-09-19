@@ -1,0 +1,78 @@
+---
+title: "Untitled"
+author: "Court Campany"
+date: "September 19, 2018"
+output: ioslides_presentation
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Review: issues with c3 photosynthesis
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/photorespiration.jepg">
+
+## Why is rubsico so abundat
+
+Is it because it is so damn slow?
+
+
+
+Evolutionary speaking, it's obvious how this defect arose: there was no oxygen on early Earth. But my question is why hasn't evolution fixed this???? What possible reason could there be for conserving this design?
+
+Removing the oxygenation capability breaks rubisco, so any mutation that modifies it is heavily selected against. 
+
+## How we got here
+RubisCO evolved before the first great oxygenation event in an atmosphere without oxygen (O2), so that its mechanism was not constrained by O2. However, with the rise of atmospheric O2 concentrations to modern-day levels, as a result of the second great oxygenation event, RubisCO had to learn to discriminate between CO2 and O2. Because discrimination usually comes at the cost of reduced catalytic rate, a more specific enzymes almost inevitably becomes a slower catalyst
+
+
+## Why isnt rubsico re-evolved?
+
+plants evolved the C-4 mechanism to shift the Calvin Cycle away (either in time or location) from high oxygen.
+
+there is an imaginary RuBisC peak nearby that is higher, but the only way to go to that peak is to go down to lower fitness and then evolve up the next peak, then selection will not favor this course and it is unlikely for you to evolve from RuBisCO to RuBisC.
+
+## C4
+
+certain plants have evolved a mechanism to more efficiently gather carbon dioxide
+
+mesophyll cells at the top, which serves as a carbon dioxide pump to flood RuBisCO in bundle sheath cells and tip the balance in favor of the Calvin Cycle rather than photorespiration.
+
+evolution of a new enzyme, phosphoenolpyruvate carboxlylase (PEP carboxylase or PEPC).
+
+carbon to phosphoenolpyruvate. But rather than attempting to use O=C=O as the substrate, it uses HCO3- (bicarbonate). This is easily distinguished from oxygen gas, and so there is no competitive inhibition and certainly no photorespiration involved with PEPC. This is a very efficient enzyme!
+
+##
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/c4.jpg">
+
+##CAM
+
+In CAM (Crassulacean Acid Metabolism) plants, the C-4 and C-3 reactions are separated in time rather than in space. The mesophyll cells carry out the C-4 reactions at night and the C-3 reactions in the daylight (remember that the C-3 reactions depend completely on the light reactions!).
+
+C-4 reactions operating at night use energy from respiration of the previous day's accumulation of starch to drive the fixation of bicarbonate (dissolved carbon dioxide) into C-4 acids 
+
+HOW?
+The stomata are open at night in these plants to take in the carbon dioxide to convert to bicarbonate (H2O + CO2 → H2CO3 → H+ + HCO3-.
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/cam.jpg">
+
+## Why does this matter to you...
+
+## The fall of RubsicCO
+
+evolution rather tends to work in a tinkering fashion by improving and recombining existing parts and pieces.
+
+completely redesigning photosynthetic carbon metabolism. Some efforts aim at realizing a synthetic photorespiration that would allow for additional CO2 fixation and could cover up for RubisCO's side reaction with O2
+
+c3 - c4
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/c3c4cam.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/c3vsc4.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/ecol_rubisco.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/photorespiration.jepg">
