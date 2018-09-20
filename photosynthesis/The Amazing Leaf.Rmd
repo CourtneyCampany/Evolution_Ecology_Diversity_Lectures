@@ -13,48 +13,62 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:400px; WIDTH:600px; HEIGHT:400x" SRC="images/plantbiomass.png">
+
 ## Leaf structure and why it matters
 <hr>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/leaf_structure.jpg">
 
-## Leaves exchange gases
+## Leaves exchange gases via stomata
+<hr>
 
-* Leaves of most land plants have pores called stomata
-* Greek = “mouth”
-* Stomata evolved when....
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:400px; HEIGHT:400x" SRC="images/stomata.png">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/stomata.png">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:550px; WIDTH:600px; HEIGHT:400x" SRC="images/stomatal_evolution.png">
 
-## Stomatal function
+<div class="footer">Chen et al. 2017. Trends in Plant Science 22: 124-139</div>
 
-* The pore space is bordered by two parenchyma cells called Guard Cells
-* Most plants open stomata during the daytime
-* stomata play a huge role in ecology
-* drive water movement
+## How stomata work...
+<hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/stomata4.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:400x" SRC="images/stomata4a.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:500px; HEIGHT:400x" SRC="images/stomata4b.jpg">
 
 ## Leaf veins
+<hr>
+<br/>
+<br/>
 
-* **Transpiration is a by‐product of opening stomatal pores for photosynthesis**
-* **if water transport is insufficient then leaves begin to dry out** 
-* **stomata will close and photosynthesis ceases**
+<div style="float: right; width: 55%;">
+* **_Transpiration_ is a by‐product of opening stomatal pores**
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/leafveins.jpg">
+<br/>
 
-* **leaf vein density (a trait preserved on fossils) evolved during the Cretaceous**
+* **Water transport needs to be sufficient to keep stomata open** 
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/vein_evolution.jpg">
+<br/>
+
+* **Leaf must invest in H[2]) transport**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:300px; HEIGHT:500x" SRC="images/leafveins.jpg">
+
+## Evolution of leaf vein density
+<hr>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:200px; WIDTH:600px; HEIGHT:300x" SRC="images/vein_evolution.jpg">
 
 ## Leaf anatomy and economics
+<hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/stomata5.jpg">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:250px; WIDTH:400px; HEIGHT:300x" SRC="images/stomata5.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/vein_density.jpg">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/stomata5.jpg">
+<IMG STYLE="position:absolute; TOP:400px; LEFT:200px; WIDTH:600px; HEIGHT:300x" SRC="images/vein_density.jpg">
 
 ## What do we do when we are hungry?
 <hr>
