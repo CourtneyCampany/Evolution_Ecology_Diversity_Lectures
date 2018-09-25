@@ -97,17 +97,17 @@ runtime: shiny
 ## Diversity in plant form via evolution
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:750px; HEIGHT:550px" SRC="images/angioradiation.png">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:750px; HEIGHT:250px" SRC="images/angioradiation.png">
 
 ## Consider global patterns in leaf size from Wright el al. 2017...
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/leafsize.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/leafsize.jpg">
 
 ## How do plants create such dynamic structures?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:800px; HEIGHT:500px" SRC="images/cell_types.png">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:800px; HEIGHT:500px" SRC="images/cell_types.png">
 
 ##Plant tissue systems
 <hr>
@@ -143,35 +143,37 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/xylemphloem2.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:200px; HEIGHT:350px" SRC="images/xylem.jpg">
 
-## How it works: Pressure flow model
+<IMG STYLE="position:absolute; TOP:200px; LEFT:275px; WIDTH:550px; HEIGHT:350px" SRC="images/xylemphloem2.png">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:850px; WIDTH:200px; HEIGHT:200px" SRC="images/phloem.jpg">
+
+## Plant growth
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:125px; LEFT:325px; WIDTH:600px; HEIGHT:300px" SRC="images/xylemphloem1.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:300px; HEIGHT:500px" SRC="images/growth.jpg">
 
-## Woody growth
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:125px; LEFT:175px; WIDTH:500px; HEIGHT:300px" SRC="images/growth.png">
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:400px; WIDTH:400px; HEIGHT:400px" SRC="images/woodgrowth.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/meristem.jpg">
 
 ## Cambium produce secondary growth
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:500px; HEIGHT:400px" SRC="images/vascular_cambium.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:90px; WIDTH:500px; HEIGHT:400px" SRC="images/vascular_cambium.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:585px; WIDTH:400px; HEIGHT:400px" SRC="images/woodgrowth.jpg">
 
 ## Annual growth rings
 <hr>
 <br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/growthrings.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/growthrings.png">
 
-<div style="float: right; width: 45%;">
+<div style="float: right; width: 50%;">
 * **Year after year, plants record everything that happens on the planet**
 
 <br/>
@@ -183,19 +185,16 @@ runtime: shiny
 * **Agreement on solar storms on a global scale!!**
       + Wang et al. 2017. Nature Communications 8:1487
  </div> 
+ 
+## Why do plants look so different?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:225px; WIDTH:650px; HEIGHT:550px" SRC="images/forest.jpg">
       
-## Leaves: What drives such a large phenotypic diversity
+## Classic economic theory applied to plants
 <hr>
-<br/>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:700px; HEIGHT:600px" SRC="images/leaves.jpeg">
-
-## Classic economic theory
-<hr>
-<br/>
-<br/>
-
-<div style="float: left; width: 50%;">
+<div style="float: right; width: 50%;">
 
 * **Investment**
       + storage versus use of photosynthetic products
@@ -205,6 +204,7 @@ runtime: shiny
 * **Marginal cost and revenue **
       + new leaves vs support structures 
       + law of diminishing returns
+      
 <br/>
 
 * **Marginal product**
@@ -216,12 +216,10 @@ runtime: shiny
       + balancing C gain, nutrient use & water loss
  </div>     
       
-<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:300px; HEIGHT:300px" SRC="images/leafdollar.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:300px; HEIGHT:300px" SRC="images/leafdollar.png">
 
 ## Economic strategies drive leaf form and function
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:700px; HEIGHT:600px" SRC="images/spectrum_plantform.jpg">
-
-size of whole plants and their parts; the other represents the leaf economics spectrum, which balances leaf construction costs against growth potential.
+<IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/spectrum_plantform.jpg">

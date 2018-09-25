@@ -13,6 +13,13 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
+## Leaves: What drives such a large phenotypic diversity
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:700px; HEIGHT:600px" SRC="images/leaves.jpeg">
+
 ##
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:400px; WIDTH:600px; HEIGHT:400x" SRC="images/plantbiomass.png">
