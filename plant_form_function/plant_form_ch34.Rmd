@@ -9,11 +9,9 @@ output:
 runtime: shiny
 ---
 
-
 ## About Me
 <hr>
 <br/>
-
 
 ## Are plants as advanced (> or =) as humans?
 <hr>
@@ -21,34 +19,37 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/whatplantsdo.jpg">
 
-##
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lzq-wRHCTKc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-## Wounding triggers transmission of Ca^2+^ to start systemic defense responses
-<hr>
-<br/>
-Toyota et al. 2018. Science 361: 1112-1115.
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:800px; HEIGHT:500px" SRC="images/science_paper.jpg">
-
-## Despite this, how to we view plants in the real world?
+## How do we view plants in the real world?
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:175px; WIDTH:400px; HEIGHT:300px" SRC="images/baby-groot.jpeg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/acacia.jpg">
+
+## How do we view plants in the real world?
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:925px; HEIGHT:350px" SRC="images/acacia2.jpg">
+
+## Plants pull all of this off while...
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:125px; WIDTH:400px; HEIGHT:300px" SRC="images/baby-groot.jpeg">
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:400px; HEIGHT:300px" SRC="images/ent_lor.jpg">
 
-##
+## Plants as sessile organisms
 <hr>
+<br/>
 <br/>
 <br/>
 <br/>
 
 <div style="float: left; width: 50%;">
 
-* **Plants are nearly universally defined by their total inability to move**
+* **Nearly universally defined by their total inability to move**
 
 <br/>
 
@@ -56,17 +57,18 @@ Toyota et al. 2018. Science 361: 1112-1115.
 
 <br/>
 
-* **Humans Couldn't Exist Without Plants?**
+* **Their Darwinian struggle for growth, survival and reproduction in very different arenas has resulted in an extremely wide variety of form and function (Diaz et al 2016)**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:575px; WIDTH:400px; HEIGHT:400px" SRC="images/plantscool.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:400px; HEIGHT:400px" SRC="images/plantscool.png">
 
 ## Themes in plant form
 <hr>
 <br/>
+<br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 38%;">
 
 * **Plants must gather materials to grow**
       + soil
@@ -85,106 +87,69 @@ Toyota et al. 2018. Science 361: 1112-1115.
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:400px; HEIGHT:300px" SRC="images/plantscool.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:325px" SRC="images/raunkiaer.jpg">
 
-## Diversity of shape exists below our feet
+## Diversity in plant form via uptake
 <hr>
-<br/>
-McNear Jr. et al. 2013. 4(3):1
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:800px; HEIGHT:600px" SRC="images/rootsystems1.jpg">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/areavolume.png">
 
-## What drives diversity in plant form?
+## Diversity in plant form via evolution
 <hr>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<div class="centered">
-<strong><span style="color:blue">Why/span></strong></div>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:800px; HEIGHT:400px" SRC="images/areavolume.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:750px; HEIGHT:550px" SRC="images/angioradiation.png">
 
 ## Consider global patterns in leaf size from Wright el al. 2017...
 <hr>
-<br/>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:800px; HEIGHT:600px" SRC="images/rootsystems1.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/leafsize.jpg">
 
-## Also consider evolution...
+## How do plants create such dynamic structures?
 <hr>
-<br/>
-Niklas et al., 1983
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:800px; HEIGHT:400px" SRC="images/angioradiation.png">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:800px; HEIGHT:500px" SRC="images/cell_types.png">
 
-## Diversity of plant cell types form distinct tissues
+##Plant tissue systems
 <hr>
-<br/>
 
-## Complex relationships between roots and plant/ecosystem function
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:600px; HEIGHT:400px" SRC="images/plant_tissues.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:300px; HEIGHT:300px" SRC="images/tissue_structure.jpg">
+
+## Roots and plant/ecosystem function
 <hr>
-<br/>
-**Freschet & Roumet. 2017. Functional Ecology 31: 1506-1518**
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:700px; HEIGHT:500px" SRC="images/root_roles.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/root_roles.jpg">
 
 ## Resonsible for supplying key nutrients & water to plant
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:600px; HEIGHT:400px" SRC="images/rootuptake.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:600px; HEIGHT:300px" SRC="images/rootuptake.jpg">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:400px; HEIGHT:400px" SRC="images/roottip.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/roottip.png">
+
+## Resource availability drives root diversity
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/rootsystems1.jpg">
 
 ## Roots have their own super information highway
 <hr>
-<br/>
 
-**way more than just ancoring trees and absorbing nutrients**
-**huge surface area for absorption, warning signals of fungus/insects, release toxins
-
-<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:800px; HEIGHT:400px" SRC="images/plants-fungi.jpg">
-
-##Plant tissue systems
-<hr>
-<br/>
-<br/>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:125px; WIDTH:500px; HEIGHT:500px" SRC="images/tissue_structure.jpg">
-
-<div style="float: right; width: 50%;">
-
-* **Protect and interact with the environment**
-
-<br/> 
-
-* **Make and store carbohydrates, structure**
-  
-<br/> 
-
-* **Long term transport**
-
-</div>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/plants-fungi.jpg">
 
 ## Vascular tissue system: Moving the good stuff
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:125px; LEFT:325px; WIDTH:300px; HEIGHT:500px" SRC="images/xylemphloem2.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/xylemphloem2.png">
 
 ## How it works: Pressure flow model
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/xylemphloem3.png">
+<IMG STYLE="position:absolute; TOP:125px; LEFT:325px; WIDTH:600px; HEIGHT:300px" SRC="images/xylemphloem1.png">
 
 ## Woody growth
 <hr>
@@ -257,4 +222,6 @@ Niklas et al., 1983
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:700px; HEIGHT:600px" SRC="images/leafeconomics.jpeg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:700px; HEIGHT:600px" SRC="images/spectrum_plantform.jpg">
+
+size of whole plants and their parts; the other represents the leaf economics spectrum, which balances leaf construction costs against growth potential.

@@ -70,6 +70,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:400px; LEFT:200px; WIDTH:600px; HEIGHT:300x" SRC="images/vein_density.jpg">
 
+## Economic strategies drive leaf form and function
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:700px; HEIGHT:600px" SRC="images/leafeconomics.jpeg">
+
+
 ## What do we do when we are hungry?
 <hr>
 <br/>
