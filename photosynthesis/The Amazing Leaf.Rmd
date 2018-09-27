@@ -14,13 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-## Leaves: What drives such a large phenotypic diversity
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:700px; HEIGHT:600px" SRC="images/leaves.jpeg">
-
-##
+## Why are leaves so important?
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:400px; WIDTH:600px; HEIGHT:400x" SRC="images/plantbiomass.png">
 
@@ -59,7 +53,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br/>
 
-* **Leaf must invest in H[2]) transport**
+* **Leaf must invest in H[2]O) transport**
 
 </div>
 
@@ -102,6 +96,26 @@ knitr::opts_chunk$set(echo = FALSE)
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/candy.png">
 
+## Photosynthesis is the basis for most life on Earth
+<hr>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+* Greek = “building with light”
+* Autotroph = “self nourishing”
+* Photoautotroph = “self nourishing with light”
+
+<br/>
+
+* 95% of plant biomass comes from Photosynthesis!
+
+<br/>
+
+* Photosynthesis is an energy pathway
+
+ </div>
+
 ## Where does this 'Photosynthetic' magic happen?
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:400px; HEIGHT:400x" SRC="images/chlorplasts.png">
@@ -115,27 +129,28 @@ knitr::opts_chunk$set(echo = FALSE)
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:400px; HEIGHT:400x" SRC="images/light_spectrum.jpg">
 
 ## When chlorophyll absorbs light, 3 things can happen:
+<hr>
+<br/>
 
-- Auto-fluorescence: heat, release of absorbed energy in the form of light
+<div style="float: left; width: 50%;">
 
-- ENERGY transfer from one chlorophyll to its neighbor
+* **Auto-fluorescence: heat, release of absorbed energy in the form of light**
 
-- ELECTRON transfer to a neighboring electron acceptor
+<br/>
+
+* **ENERGY transfer from one chlorophyll to its neighbor**
+
+<br/>
+
+* **ELECTRON transfer to a neighboring electron acceptor**
+
+ </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts_light.png">
-
-## Photosynthesis is the basis for most life on Earth
-
-* Greek = “building with light”
-* Autotroph = “self nourishing”
-* Photoautotroph = “self nourishing with light”
-
-* 95% of plant biomass comes from Photosynthesis!
-
-* Photosynthesis is an energy pathway
-
-
+ 
 ## Stage 1: Light reactions
+<hr>
+<br/>
 
 #Notes
 * Transform light energy into chemical energy
@@ -146,34 +161,61 @@ knitr::opts_chunk$set(echo = FALSE)
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/photosystems1.png">
 
 ## Chlorophyll absorbs light and transfers the energy to photosystems
+<hr>
+<br/>
 
-* Cholorphyll is large molcule with structures to capture light energy
-Two photosystems (they harvest light energy)
-PSII = wavelength 680 
-PSI = wavelength 700
-“Special Pair” of chlorophyll molecules at the core serve as reaction centers
+* **Cholorphyll is large molcule with structures to capture light energy**
+
+* ***Photosystems harvest light energy**
+      + PSII = wavelength 680 
+      + PSI = wavelength 700
+
+* **Special Pair of chlorophyll molecules at core serve as reaction centers**
 
 ## Stage 2: Dark Reactions (aka Calvin cycle)
+<hr>
+<br/>
 
-molecule from light reaction to transform CO2 and water
-uses Rubisco (enzyme) to capture CO2
-6 molecules of CO^2^ enter the cycle : one moleulce of glucose leaves
+<div style="float: right; width: 50%;">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/calvin.png">
+* **molecules from light reaction to transform CO~2~ and water**
+
+<br/>
+
+* **uses Rubisco (enzyme) to capture CO~2~**
+
+<br/>
+
+* **6 molecules of CO~2~ enter the cycle : one moleulce of glucose leaves**
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:450px; HEIGHT:450x" SRC="images/calvin.png">
 
 ## Rubisco - the enzyme that dominates carbon fixation
+<hr>
+<br/>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/rubsico.png">
 
+<div style="float: right; width: 50%;">
+
 * **most important protein in the world, and by FAR the most abundant**
 
-rate of photosynthesis is usually limited not by light but by the availability of carbon dioxide for fixation by RuBisCO
+<br/>
 
-More than 90% of the inorganic carbon that is converted into biomass is fixed by the enzyme RubisCO
+* **>90% of the inorganic carbon converted into biomass is fixed by RubisCO**
 
-large molecule : 16 polypeptides : 8 active sites
+<br/>
 
+* **large molecule : 16 polypeptides : 8 active sites**
+
+</div>
+ 
 ## Why does Rubsico suck so bad...
+<hr>
+<br/>
+
+* **photosynthesis is usually limited not by light but by the availability of carbon dioxide for fixation by RuBisCO
 
 1) Only performs 3 reactions per second: SLOW
 
@@ -181,7 +223,7 @@ large molecule : 16 polypeptides : 8 active sites
 
 2b) Performs carboxylation (addition of CO2) as well as OXYGENATION (addition of O2) due to the fact that the substrate (ribulose 1,5 bisphosphate) attaches to both. 
 
-    + The oxygenation products are completely wasted, which means it takes nearly twice as much energy for a plant to produce the same amount of sugar than if Rubisco just reacted with CO2. 
+  + The oxygenation products are completely wasted, which means it takes nearly twice as much energy for a plant to produce the same amount of sugar than if Rubisco just reacted with CO2. 
 
 3) Photorespiration = no ATP
 
@@ -189,7 +231,11 @@ Why?:
 
 
 ## Photosynthesis is complicated....
+<hr>
+<br/>
 
 ## c3 Photosynthesis how did we get here...
+<hr>
+<br/>
 
- evolution doesn't necessarily create the best solution.
+* **Evolution doesn't necessarily create the best solution**
