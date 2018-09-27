@@ -1,0 +1,242 @@
+---
+title: "The Amazing Leaf"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:325px; WIDTH:400px; HEIGHT:6000x" SRC="images/plantbiomass.png">
+
+## Leaf structure and why it matters
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/leaf_structure.jpg">
+
+## Leaves exchange gases via stomata
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:400x" SRC="images/stomata.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:350px; HEIGHT:450x" SRC="images/stomatal_evolution.jpg">
+
+
+## How stomata work...
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:400x" SRC="images/stomata4a.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:500px; HEIGHT:400x" SRC="images/stomata4b.jpg">
+
+## Leaf veins
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 55%;">
+* **_Transpiration_ is a by‐product of opening stomatal pores**
+
+<br/>
+
+* **Water transport needs to be sufficient to keep stomata open** 
+
+<br/>
+
+* **Leaf must invest in H[2]O) transport**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:275px; HEIGHT:400x" SRC="images/leafveins.jpg">
+
+## Evolution of leaf vein density
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:400x" SRC="images/vein_evolution.jpg">
+
+## Leaf anatomy and economics
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:300px; WIDTH:400px; HEIGHT:300x" SRC="images/stomata5.jpg">
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:250px; WIDTH:600px; HEIGHT:300x" SRC="images/vein_density.jpg">
+
+## Economic strategies drive leaf form and function
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/leafeconomics.jpeg">
+
+## What do we do when we are hungry?
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:400px; HEIGHT:350x" SRC="images/hangry.png">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/fastfood.jpg">
+
+## What do plants do when they are hungry?
+<hr>
+    
+<IMG STYLE="position:absolute; TOP:300px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/candy.png">
+
+## Photosynthesis is the basis for most life on Earth
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 55%;">
+
+* **Greek = “building with light”**
+* **Autotroph = “self nourishing”**
+* **Photoautotroph = “self nourishing with light”**
+
+<br/>
+
+* **95% of plant biomass comes from Photosynthesis!**
+
+<br/>
+
+* **Photosynthesis is an energy pathway**
+
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450x" SRC="images/leaf_solar.jpg">
+
+## Photosynthesis is complicated....
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:525px; HEIGHT:525x" SRC="images/scholar.jpg">
+
+## Where does this 'Photosynthetic' magic happen?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts3.png">
+
+## Light, pigments & green leaves
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:500px; HEIGHT:500x" SRC="images/light_spectrum.jpg">
+
+## When chlorophyll absorbs light, 3 things can happen:
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Auto-fluorescence: heat, release of absorbed energy in the form of light**
+
+<br/>
+
+* **ENERGY transfer from one chlorophyll to its neighbor**
+
+<br/>
+
+* **ELECTRON transfer to a neighboring electron acceptor**
+
+ </div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts_light.png">
+ 
+## Stage 1: Light reactions
+<hr>
+<br/>
+
+* Transform light energy into chemical energy
+* Makes molecules that carry energy (ATP and NADPH) to feed Calvin Cycle.
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:100px; WIDTH:400px; HEIGHT:400x" SRC="images/photosystems2.png">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:300px; HEIGHT:300x" SRC="images/photosystems.png">
+
+## Chlorophyll absorbs light and transfers the energy to photosystems
+<hr>
+<br/>
+
+* **Cholorphyll is large molcule with structures to capture light energy**
+
+* ***Photosystems harvest light energy**
+      + PSII = wavelength 680 
+      + PSI = wavelength 700
+
+* **Special Pair of chlorophyll molecules at core serve as reaction centers**
+
+## Stage 2: Dark Reactions (aka Calvin cycle)
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+* **molecules from light reaction to transform CO~2~ and water**
+
+<br/>
+
+* **uses Rubisco (enzyme) to capture CO~2~**
+
+<br/>
+
+* **6 molecules of CO~2~ enter the cycle : one moleulce of glucose leaves**
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:450px; HEIGHT:450x" SRC="images/calvin.jpg">
+
+## Rubisco - the enzyme that dominates carbon fixation
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:400px; HEIGHT:400x" SRC="images/rubisco.jpg">
+
+<div style="float: right; width: 50%;">
+
+* **most important protein in the world, and by FAR the most abundant**
+
+<br/>
+
+* **>90% of the inorganic carbon converted into biomass is fixed by RubisCO**
+
+<br/>
+
+* **large molecule : 16 polypeptides : 8 active sites**
+
+</div>
+
+## Why does Rubsico suck so bad...
+<hr>
+<br/>
+
+* **photosynthesis is usually limited  the availability of CO_2_ for fixation by RuBisCO
+
+1) Only performs 3 reactions per second: SLOW
+
+2a) Has an error rate of 20% (toxic compunds that inhibit seveal C metabolism enzymes) that gets worse at high temperatures...
+
+2b) Performs carboxylation (addition of CO_2_) as well as OXYGENATION (addition of O_2_) due to the fact that the substrate (ribulose 1,5 bisphosphate) attaches to both. 
+
+3) Photorespiration = no ATP
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/photo.jpg">
+
+<IMG STYLE="position:absolute; TOP:650px; LEFT:100px; WIDTH:200px; HEIGHT:200x" SRC="images/rubisco2.jpg">
+
+## C3 photosynthesis how did we get here...
+<hr>
+<br/>
+
+* **Evolution doesn't necessarily create the best solution**
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:300px; WIDTH:600px; HEIGHT:400x" SRC="images/photorespiration.jpeg">
+
+* **Oxygenation products are completely wasted, which means it takes nearly twice as much energy for a plant to produce the same amount of sugar than if Rubisco just reacted with CO2**
+ 
