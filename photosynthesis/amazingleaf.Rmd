@@ -58,9 +58,9 @@ runtime: shiny
 ## Evolution of leaf vein density
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:800px; HEIGHT:400x" SRC="images/vein_evolution.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:400x" SRC="images/vein_evolution.jpg">
 
-## Leaf anatomy and economics
+## Leaf structure and economics
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:325px; WIDTH:400px; HEIGHT:300x" SRC="images/stomata5.jpg">
@@ -71,13 +71,13 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/leafeconomics.jpeg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:900px; HEIGHT:400px" SRC="images/leafeconomics.jpeg">
 
 ## What do we do when we are hungry?
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:400px; HEIGHT:300x" SRC="images/hangry.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:400px; HEIGHT:250x" SRC="images/hangry.png">
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/fastfood.jpg">
 
@@ -114,14 +114,14 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:550px; HEIGHT:550px" SRC="images/scholar.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:500px; HEIGHT:500px" SRC="images/scholar.jpg">
 
 ## Where does this 'Photosynthetic' magic happen?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts.png">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts3.png">
+<IMG STYLE="position:absolute; TOP:260px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts3.png">
 
 ## Light, pigments & green leaves
 <hr>
@@ -151,48 +151,38 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:610px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts_light.png">
  
-## Stage 1: Light reactions
+## Light reactions: make ATP + NADPH for Calvin cycle
 <hr>
 <br/>
 
-* Transform light energy into chemical energy
-* Makes molecules that carry energy (ATP and NADPH) to feed Calvin Cycle.
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:400x" SRC="images/photosystems2.png">
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:100px; WIDTH:800px; HEIGHT:400x" SRC="images/photosystems2.png">
-
-## Chlorophyll absorbs light and transfers the energy to photosystems
+## Light reactions: make ATP + NADPH for Calvin cycle
 <hr>
 <br/>
 
-* **Cholorphyll is large molcule with structures to capture light energy**
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:500px; HEIGHT:500x" SRC="images/lightreaction4.png">
 
-* ***Photosystems harvest light energy**
-      + PSII = wavelength 680 
-      + PSI = wavelength 700
+## Light energy to chemical energy 
+<hr>
+<br/>
 
-* **Special Pair of chlorophyll molecules at core serve as reaction centers**
+transfer of electorns in energetically downhill
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:300px; HEIGHT:300x" SRC="images/photosystems.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/lightreaction3.png">
 
 ## Stage 2: Dark Reactions (aka Calvin cycle)
 <hr>
-<br/>
-<br/>
 
-<div style="float: right; width: 50%;">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:450px; HEIGHT:450px" SRC="images/photosynthesis.jpg">
 
-* **molecules from light reaction to transform CO~2~ and water**
 
-<br/>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin.jpg">
 
-* **uses Rubisco (enzyme) to capture CO~2~**
+## Glucose
+<hr>
 
-<br/>
-
-* **6 molecules of CO~2~ enter the cycle : one moleulce of glucose leaves**
- </div>
- 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:450px; HEIGHT:450x" SRC="images/calvin.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:450px; HEIGHT:450px" SRC="images/equation2.png">
 
 ## Rubisco - the enzyme that dominates carbon fixation
 <hr>
@@ -200,7 +190,7 @@ runtime: shiny
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:400x" SRC="images/rubisco.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/rubisco.jpg">
 
 <div style="float: right; width: 50%;">
 
@@ -243,4 +233,6 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:350px; LEFT:300px; WIDTH:600px; HEIGHT:400x" SRC="images/photorespiration.jpeg">
 
 * **Oxygenation products are completely wasted, which means it takes nearly twice as much energy for a plant to produce the same amount of sugar than if Rubisco just reacted with CO2**
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:300px; HEIGHT:300x" SRC="images/photosystems.png">
  
