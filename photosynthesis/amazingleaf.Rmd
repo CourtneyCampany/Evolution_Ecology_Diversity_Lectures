@@ -38,8 +38,9 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
+<br/>
 
-<div style="float: right; width: 55%;">
+<div style="float: right; width: 65%;">
 * **_Transpiration_ is a by‐product of opening stomatal pores**
 
 <br/>
@@ -48,23 +49,23 @@ runtime: shiny
 
 <br/>
 
-* **Leaf must invest in H[2]O) transport**
+* **Leaf must invest in H~2~O transport**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:275px; HEIGHT:400x" SRC="images/leafveins.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:80px; WIDTH:275px; HEIGHT:400x" SRC="images/leafveins.jpg">
 
 ## Evolution of leaf vein density
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:400x" SRC="images/vein_evolution.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:800px; HEIGHT:400x" SRC="images/vein_evolution.jpg">
 
 ## Leaf anatomy and economics
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:300px; WIDTH:400px; HEIGHT:300x" SRC="images/stomata5.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:325px; WIDTH:400px; HEIGHT:300x" SRC="images/stomata5.jpg">
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:250px; WIDTH:600px; HEIGHT:300x" SRC="images/vein_density.jpg">
+<IMG STYLE="position:absolute; TOP:425px; LEFT:250px; WIDTH:600px; HEIGHT:300x" SRC="images/vein_density.jpg">
 
 ## Economic strategies drive leaf form and function
 <hr>
@@ -76,7 +77,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:400px; HEIGHT:350x" SRC="images/hangry.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:400px; HEIGHT:300x" SRC="images/hangry.png">
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/fastfood.jpg">
 
@@ -91,7 +92,7 @@ runtime: shiny
 <br/>
 <br/>
 
-<div style="float: right; width: 55%;">
+<div style="float: right; width: 50%;">
 
 * **Greek = “building with light”**
 * **Autotroph = “self nourishing”**
@@ -99,7 +100,7 @@ runtime: shiny
 
 <br/>
 
-* **95% of plant biomass comes from Photosynthesis!**
+* **95% of plant biomass comes from photosynthesis**
 
 <br/>
 
@@ -107,20 +108,20 @@ runtime: shiny
 
  </div>
  
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450x" SRC="images/leaf_solar.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400x" SRC="images/leaf_solar.jpg">
 
 ## Photosynthesis is complicated....
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:525px; HEIGHT:525x" SRC="images/scholar.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:550px; HEIGHT:550px" SRC="images/scholar.jpg">
 
 ## Where does this 'Photosynthetic' magic happen?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts.png">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts3.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts3.png">
 
 ## Light, pigments & green leaves
 <hr>
@@ -132,10 +133,11 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
+<br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 55%;">
 
-* **Auto-fluorescence: heat, release of absorbed energy in the form of light**
+* **FLUORESCENCE: release of absorbed energy by light & heat**
 
 <br/>
 
@@ -147,7 +149,7 @@ runtime: shiny
 
  </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts_light.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:610px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts_light.png">
  
 ## Stage 1: Light reactions
 <hr>
@@ -156,9 +158,7 @@ runtime: shiny
 * Transform light energy into chemical energy
 * Makes molecules that carry energy (ATP and NADPH) to feed Calvin Cycle.
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:100px; WIDTH:400px; HEIGHT:400x" SRC="images/photosystems2.png">
-
-<IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:300px; HEIGHT:300x" SRC="images/photosystems.png">
+<IMG STYLE="position:absolute; TOP:400px; LEFT:100px; WIDTH:800px; HEIGHT:400x" SRC="images/photosystems2.png">
 
 ## Chlorophyll absorbs light and transfers the energy to photosystems
 <hr>
@@ -171,6 +171,8 @@ runtime: shiny
       + PSI = wavelength 700
 
 * **Special Pair of chlorophyll molecules at core serve as reaction centers**
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:300px; HEIGHT:300x" SRC="images/photosystems.png">
 
 ## Stage 2: Dark Reactions (aka Calvin cycle)
 <hr>
@@ -195,16 +197,18 @@ runtime: shiny
 ## Rubisco - the enzyme that dominates carbon fixation
 <hr>
 <br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:400px; HEIGHT:400x" SRC="images/rubisco.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:400x" SRC="images/rubisco.jpg">
 
 <div style="float: right; width: 50%;">
 
-* **most important protein in the world, and by FAR the most abundant**
+* **Most abundant protein in the world**
 
 <br/>
 
-* **>90% of the inorganic carbon converted into biomass is fixed by RubisCO**
+* **Most inorganic carbon converted into biomass is fixed by Rubisco**
 
 <br/>
 
@@ -228,7 +232,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/photo.jpg">
 
-<IMG STYLE="position:absolute; TOP:650px; LEFT:100px; WIDTH:200px; HEIGHT:200x" SRC="images/rubisco2.jpg">
+<IMG STYLE="position:absolute; TOP:450px; LEFT:100px; WIDTH:200px; HEIGHT:200x" SRC="images/rubisco2.jpg">
 
 ## C3 photosynthesis how did we get here...
 <hr>
