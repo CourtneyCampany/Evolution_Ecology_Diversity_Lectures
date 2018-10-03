@@ -1,41 +1,65 @@
 ---
-title: "Untitled"
-author: "Court Campany"
-date: "September 19, 2018"
-output: ioslides_presentation
+title: "Photosynthesis and plant nutrition"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
 runtime: shiny
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-
 ## Review: issues with c3 photosynthesis
+<hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/photorespiration.jepg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/photorespiration.jpeg">
 
-## Why is rubsico so abundat
+## How did we get here?
+<hr>
 
-Is it because it is so damn slow?
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/evolution_rubsico.jpg">
+
+## How did we get here? (slow = abundant)
 
 
+## Has rubsico evolved?
+<hr>
 
-Evolutionary speaking, it's obvious how this defect arose: there was no oxygen on early Earth. But my question is why hasn't evolution fixed this???? What possible reason could there be for conserving this design?
-
-Removing the oxygenation capability breaks rubisco, so any mutation that modifies it is heavily selected against. 
-
-## How we got here
 RubisCO evolved before the first great oxygenation event in an atmosphere without oxygen (O2), so that its mechanism was not constrained by O2. However, with the rise of atmospheric O2 concentrations to modern-day levels, as a result of the second great oxygenation event, RubisCO had to learn to discriminate between CO2 and O2. Because discrimination usually comes at the cost of reduced catalytic rate, a more specific enzymes almost inevitably becomes a slower catalyst
 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:450px; HEIGHT:450px" SRC="images/evol_rubisco.jpg">
 
-## Why isnt rubsico re-evolved?
+## Why hasnt rubsico been replaced?
+<hr>
+
+Removing the oxygenation capability breaks rubisco, so any mutation that modifies it is heavily selected against. 
 
 plants evolved the C-4 mechanism to shift the Calvin Cycle away (either in time or location) from high oxygen.
 
 there is an imaginary RuBisC peak nearby that is higher, but the only way to go to that peak is to go down to lower fitness and then evolve up the next peak, then selection will not favor this course and it is unlikely for you to evolve from RuBisCO to RuBisC.
 
+## How to fix photosynthesis.....
+<hr>
+
+evolution rather tends to work in a tinkering fashion by improving and recombining existing parts and pieces.
+
+Plants have evolved multiple photosynthetic pathways in response to low CO2 concentrations, high temperatures, and limitations in the availability of water. This physiological variation is combined with many other morphological and anatomical adaptations to allow plants to exploit a wide variety of aquatic and terrestrial habitats around the world.
+
+## The fall of RubsicCO : C4 photosynthesis
+<hr>
+
+
+
+
+
+c3 - c4
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/c3c4cam.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/c3vsc4.jpg">
+
 ## C4
+<hr>
 
 certain plants have evolved a mechanism to more efficiently gather carbon dioxide
 
@@ -45,10 +69,21 @@ evolution of a new enzyme, phosphoenolpyruvate carboxlylase (PEP carboxylase or 
 
 carbon to phosphoenolpyruvate. But rather than attempting to use O=C=O as the substrate, it uses HCO3- (bicarbonate). This is easily distinguished from oxygen gas, and so there is no competitive inhibition and certainly no photorespiration involved with PEPC. This is a very efficient enzyme!
 
-##
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/c4.jpg">
 
+## C4 plants
+<hr>
+
+regeneration of PEP in the C4 pathway (Figure 4) leads to higher costs for ATP than in the C3 pathway. ATP for photosynthetic biochemistry is supplied by the light reactions. The extra cost of C4 biochemistry is a disadvantage where low light occurs, as found in inner-canopy competitive situations in cool, wet forests. It is rare to find C4 plants in such environments.
+
+These plants are specially adapted to thrive in hot and dry environments,
+
+Rubisco works much faster and they are more tolerant to heat and drought through better water use efficiency
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/c4_distribution.jpg">
+
 ##CAM
+<hr>
 
 In CAM (Crassulacean Acid Metabolism) plants, the C-4 and C-3 reactions are separated in time rather than in space. The mesophyll cells carry out the C-4 reactions at night and the C-3 reactions in the daylight (remember that the C-3 reactions depend completely on the light reactions!).
 
@@ -57,26 +92,126 @@ C-4 reactions operating at night use energy from respiration of the previous day
 HOW?
 The stomata are open at night in these plants to take in the carbon dioxide to convert to bicarbonate (H2O + CO2 → H2CO3 → H+ + HCO3-.
 
+ 
+
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/cam.jpg">
 
+# CAM plants
+<hr>
+
+CAM photosynthesis is found in more than 7% of vascular plant species, and has evolved independently several times
+
+CAM plants is that they often have low photosynthetic capacity, slow growth, and low competitive abilities
+
+Distribution patterns for CAM plants reflect this and are dominated by habitat aridity. Water storing cacti are adapted to enduring long periods with no precipitation.
+
+ tropical environments. Epiphytes are plants that do not have their roots in the ground but instead grow on other plants (primarily trees)
+
 ## Why does this matter to you...
+<hr>
 
-Global water use is set to triple by 2050, with 70% attributed to the agriculture sector and around 50% transpired through stomatal pores
+<div style="float: right; width: 50%;">
+* **C4 plants are economically important**
+    + corn, sugarcane, sorghum & switchgrass
 
-crop plants so as to sustain or increase yield with less water.
+<br/>
 
-## The fall of RubsicCO
+* **However, lots of crops are C3**
+    + beans, rice, wheat, potatoes (temperate crops)
 
-evolution rather tends to work in a tinkering fashion by improving and recombining existing parts and pieces.
+<br/>
 
-completely redesigning photosynthetic carbon metabolism. Some efforts aim at realizing a synthetic photorespiration that would allow for additional CO2 fixation and could cover up for RubisCO's side reaction with O2
+* **Global water use is set to triple by 2050**
+    + 70%  to the agriculture sector
+    + 50% transpired through stomatal pores
 
-c3 - c4
+<br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/c3c4cam.jpg">
+* **?What does this mean?**
+</div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/c3vsc4.jpg">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:200px; WIDTH:700px; HEIGHT:400x" SRC="images/dry_corn.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/ecol_rubisco.jpg">
+## 
+<IMG STYLE="position:absolute; TOP:300px; LEFT:200px; WIDTH:700px; HEIGHT:400x" SRC="images/crops.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/photorespiration.jepg">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:200px; WIDTH:700px; HEIGHT:400x" SRC="images/crops2.jpg">
+
+## Can science TUNE photosynthesis?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:600px; HEIGHT:400x" SRC="images/rubsico_fix.jpg">
+
+<div style="float: right; width: 50%;">
+
+* **Increasing efficient Rubsico in C4 crops**
+
+<br/>
+
+* **Redesigning photosynthesis to cover up for RubisCO's side reaction with O2**
+
+<br/>
+
+* **Turning C3 crops to C4...**
+    + https://c4rice.com/
+
+</div>
+
+
+## What limits plant growth and survival?
+<hr>
+
+* ASK* light, water, CO2, nutrients
+
+* How do you test this?
+
+## Plants cannot live on sugar alone
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:600px; HEIGHT:400x" SRC="images/tree.jpg">
+
+## Nutrients
+
+## N - P - K
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:400px; HEIGHT:400x" SRC="images/npk.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/npk2.jpeg">
+
+
+
+## Low concentrations in soil
+
+
+
+## PLants use passive and active uptake systems
+
+## Cool plant adaptations
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:600px; HEIGHT:400x" SRC="images/otherplants.jpg">
+
+
+## Plant cognition
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; left: 50%;">
+
+* **Do plants sense their environment?**
+    + changes in essential nutrients
+
+<br/>
+
+* **If so, what do they do about it?**
+    + selectively adapt to the resources which are available
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:400px; WIDTH:400px; HEIGHT:400x" SRC="images/brains.jpg">
+
+#
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GCRNHdGXTi4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
