@@ -1,0 +1,203 @@
+---
+title: "Photosynthesis, past and present"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Review: Issues with C3 photosynthesis
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/photorespiration.jpeg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:75px; WIDTH:800px; HEIGHT:600px" SRC="images/evolution_rubisco.jpg">
+
+## Has rubsico evolved?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:700px; HEIGHT:500px" SRC="images/evol_rubisco.jpg">
+
+## Why hasnt rubsico been replaced?
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+* **Evolution of enzymes is subject to strong biophysical constraints**
+      + tradeoffs between activity and stability
+ 
+ <br/>
+ 
+* **Removing the oxygenation capability breaks rubisco**
+      + heavy selection against modifying mutations
+
+<br/>
+
+* **RubisCO → RubisC**
+    + requires a decrease in fitness 
+    + Studer et al. 2014
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/rubisco_mutations.jpg">
+
+## Evolution has tinkered with photosynthesis
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:100px; WIDTH:400px; HEIGHT:200px" SRC="images/c3c4cam.jpg">
+
+<div style="float: right; width: 50%;">
+
+* **Improved and recombed existing parts and pieces**
+ 
+<br/>
+
+* **In response environmental change**
+      + low CO_2_ concentrations 
+      + high temperatures 
+      + water limitations 
+
+<br/>
+
+* **Allowed plants to exploit new habitats**
+</div>
+
+## Evolution of C4 photosynthesis
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+* **C4 mechanism shifts the Calvin Cycle away from high O_2_**
+
+<br/>
+
+* **Mesophyll cells @ top a CO_2_ pump**
+      + flood RuBisCO in bundle sheath cells with CO_2_
+
+<br/>
+
+* **New enzyme evolved, phosphoenolpyruvate carboxlylase (PEPC)**
+      + uses HCO_3-_ (bicarbonate) as substrate
+      + no affinity for O_2_
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4.jpg">
+
+## 
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 55%;">
+
+* **Regeneration of PEP expensive (ATP)**
+ 
+<br/>
+ 
+* **Where is ATP generated?**
+
+<br/>
+
+* **Where should C4 plants live**
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:600px; HEIGHT:450px" SRC="images/c3vsc4.jpg">
+
+##
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:825px; HEIGHT:600px" SRC="images/c4_distribution.jpg">
+
+## CAM (Crassulacean Acid Metabolism) plants
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/cam2.png">
+
+## Yes we CAM!!
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:300px; HEIGHT:450px" SRC="images/cam_plants.jpeg">
+
+
+<div style="float: left; width: 50%;">
+* **CAM photosynthesis evolved independently several times**
+
+<br/>
+
+* **Exist in arid environments or habitats**
+      + cacti
+      + epiphytes
+
+<br/>
+
+* **Are cam plants fast or slow growing?**
+</div>
+
+
+## Why does this matter to you...
+<hr>
+<br/>
+
+<div style="float: right; width: 50%;">
+* **C4 plants are economically important**
+    + corn, sugarcane, sorghum & switchgrass
+
+<br/>
+
+* **Lots of crops are also C3**
+    + beans, rice, wheat, potatoes (temperate crops)
+
+<br/>
+
+* **Global water use is set to triple by 2050**
+    + 70%  to the agriculture sector
+    + 50% transpired through stomatal pores
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/dry_corn.jpg">
+
+## 
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/crops.jpg">
+
+<!-- <IMG STYLE="position:absolute; TOP:300px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/crops2.jpg"> -->
+
+## Can science TUNE photosynthesis?
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:500px; HEIGHT:300px" SRC="images/rubsico_fix.jpg">
+
+<div style="float: left; width: 40%;">
+
+* **↑ efficiency of Rubsico in C4 crops**
+
+<br/>
+
+* **Redesign to mask RubisCO's side reaction with O2**
+
+<br/>
+
+* **Turning C3 crops to C4...**
+    + https://c4rice.com/
+
+</div>
+
+
+## Notes
+RubisCO evolved before the first great oxygenation event in an atmosphere without oxygen (O2), so that its mechanism was not constrained by O2. However, with the rise of atmospheric O2 concentrations to modern-day levels, as a result of the second great oxygenation event, RubisCO had to learn to discriminate between CO2 and O2. Because discrimination usually comes at the cost of reduced catalytic rate, a more specific enzymes almost inevitably becomes a slower catalyst
+
+* **C-4 and C-3 reactions are separated in time**

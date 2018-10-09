@@ -1,0 +1,164 @@
+---
+title: "Plant environmental physiology"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Defenses
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lzq-wRHCTKc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Wounding triggers transmission of Ca^2+^ to start systemic defense responses
+<hr>
+<br/>
+Toyota et al. 2018. Science 361: 1112-1115.
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:800px; HEIGHT:500px" SRC="images/science_paper.jpg">
+
+
+## Source & Sink
+
+
+
+## Mass Flow
+<IMG STYLE="position:absolute; TOP:75px; LEFT:300px; WIDTH:500px; HEIGHT:700px" SRC="images/xylemphloem1.png">
+
+
+## Water movement and VPD
+
+
+
+## What limits plant growth and survival?
+<hr>
+
+* ASK* light, water, CO2, nutrients
+
+* How do you test this?
+
+## Plants cannot live on sugar alone
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:600px; HEIGHT:400px" SRC="images/tree.jpg">
+
+## Nutrients
+
+## N - P - K
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:400px; HEIGHT:400px" SRC="images/npk.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/npk2.jpeg">
+
+
+
+## Low concentrations in soil
+
+
+
+## PLants use passive and active uptake systems
+
+## Cool plant adaptations
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:600px; HEIGHT:400px" SRC="images/otherplants.jpg">
+
+
+## Plant cognition
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; left: 50%;">
+
+* **Do plants sense their environment?**
+    + changes in essential nutrients
+
+<br/>
+
+* **If so, what do they do about it?**
+    + selectively adapt to the resources which are available
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:400px; WIDTH:400px; HEIGHT:400px" SRC="images/brains.jpg">
+
+##
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GCRNHdGXTi4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+## How water moves through a plant
+
+## Ecosystem Water Movements: Soil to Roots
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/rootwater.jpg">
+
+## Ecosystem Water Movements: Soil to Roots
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/root_water_uptake.png">
+
+## Rhizosphere and Deep Roots
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/root_water_uptake2.png">
+
+## Soil Refilling - Hydraullic Lift
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/soilrefilling.png">
+
+## Water Movements through Plants
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/spad_water.jpg">
+
+## Water movement: Stems
+<hr>
+<br />
+<br />
+<br />
+
+* **Root pressure**
+ 
+ <br />
+ 
+* **Transpiration pull**
+ 
+ <br />
+ 
+* **Capillary movement**
+
+<br />
+
+* **Xylem tissues, Sapwood area, Cavitation**
+ 
+ <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:400px; HEIGHT:350px" SRC="images/stemwater.jpg">
+ 
+## Xylem Cavitation
+<hr>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/uWL0EoZh09w?start=145" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Water movement: Leaves
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/gs_vpd.gif">
+
+## Ecosystem water movement: State Factors
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plantwater_state.png">
+
+
+## How does a plant respond to stress
+
+## Bugs
+
+## Drought
+
+##
