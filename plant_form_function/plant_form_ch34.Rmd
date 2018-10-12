@@ -24,7 +24,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/acacia.jpg">
+<IMG STYLE="position:absolute; TOP:185px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/acacia.jpg">
 
 ## How do we view plants in the real world?
 <hr>
@@ -49,7 +49,7 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 
-* **Nearly universally defined by their total inability to move**
+* **Mostly defined by their total inability to move**
 
 <br/>
 
@@ -70,7 +70,7 @@ runtime: shiny
 
 <div style="float: left; width: 38%;">
 
-* **Plants must gather materials to grow**
+* **Plants gather materials to grow**
       + soil
       + atmosphere
       + materials can be limiting
@@ -97,9 +97,9 @@ runtime: shiny
 ## Diversity in plant form via evolution
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:750px; HEIGHT:250px" SRC="images/angioradiation.png">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:175px; WIDTH:750px; HEIGHT:250px" SRC="images/angioradiation.png">
 
-## Consider global patterns in leaf size from Wright el al. 2017...
+## Diveristy in plant form via environment
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/leafsize.jpg">
@@ -107,7 +107,7 @@ runtime: shiny
 ## How do plants create such dynamic structures?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:800px; HEIGHT:500px" SRC="images/cell_types.png">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/cell_types.png">
 
 ##Plant tissue systems
 <hr>
@@ -116,7 +116,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:300px; HEIGHT:300px" SRC="images/tissue_structure.jpg">
 
-## Roots and plant/ecosystem function
+## Roots and and plant function
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/root_roles.jpg">
@@ -132,7 +132,7 @@ runtime: shiny
 ## Resource availability drives root diversity
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/rootsystems1.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/rootsystems1.jpg">
 
 ## Roots have their own super information highway
 <hr>
@@ -174,22 +174,23 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/growthrings.png">
 
 <div style="float: right; width: 50%;">
-* **Year after year, plants record everything that happens on the planet**
+* **Plants record everything that happens on the planet**
 
 <br/>
 
-* **Complete cycle of seasons: recording atmospheric conditions**
+* **Complete cycle of seasons**
+        + record atmospheric conditions
 
 <br/>
 
-* **Agreement on solar storms on a global scale!!**
+* **Agreement on solar storms on a global scale!**
       + Wang et al. 2017. Nature Communications 8:1487
  </div> 
  
 ## Why do plants look so different?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:225px; WIDTH:650px; HEIGHT:550px" SRC="images/forest.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/forest.jpg">
       
 ## Classic economic theory applied to plants
 <hr>
@@ -222,4 +223,4 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/spectrum_plantform.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/spectrum_plantform.jpg">

@@ -93,12 +93,23 @@ Toyota et al. 2018. Science 361: 1112-1115.
 
 ## How water moves through a plant
 
-## Ecosystem Water Movements: Soil to Roots
+* **Cohesion tension theory**
+
+Cohesion: H20 stick to other H20 molecules
+    + via H bonds
+    
+Adhension: water sticks to non water moelcules
+    + via h bonds
+    + stick to sides of plant vascular tissue
+    
+<IMG STYLE="position:absolute; TOP:250px; LEFT:400px; WIDTH:400px; HEIGHT:400px" SRC="images/water_drop.jpg">
+
+## Water Movements: Soil to Roots
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/rootwater.jpg">
 
-## Ecosystem Water Movements: Soil to Roots
+## Water Movements: Soil to Roots
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/root_water_uptake.png">
@@ -117,6 +128,11 @@ Toyota et al. 2018. Science 361: 1112-1115.
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/spad_water.jpg">
+
+notes : air has more empty space to hold water vapor thatn a ligquid (tree sap)
+occurs until around 95% humidity
+
+transpiration: air pulls water out when stomata are open, water molecule hang onto each other tightly
 
 ## Water movement: Stems
 <hr>
@@ -149,11 +165,24 @@ Toyota et al. 2018. Science 361: 1112-1115.
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/gs_vpd.gif">
 
-## Ecosystem water movement: State Factors
+## Are there limits to moving water?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plantwater_state.png">
+* **Transpirational pull ... how long of a straw?**
 
+* **GRAVITY**
+      + plant growth < 350-400ft
+      + H_2_O doesnt move straight up
+      
+* **Negative osmotic pressure with zig zag motion**
+      + cheats gravity a little bit
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/redwood.jpg">
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/vessels_pits.jpg">
+
+notes: capliiarry action
+tubes provide a little extra leverage and tension relief every time they direct the water column the least bit to the side instead of straight up
 
 ## How does a plant respond to stress
 
