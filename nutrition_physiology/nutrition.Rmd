@@ -43,6 +43,8 @@ runtime: shiny
 
 * **A few are often limiting**
 
+ </div> 
+ 
 ## N - P - K
 <hr>
 

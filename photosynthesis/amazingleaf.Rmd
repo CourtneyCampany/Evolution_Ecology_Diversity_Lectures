@@ -167,7 +167,7 @@ runtime: shiny
 <hr>
 <br/>
 
-transfer of electorns in energetically downhill
+transfer of electrons in energetically downhill
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/lightreaction3.png">
 
