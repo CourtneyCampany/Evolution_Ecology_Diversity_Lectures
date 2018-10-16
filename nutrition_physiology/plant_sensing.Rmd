@@ -1,0 +1,185 @@
+---
+title: "Plant environmental physiology"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Plant cognition
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; left: 50%;">
+
+* **Do plants sense their environment?**
+    + changes in essential nutrients
+
+<br/>
+
+* **If so, what do they do about it?**
+    + selectively adapt to the resources which are available
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:400px; WIDTH:400px; HEIGHT:400px" SRC="images/brains.jpg">
+
+## Remember the acacia tree?
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:185px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/acacia.jpg">
+
+## Plant defenses 
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:925px; HEIGHT:350px" SRC="images/acacia2.jpg">
+
+## Defenses
+<hr>
+<br/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lzq-wRHCTKc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Wounding triggers transmission of Ca^2+^ to start systemic defense responses
+<hr>
+<br/>
+
+Toyota et al. 2018. Science 361: 1112-1115.
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:800px; HEIGHT:500px" SRC="images/science_paper.jpg">
+
+
+## Plants in the light
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GCRNHdGXTi4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Plants competing for light can grow really tall
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/redwood.jpg">
+
+<div style="float: right; width: 60%;">
+
+* **How does water move that far?""
+      + Redwood = 116 m
+      
+<br/>
+
+* **Remember... H_2_O is the most limiting resource**
+
+<br/>
+
+
+* **Large trees can move up to 100 gallons of water a day!**
+
+
+## Mass Flow
+<IMG STYLE="position:absolute; TOP:75px; LEFT:300px; WIDTH:500px; HEIGHT:700px" SRC="images/xylemphloem1.png">
+
+
+## Water Movements: Soil to Roots
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/rootwater.jpg">
+
+## Water Movements: Soil to Roots
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/root_water_uptake.png">
+
+## Rhizosphere and Deep Roots
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/root_water_uptake2.png">
+
+## Soil Refilling - Hydraullic Lift
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/soilrefilling.png">
+
+## Water Movements through Plants
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/spad_water.jpg">
+
+notes : air has more empty space to hold water vapor thatn a ligquid (tree sap)
+occurs until around 95% humidity
+
+transpiration: air pulls water out when stomata are open, water molecule hang onto each other tightly
+
+## Water movement: Stems
+<hr>
+<br />
+<br />
+<br />
+
+* **Root pressure**
+ 
+ <br />
+ 
+* **Transpiration pull**
+ 
+ <br />
+ 
+* **Capillary movement**
+
+<br />
+
+* **Xylem tissues, Sapwood area, Cavitation**
+ 
+ <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:400px; HEIGHT:350px" SRC="images/stemwater.jpg">
+ 
+
+
+## Water movement: Leaves
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/gs_vpd.gif">
+
+## Are there limits to moving water?
+<hr>
+
+* **Transpirational pull ... how long of a straw?**
+
+* **GRAVITY**
+      + plant growth < 350-400ft
+      + H_2_O doesnt move straight up
+
+notes: capliarry action
+tubes provide a little extra leverage and tension relief every time they direct the water column the least bit to the side instead of straight up
+
+## Xylem Cavitation
+<hr>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/uWL0EoZh09w?start=145" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+ 
+## Plants use water properties to cheat gravity
+
+* **Cohesion tension theory**
+
+Cohesion: H20 stick to other H20 molecules
+    + via H bonds
+    
+Adhension: water sticks to non water moelcules
+    + via h bonds
+    + stick to sides of plant vascular tissue
+    
+<IMG STYLE="position:absolute; TOP:250px; LEFT:400px; WIDTH:400px; HEIGHT:400px" SRC="images/water_drop.jpg">
+
+* **Negative osmotic pressure with zig zag motion**
+      + cheats gravity a little bit
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/vessels_pits.jpg">
+
+## Plants in the dark
