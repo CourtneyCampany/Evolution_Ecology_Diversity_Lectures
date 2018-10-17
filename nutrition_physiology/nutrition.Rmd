@@ -1,5 +1,5 @@
 ---
-title: "Plant environmental physiology"
+title: "Plant nutrition"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -9,185 +9,87 @@ output:
 runtime: shiny
 ---
 
-## Defenses
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lzq-wRHCTKc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-## Wounding triggers transmission of Ca^2+^ to start systemic defense responses
-<hr>
-<br/>
-Toyota et al. 2018. Science 361: 1112-1115.
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:800px; HEIGHT:500px" SRC="images/science_paper.jpg">
-
-
-## Source & Sink
-
-
-
-## Mass Flow
-<IMG STYLE="position:absolute; TOP:75px; LEFT:300px; WIDTH:500px; HEIGHT:700px" SRC="images/xylemphloem1.png">
-
-
-## Water movement and VPD
-
-
-
 ## What limits plant growth and survival?
 <hr>
 
-* ASK* light, water, CO2, nutrients
+<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/plant_growth.jpeg">
 
-* How do you test this?
-
-## Plants cannot live on sugar alone
+## Resources for photosynthesis
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:600px; HEIGHT:400px" SRC="images/tree.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/rubisco.jpg">
 
-## Nutrients
+<IMG STYLE="position:absolute; TOP:300px; LEFT:100px; WIDTH:400px; HEIGHT:200px" SRC="images/equation.png">
 
+## Nutritional elements for growth
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:400px; HEIGHT:500px" SRC="images/nutrients.jpg">
+
+<div style="float: right; width: 45%;">
+
+* **Carbon, Hydrogen & Oxygen**
+        + >95% of mass
+
+<br/>
+
+* **Most have multiple functions**
+      + Table 36.1
+      
+<br/>
+
+* **A few are often limiting**
+
+ </div> 
+ 
 ## N - P - K
+<hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:400px; HEIGHT:400px" SRC="images/npk.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:600px; HEIGHT:400px" SRC="images/npk.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/npk2.jpeg">
 
+## 
 
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:800px; HEIGHT:650px" SRC="images/nutrients2.png">
 
-## Low concentrations in soil
-
-
-
-## PLants use passive and active uptake systems
-
-## Cool plant adaptations
+## Mineral elements come from soil
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:600px; HEIGHT:400px" SRC="images/otherplants.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/soil.jpg">
 
-
-## Plant cognition
+## Review: root nutrient uptake
 <hr>
-<br/>
-<br/>
-<br/>
 
-<div style="float: right; left: 50%;">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/uptake.png">
 
-* **Do plants sense their environment?**
-    + changes in essential nutrients
+## Review: mycorrhizae
+<hr>
 
-<br/>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/mycorr.jpg">
 
-* **If so, what do they do about it?**
-    + selectively adapt to the resources which are available
+## Cool plant nutritional adaptations
+<hr>
 
-</div>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/otherplants.png">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:400px; WIDTH:400px; HEIGHT:400px" SRC="images/brains.jpg">
+## What is the most essential resource for plants?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/drought.jpg">
 
 ##
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GCRNHdGXTi4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+<IMG STYLE="position:absolute; TOP:150px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/water_physiology.jpg">
 
-## How water moves through a plant
-
-* **Cohesion tension theory**
-
-Cohesion: H20 stick to other H20 molecules
-    + via H bonds
-    
-Adhension: water sticks to non water moelcules
-    + via h bonds
-    + stick to sides of plant vascular tissue
-    
-<IMG STYLE="position:absolute; TOP:250px; LEFT:400px; WIDTH:400px; HEIGHT:400px" SRC="images/water_drop.jpg">
-
-## Water Movements: Soil to Roots
+## Turgor pressure
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/rootwater.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:400px; HEIGHT:300px" SRC="images/wilt.jpg">
 
-## Water Movements: Soil to Roots
-<hr>
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:300px" SRC="images/turgor.png">
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/root_water_uptake.png">
 
-## Rhizosphere and Deep Roots
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/root_water_uptake2.png">
-
-## Soil Refilling - Hydraullic Lift
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/soilrefilling.png">
-
-## Water Movements through Plants
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/spad_water.jpg">
-
-notes : air has more empty space to hold water vapor thatn a ligquid (tree sap)
-occurs until around 95% humidity
-
-transpiration: air pulls water out when stomata are open, water molecule hang onto each other tightly
-
-## Water movement: Stems
-<hr>
-<br />
-<br />
-<br />
-
-* **Root pressure**
- 
- <br />
- 
-* **Transpiration pull**
- 
- <br />
- 
-* **Capillary movement**
-
-<br />
-
-* **Xylem tissues, Sapwood area, Cavitation**
- 
- <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:400px; HEIGHT:350px" SRC="images/stemwater.jpg">
- 
-## Xylem Cavitation
-<hr>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/uWL0EoZh09w?start=145" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-## Water movement: Leaves
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/gs_vpd.gif">
-
-## Are there limits to moving water?
-<hr>
-
-* **Transpirational pull ... how long of a straw?**
-
-* **GRAVITY**
-      + plant growth < 350-400ft
-      + H_2_O doesnt move straight up
-      
-* **Negative osmotic pressure with zig zag motion**
-      + cheats gravity a little bit
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/redwood.jpg">
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/vessels_pits.jpg">
-
-notes: capliiarry action
-tubes provide a little extra leverage and tension relief every time they direct the water column the least bit to the side instead of straight up
-
-## How does a plant respond to stress
-
-## Bugs
-
-## Drought
-
-##

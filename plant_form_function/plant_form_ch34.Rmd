@@ -27,12 +27,6 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/whatplantsdo.jpg">
 
-## How do we view plants in the real world?
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:925px; HEIGHT:350px" SRC="images/acacia2.jpg">
-
 ## Plants pull all of this off while...
 <hr>
 <br/>
@@ -139,6 +133,10 @@ runtime: shiny
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/plants-fungi.jpg">
+
+## Root exudation: Who's in charge?
+<hr>
+<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:600px; HEIGHT:500px" SRC="images/exudates.jpg">
 
 ## Vascular tissue system: Moving the good stuff
 <hr>

@@ -1,0 +1,215 @@
+---
+title: "Plant environmental physiology"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Plant cognition
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; left: 50%;">
+
+* **Do plants sense their environment?**
+    + changes in essential nutrients
+
+<br/>
+
+* **If so, what do they do about it?**
+    + do plants process information?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:400px; WIDTH:400px; HEIGHT:400px" SRC="images/brains.jpg">
+
+## Sensory cell systems
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:300px; WIDTH:400px; HEIGHT:500px" SRC="images/signals.jpg">
+
+## Plants in the light
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:350px; WIDTH:400px; HEIGHT:250px" SRC="images/auxin.png">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:400px; HEIGHT:400px" SRC="images/light_exp.png">
+
+## Plants in the light
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GCRNHdGXTi4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Plants competing for light can grow really tall
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:600px; HEIGHT:500px" SRC="images/redwood.jpg">
+
+<div style="float: right; width: 60%;">
+
+* **Are their limitations to height??""
+      + Redwoods = 116 m
+      
+<br/>
+
+* **What is the most limiting resource?**
+
+</div> 
+
+## Are there limits to moving water?
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:300px; WIDTH:500px; HEIGHT:700px" SRC="images/xylemphloem1.png">
+
+* **Large trees move 100 gallons of water a day**
+
+<br/>
+
+* **Gravity**
+      + harder and harder to move water
+      + limits growth to 122-130 m
+
+<br/>
+
+* **Path length of transpiration**
+      + length and width of xylem 'straws'
+ </div> 
+ 
+## Plants use water properties to cheat gravity
+
+* **Cohesion tension theory**
+
+Cohesion: H20 stick to other H20 molecules
+    + via H bonds
+    
+Adhension: water sticks to non water moelcules
+    + via h bonds
+    + stick to sides of plant vascular tissue
+    
+<IMG STYLE="position:absolute; TOP:250px; LEFT:400px; WIDTH:400px; HEIGHT:400px" SRC="images/water_drop.jpg">
+
+# H_2_O does not move straight up
+
+* **Negative osmotic pressure with zig zag motion**
+      + cheats gravity a little bit
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/vessels_pits.jpg">
+
+notes: capliary action
+tubes provide a little extra leverage and tension relief every time they direct the water column the least bit to the side instead of straight up
+ 
+ 
+ 
+## Water movement
+
+## tree heart attack
+ 
+ 
+ 
+# What happens when water supply goes wrong? #3 
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:400px" SRC="images/embolism.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:400px; HEIGHT:400px" SRC="images/embolism2.jpg">
+
+## Xylem Cavitation
+<hr>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/uWL0EoZh09w?start=145" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ 
+# Do plants sense cavitation events and repair them? 
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:400px" SRC="images/embolism3.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:400px; HEIGHT:400px" SRC="images/studying_caviatation.jpg">
+
+# How do plants avoid water problems #1
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:400px; HEIGHT:400px" SRC="images/closed_stomata.jpg">
+
+## Risky stomatal behavior
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/gs_vpd.gif">
+
+# How do plants avoid water problems #2
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:50px" SRC="images/soilrefilling.png">
+
+# How do plants avoid water problems #3
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:400px" SRC="images/xylem_art1.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art2.jpg">
+
+
+## Water Movements: Soil - Root - Stem - Leaf - Air
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/spad_water.jpg">
+
+notes : air has more empty space to hold water vapor thatn a ligquid (tree sap)
+occurs until around 95% humidity
+
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/root_water_uptake.png">
+
+
+transpiration: air pulls water out when stomata are open, water molecule hang onto each other tightly
+
+## Water movement: Stems
+<hr>
+<br />
+<br />
+<br />
+
+* **Root pressure**
+
+* **Transpiration pull**
+
+* **Xylem tissues, Sapwood area, Cavitation**
+ 
+ <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:400px; HEIGHT:350px" SRC="images/stemwater.jpg">
+ 
+
+
+
+## Remember the acacia tree?
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:185px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/acacia.jpg">
+
+## Plant defenses 
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:925px; HEIGHT:350px" SRC="images/acacia2.jpg">
+
+## Defenses
+<hr>
+<br/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lzq-wRHCTKc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Wounding triggers transmission of Ca^2+^ to start systemic defense responses
+<hr>
+<br/>
+
+Toyota et al. 2018. Science 361: 1112-1115.
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:800px; HEIGHT:500px" SRC="images/science_paper.jpg">
+
+
+## Plants in the dark

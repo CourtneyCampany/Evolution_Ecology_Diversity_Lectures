@@ -167,7 +167,7 @@ runtime: shiny
 <hr>
 <br/>
 
-transfer of electorns in energetically downhill
+transfer of electrons in energetically downhill
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/lightreaction3.png">
 
@@ -212,13 +212,14 @@ transfer of electorns in energetically downhill
 
 * **photosynthesis is usually limited  the availability of CO_2_ for fixation by RuBisCO
 
-1) Only performs 3 reactions per second: SLOW
+1) Only performs 3-10 reactions per second: SLOW
 
-2a) Has an error rate of 20% (toxic compunds that inhibit seveal C metabolism enzymes) that gets worse at high temperatures...
+2a) Has an error rate of 20%
+      + gets worse at high temperatures
 
-2b) Performs carboxylation (addition of CO_2_) as well as OXYGENATION (addition of O_2_) due to the fact that the substrate (ribulose 1,5 bisphosphate) attaches to both. 
-
-3) Photorespiration = no ATP
+2b) Performs carboxylation as well as OXYGENATION 
+      + attaches to both. 
+      + Photorespiration = no ATP
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/photo.jpg">
 
