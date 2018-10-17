@@ -53,12 +53,12 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:80px; WIDTH:275px; HEIGHT:400x" SRC="images/leafveins.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:80px; WIDTH:250px; HEIGHT:400x" SRC="images/leafveins.jpg">
 
 ## Evolution of leaf vein density
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:400x" SRC="images/vein_evolution.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:750px; HEIGHT:400x" SRC="images/vein_evolution.jpg">
 
 ## Leaf structure and economics
 <hr>
@@ -73,13 +73,19 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:900px; HEIGHT:400px" SRC="images/leafeconomics.jpeg">
 
+## Photosynthesis is complicated....
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:185px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/scholar.jpg">
+
 ## What do we do when we are hungry?
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:400px; HEIGHT:250x" SRC="images/hangry.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:400px; HEIGHT:300x" SRC="images/hangry.png">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/fastfood.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/fastfood.jpg">
 
 ## What do plants do when they are hungry?
 <hr>
@@ -109,12 +115,6 @@ runtime: shiny
  </div>
  
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400x" SRC="images/leaf_solar.jpg">
-
-## Photosynthesis is complicated....
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:500px; HEIGHT:500px" SRC="images/scholar.jpg">
 
 ## Where does this 'Photosynthetic' magic happen?
 <hr>
@@ -161,36 +161,35 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:500px; HEIGHT:500x" SRC="images/lightreaction4.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:600px; HEIGHT:600x" SRC="images/lightreaction4.png">
 
 ## Light energy to chemical energy 
 <hr>
 <br/>
 
-transfer of electrons in energetically downhill
-
 <IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/lightreaction3.png">
 
-## Stage 2: Dark Reactions (aka Calvin cycle)
+## Dark Reactions (aka Calvin cycle)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:450px; HEIGHT:450px" SRC="images/photosynthesis.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/photosynthesis.png">
 
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin.jpg">
 
-## Glucose
+## Making glucose requires several cycles
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:450px; HEIGHT:450px" SRC="images/equation2.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/equation2.png">
 
 ## Rubisco - the enzyme that dominates carbon fixation
 <hr>
 <br/>
 <br/>
 <br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/rubisco.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/rubisco.jpg">
 
 <div style="float: right; width: 50%;">
 
@@ -198,42 +197,55 @@ transfer of electrons in energetically downhill
 
 <br/>
 
-* **Most inorganic carbon converted into biomass is fixed by Rubisco**
+* **Most carbon converted into biomass is fixed by Rubisco**
 
 <br/>
 
-* **large molecule : 16 polypeptides : 8 active sites**
+* **Large molecule : 16 polypeptides : 8 active sites**
 
 </div>
 
-## Why does Rubsico suck so bad...
+## Why does Rubisco suck so bad...
 <hr>
+
+<div style="float: left; width: 50%;">
+* **Only performs 3-10 reactions per second: SLOW**
+
 <br/>
 
-* **photosynthesis is usually limited  the availability of CO_2_ for fixation by RuBisCO
+* **Has an error rate of 20%**
+        + gets worse at high temperatures
+        
+<br/>
 
-1) Only performs 3-10 reactions per second: SLOW
-
-2a) Has an error rate of 20%
-      + gets worse at high temperatures
-
-2b) Performs carboxylation as well as OXYGENATION 
-      + attaches to both. 
-      + Photorespiration = no ATP
+* **Performs carboxylation as well as OXYGENATION **
+        + affinity for both 
+</div>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/photo.jpg">
 
-<IMG STYLE="position:absolute; TOP:450px; LEFT:100px; WIDTH:200px; HEIGHT:200x" SRC="images/rubisco2.jpg">
+<IMG STYLE="position:absolute; TOP:425px; LEFT:100px; WIDTH:500px; HEIGHT:250x" SRC="images/photorespiration.jpeg">
 
 ## C3 photosynthesis how did we get here...
 <hr>
 <br/>
 
+<div style="float: left; width: 60%;">
+
 * **Evolution doesn't necessarily create the best solution**
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:300px; WIDTH:600px; HEIGHT:400x" SRC="images/photorespiration.jpeg">
+<br/>
 
-* **Oxygenation products are completely wasted, which means it takes nearly twice as much energy for a plant to produce the same amount of sugar than if Rubisco just reacted with CO2**
+* **Oxygenation products are completely wasted**
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:300px; HEIGHT:300x" SRC="images/photosystems.png">
+<br/>
+
+* **Nearly 2x energy to produce the same amount of sugar than if Rubisco just reacted with CO_2_**
+
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:475px; LEFT:200px; WIDTH:300px; HEIGHT:300x" SRC="images/photosystems.png">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:250px; HEIGHT:500x" SRC="images/atmosphere.png">
+
  
