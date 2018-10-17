@@ -13,18 +13,19 @@ runtime: shiny
 <hr>
 <br/>
 
+## How do we view plants in the real world?
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:400px" SRC="images/acacia.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/urban.png">
+
 ## Are plants as advanced (> or =) as humans?
 <hr>
 <br/>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/whatplantsdo.jpg">
-
-
-## How do we view plants in the real world?
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:185px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/acacia.jpg">
 
 ## How do we view plants in the real world?
 <hr>
