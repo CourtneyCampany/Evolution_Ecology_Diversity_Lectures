@@ -52,7 +52,7 @@ runtime: shiny
 
 <br/>
 
-* **Their Darwinian struggle for growth, survival and reproduction in very different arenas has resulted in an extremely wide variety of form and function (Diaz et al 2016)**
+* *Their Darwinian struggle for growth, survival and reproduction in very different arenas has resulted in an extremely wide variety of form and function (Diaz et al 2016)*
 
 </div>
 
@@ -78,7 +78,7 @@ runtime: shiny
 
 * **Plants exhibit _indeterminate growth_**
       + "foragers"
-      + amazing diversity of size & shape
+      + diversity of size & shape
 
 </div>
 
@@ -92,9 +92,9 @@ runtime: shiny
 ## Diversity in plant form via evolution
 <hr>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:175px; WIDTH:750px; HEIGHT:250px" SRC="images/angioradiation.png">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:125px; WIDTH:800px; HEIGHT:300px" SRC="images/angioradiation.png">
 
-## Diveristy in plant form via environment
+## Diversity in plant form via environment
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/leafsize.jpg">
@@ -136,23 +136,21 @@ runtime: shiny
 
 ## Root exudation: Who's in charge?
 <hr>
-<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:600px; HEIGHT:500px" SRC="images/exudates.jpg">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/exudates.jpg">
 
 ## Vascular tissue system: Moving the good stuff
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:200px; HEIGHT:350px" SRC="images/xylem.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:750px; HEIGHT:500px" SRC="images/vascular_tissues.png">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:275px; WIDTH:550px; HEIGHT:350px" SRC="images/xylemphloem2.png">
-
-<IMG STYLE="position:absolute; TOP:300px; LEFT:850px; WIDTH:200px; HEIGHT:200px" SRC="images/phloem.jpg">
 
 ## Plant growth
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:300px; HEIGHT:500px" SRC="images/growth.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:300px; HEIGHT:500px" SRC="images/root_growth.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/meristem.jpg">
 
@@ -173,7 +171,7 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/growthrings.png">
 
 <div style="float: right; width: 50%;">
-* **Plants record everything that happens on the planet**
+* **Plants record what happens on the planet**
 
 <br/>
 
@@ -183,7 +181,7 @@ runtime: shiny
 <br/>
 
 * **Agreement on solar storms on a global scale!**
-      + Wang et al. 2017. Nature Communications 8:1487
+        + Wang et al. 2017. Nature Communications 8:1487
  </div> 
  
 ## Why do plants look so different?
@@ -194,7 +192,7 @@ runtime: shiny
 ## Classic economic theory applied to plants
 <hr>
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 60%;">
 
 * **Investment**
       + storage versus use of photosynthetic products
