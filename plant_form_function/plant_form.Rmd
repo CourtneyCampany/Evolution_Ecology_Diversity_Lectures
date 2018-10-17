@@ -9,10 +9,6 @@ output:
 runtime: shiny
 ---
 
-## About Me
-<hr>
-<br/>
-
 ## How do we view plants in the real world?
 <hr>
 <br/>

@@ -240,7 +240,7 @@ runtime: shiny
 
 <br/>
 
-* **Nearly 2x energy to produce the same amount of sugar than if Rubisco just reacted with CO_2_**
+* **Nearly 2x energy to produce the same amount of sugar than if Rubisco just reacted with CO~2~**
 
  </div>
  
