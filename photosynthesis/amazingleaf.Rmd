@@ -98,7 +98,7 @@ runtime: shiny
 <br/>
 <br/>
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 55%;">
 
 * **Greek = “building with light”**
 * **Autotroph = “self nourishing”**
@@ -123,33 +123,18 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:260px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts3.png">
 
-## Light, pigments & green leaves
+## The nature of light
 <hr>
 <br/>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:500px; HEIGHT:500x" SRC="images/light_spectrum.jpg">
 
-## When chlorophyll absorbs light, 3 things can happen:
+## When light hits chlorophyll a few things can happen
 <hr>
-<br/>
-<br/>
-<br/>
 
-<div style="float: left; width: 55%;">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts_light.png">
 
-* **FLUORESCENCE: release of absorbed energy by light & heat**
-
-<br/>
-
-* **ENERGY transfer from one chlorophyll to its neighbor**
-
-<br/>
-
-* **ELECTRON transfer to a neighboring electron acceptor**
-
- </div>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:610px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts_light.png">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:600px; WIDTH:450px; HEIGHT:450x" SRC="images/pigments.jpg">
  
 ## Light reactions: make ATP + NADPH for Calvin cycle
 <hr>
@@ -161,7 +146,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:600px; HEIGHT:600x" SRC="images/lightreaction4.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:600px; HEIGHT:600x" SRC="images/lightreaction4.png">
 
 ## Light energy to chemical energy 
 <hr>
@@ -188,12 +173,13 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/rubisco.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/rubisco.jpg">
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 60%;">
 
-* **Most abundant protein in the world**
+* **Most abundant enzyme in the world**
 
 <br/>
 
@@ -208,23 +194,25 @@ runtime: shiny
 ## Why does Rubisco suck so bad...
 <hr>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 60%;">
+
 * **Only performs 3-10 reactions per second: SLOW**
 
 <br/>
 
 * **Has an error rate of 20%**
-        + gets worse at high temperatures
+      + gets worse at high temperatures
         
 <br/>
 
-* **Performs carboxylation as well as OXYGENATION **
-        + affinity for both 
+* **Performs carboxylation as well as OXYGENATION**
+      + affinity for both 
+
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/photo.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/photo.jpg">
 
-<IMG STYLE="position:absolute; TOP:425px; LEFT:100px; WIDTH:500px; HEIGHT:250x" SRC="images/photorespiration.jpeg">
+<IMG STYLE="position:absolute; TOP:425px; LEFT:300px; WIDTH:500px; HEIGHT:250x" SRC="images/photorespiration.jpeg">
 
 ## C3 photosynthesis how did we get here...
 <hr>

@@ -5,8 +5,8 @@ account: courtneycampany
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 519740
-bundleId: 1648230
+bundleId: 1649758
 url: https://courtneycampany.shinyapps.io/amazingleaf/
-when: 1539803346.80168
+when: 1539876155.30868
 asMultiple: FALSE
 asStatic: FALSE
