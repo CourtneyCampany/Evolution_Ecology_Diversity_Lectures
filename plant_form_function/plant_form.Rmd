@@ -167,17 +167,19 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/growthrings.png">
 
 <div style="float: right; width: 50%;">
+
 * **Plants record what happens on the planet**
 
 <br/>
 
 * **Complete cycle of seasons**
-        + record atmospheric conditions
+      + record atmospheric conditions
 
 <br/>
 
 * **Agreement on solar storms on a global scale!**
-        + Wang et al. 2017. Nature Communications 8:1487
+      + Wang et al. 2017. Nature Communications 8:1487
+        
  </div> 
  
 ## Why do plants look so different?
