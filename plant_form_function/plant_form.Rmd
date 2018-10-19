@@ -62,9 +62,9 @@ runtime: shiny
 <div style="float: left; width: 38%;">
 
 * **Plants gather materials to grow**
-      + soil
-      + atmosphere
-      + materials can be limiting
+* soil
+* atmosphere
+* materials can be limiting
 
 <br/> 
 
@@ -73,8 +73,8 @@ runtime: shiny
 <br/> 
 
 * **Plants exhibit _indeterminate growth_**
-      + "foragers"
-      + diversity of size & shape
+* "foragers"
+* diversity of size & shape
 
 </div>
 
@@ -100,7 +100,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/cell_types.png">
 
-##Plant tissue systems
+## Plant tissue systems
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:600px; HEIGHT:400px" SRC="images/plant_tissues.jpg">
@@ -173,12 +173,12 @@ runtime: shiny
 <br/>
 
 * **Complete cycle of seasons**
-      + record atmospheric conditions
+* record atmospheric conditions
 
 <br/>
 
 * **Agreement on solar storms on a global scale!**
-      + Wang et al. 2017. Nature Communications 8:1487
+* Wang et al. 2017. Nature Communications 8:1487
         
  </div> 
  
@@ -193,23 +193,24 @@ runtime: shiny
 <div style="float: right; width: 60%;">
 
 * **Investment**
-      + storage versus use of photosynthetic products
+* storage versus use of photosynthetic products
 
 <br/>
 
-* **Marginal cost and revenue **
-      + new leaves vs support structures 
-      + law of diminishing returns
+* **Marginal cost and revenue**
+* new leaves vs support structures 
+* law of diminishing returns
       
 <br/>
 
 * **Marginal product**
-      + profit of photosynthesis vs resource availability
+* profit of photosynthesis vs resource availability
       
 <br/>
 
 * **Exchange ratios** 
-      + balancing C gain, nutrient use & water loss
+* balancing C gain, nutrient use & water loss
+
  </div>     
       
 <IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:300px; HEIGHT:300px" SRC="images/leafdollar.png">
