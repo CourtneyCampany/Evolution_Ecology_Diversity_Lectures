@@ -73,6 +73,10 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:900px; HEIGHT:400px" SRC="images/leafeconomics.jpeg">
 
+##
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:800px; HEIGHT:400px" SRC="images/needles.jpg">
+
 ## Photosynthesis is complicated....
 <hr>
 <br/>
@@ -116,7 +120,7 @@ runtime: shiny
  
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400x" SRC="images/leaf_solar.jpg">
 
-## Where does this 'Photosynthetic' magic happen?
+## Chloroplats: Where the magic happens
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts.png">
@@ -183,7 +187,7 @@ runtime: shiny
 
 <br/>
 
-* **Most carbon converted into biomass is fixed by Rubisco**
+* **Most CO~2~ converted into biomass is fixed by Rubisco**
 
 <br/>
 
@@ -201,12 +205,11 @@ runtime: shiny
 <br/>
 
 * **Has an error rate of 20%**
-      + gets worse at high temperatures
+* gets worse at high temperatures
         
 <br/>
 
 * **Performs carboxylation as well as OXYGENATION**
-      + affinity for both 
 
 </div>
 
