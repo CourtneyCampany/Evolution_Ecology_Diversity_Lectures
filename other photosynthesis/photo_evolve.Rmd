@@ -1,5 +1,5 @@
 ---
-title: "Photosynthesis, past and present"
+title: "Photosynthesis: past, present and future"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -12,36 +12,37 @@ runtime: shiny
 ## Review: Issues with C3 photosynthesis
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:700px; HEIGHT:350px" SRC="images/photorespiration.jpeg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/photorespiration.jpeg">
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:800px; HEIGHT:500px" SRC="images/evolution_rubisco.jpg">
+<IMG STYLE="position:absolute; TOP:75px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/evolution_rubisco.jpg">
 
 ## Has rubisco evolved?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/evol_rubisco.jpg">
 
-## Why hasnt rubisco been replaced?
+## Why has rubisco not been replaced?
 <hr>
 <br/>
 <br/>
 
 <div style="float: left; width: 50%;">
-* **Evolution of enzymes is subject to strong biophysical constraints**
-      + tradeoffs between activity and stability
+* **Evolution of enzymes subject to strong biophysical constraints**
+* tradeoffs between activity and stability
  
  <br/>
  
 * **Removing the oxygenation capability breaks rubisco**
-      + heavy selection against modifying mutations
+* heavy selection against modifying mutations
 
 <br/>
 
 * **RubisCO → RubisC**
-    + requires a decrease in fitness 
-    + Studer et al. 2014
+* requires a decrease in fitness 
+* Studer et al. 2014
+
 </div>
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/rubisco_mutations.jpg">
@@ -50,19 +51,20 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
+<br/>
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:150px; WIDTH:300px; HEIGHT:200px" SRC="images/c3c4cam.jpg">
 
-<div style="float: right; width: 40%;">
+<div style="float: right; width: 55%;">
 
-* **Improved and recombed existing parts and pieces**
+* **Improved and recombined existing parts and pieces**
  
 <br/>
 
-* **In response environmental change**
-      + low CO~2~ concentrations 
-      + high temperatures 
-      + water limitations 
+* **In response to environmental change**
+* lower [CO~2~]
+* high temperatures 
+* water limitations 
 
 <br/>
 
@@ -74,20 +76,21 @@ runtime: shiny
 <br/>
 <br/>
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 55%;">
 
-* **C4 mechanism shifts the Calvin Cycle away from high O~2~**
+* **C4 mechanism separates the Calvin cycle from high O~2~**
 
 <br/>
 
-* **Mesophyll cells @ top a CO~2~ pump**
-      + flood RuBisCO in bundle sheath cells with CO~2~
+* **Mesophyll cells @ top are CO~2~ pumps**
+* flood rubisco in bundle sheath cells with CO~2~
 
 <br/>
 
 * **New enzyme evolved, phosphoenolpyruvate carboxlylase (PEPC)**
-      + uses HCO~3-~ (bicarbonate) as substrate
-      + no affinity for O~2~
+* uses HCO~3-~ (bicarbonate) as substrate
+* no affinity for O~2~
+* 4C malate carries CO~2~ to Calvin cycle
 
 </div>
 
@@ -99,9 +102,8 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
-<br/>
 
-<div style="float: right; width: 40%;">
+<div style="float: right; width: 50%;">
 
 * **Regeneration of PEP expensive (ATP)**
  
@@ -114,15 +116,15 @@ runtime: shiny
 * **Where should C4 plants live**
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/c3vsc4.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4_2.jpg">
 
 ##
-<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/c4_distribution.jpg">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/c4_distribution.jpg">
 
 ## CAM (Crassulacean Acid Metabolism) plants
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/cam2.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/cam2.png">
 
 ## Yes we CAM!!
 <hr>
@@ -139,8 +141,8 @@ runtime: shiny
 <br/>
 
 * **Exist in arid environments or habitats**
-      + cacti
-      + epiphytes
+* cacti
+* epiphytes
 
 <br/>
 
@@ -151,21 +153,22 @@ runtime: shiny
 ## Why does this matter to you...
 <hr>
 <br/>
+<br/>
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 55%;">
 * **C4 plants are economically important**
-    + corn, sugarcane, sorghum & switchgrass
+* corn, sugarcane, sorghum & switchgrass
 
 <br/>
 
-* **Lots of crops are also C3**
-    + beans, rice, wheat, potatoes (temperate crops)
+* **So are C3 crops**
+* beans, rice, wheat, potatoes (temperate crops)
 
 <br/>
 
 * **Global water use is set to triple by 2050**
-    + 70%  to the agriculture sector
-    + 50% transpired through stomatal pores
+* 70%  to the agriculture sector
+* 50% transpired through stomatal pores
 
 </div>
 
@@ -190,17 +193,12 @@ runtime: shiny
 
 <br/>
 
-* **Redesign to mask RubisCO's side reaction with O~2~**
+* **Redesign to mask rubisco's side reaction with O~2~**
 
 <br/>
 
 * **Turning C3 crops to C4...**
-    + https://c4rice.com/
+* https://c4rice.com/
 
 </div>
 
-
-## Notes
-RubisCO evolved before the first great oxygenation event in an atmosphere without oxygen (O2), so that its mechanism was not constrained by O2. However, with the rise of atmospheric O2 concentrations to modern-day levels, as a result of the second great oxygenation event, RubisCO had to learn to discriminate between CO2 and O2. Because discrimination usually comes at the cost of reduced catalytic rate, a more specific enzymes almost inevitably becomes a slower catalyst
-
-* **C-4 and C-3 reactions are separated in time**
