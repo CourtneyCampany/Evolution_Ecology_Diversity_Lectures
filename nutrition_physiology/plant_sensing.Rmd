@@ -14,32 +14,48 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 <div style="float: right; left: 50%;">
 
 * **Do plants sense their environment?**
-    + changes in essential nutrients
+* changes in essential resources
 
 <br/>
 
 * **If so, what do they do about it?**
-    + do plants process information?
+* do plants process information?
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:400px; WIDTH:400px; HEIGHT:400px" SRC="images/brains.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:500px; HEIGHT:500px" SRC="images/brains.jpg">
 
 ## Sensory cell systems
 <hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:300px; WIDTH:400px; HEIGHT:500px" SRC="images/signals.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:400px; HEIGHT:500px" SRC="images/signals.jpg">
+
+<div style="float: right; left: 55%;">
+
+* **What external factors elicit responses from plants?**
+
+</div>
 
 ## Plants in the light
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:350px; WIDTH:400px; HEIGHT:250px" SRC="images/auxin.png">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:100px; WIDTH:400px; HEIGHT:250px" SRC="images/auxin.png">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:400px; HEIGHT:400px" SRC="images/light_exp.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/light_exp.png">
 
 ## Plants in the light
 <hr>
@@ -51,19 +67,28 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:600px; HEIGHT:500px" SRC="images/redwood.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/redwood.jpg">
 
-<div style="float: right; width: 60%;">
+<div style="float: right; width: 45%;">
 
-* **Are their limitations to height??""
-      + Redwoods = 116 m
+* **Are their limitations to plant height?**
+* Redwoods = 116 m
       
 <br/>
 
 * **What is the most limiting resource?**
+* huge investment into vascular systems
 
 </div> 
+
+## Plant Water Movements: Soil - Root - Stem - Leaf - **Air**
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/spad_water.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:350px" SRC="images/stemwater.jpg">
 
 ## Are there limits to moving water?
 <hr>
@@ -71,145 +96,140 @@ runtime: shiny
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:75px; LEFT:300px; WIDTH:500px; HEIGHT:700px" SRC="images/xylemphloem1.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/vessels.jpg">
+
+<div style="float: left; width: 50%;">
 
 * **Large trees move 100 gallons of water a day**
 
 <br/>
 
 * **Gravity**
-      + harder and harder to move water
-      + limits growth to 122-130 m
+* harder and harder to move water
+* limits growth to 122-130 m
 
 <br/>
 
-* **Path length of transpiration**
-      + length and width of xylem 'straws'
- </div> 
+* **Path length of transpiration stream**
+*efficiency of xylem 'straws'
+</div> 
  
-## Plants use water properties to cheat gravity
+## How can redwoods grow so tall?
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
 
 * **Cohesion tension theory**
+* plants use water properties to cheat gravity
 
-Cohesion: H20 stick to other H20 molecules
-    + via H bonds
-    
-Adhension: water sticks to non water moelcules
-    + via h bonds
-    + stick to sides of plant vascular tissue
-    
-<IMG STYLE="position:absolute; TOP:250px; LEFT:400px; WIDTH:400px; HEIGHT:400px" SRC="images/water_drop.jpg">
+<br/>
 
-# H_2_O does not move straight up
+* **Cohesion: H~2~0 stick to other H~2~0 molecules**
+* via H bonds
 
-* **Negative osmotic pressure with zig zag motion**
-      + cheats gravity a little bit
+<br/>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/vessels_pits.jpg">
+* **Adhension: water sticks to non water moelcules**
+* stick to sides of plant vascular tissue
 
-notes: capliary action
-tubes provide a little extra leverage and tension relief every time they direct the water column the least bit to the side instead of straight up
+</div> 
  
- 
- 
-## Water movement
+<IMG STYLE="position:absolute; TOP:250px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/water_drop.jpg">
 
-## tree heart attack
- 
- 
- 
-# What happens when water supply goes wrong? #3 
+## How can redwoods grow so tall?
+<hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:400px" SRC="images/embolism.jpg">
+<div style="float: left; width: 55%;">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:400px; HEIGHT:400px" SRC="images/embolism2.jpg">
+* **H_2_O is pulled up but not straight up**
+* shape of tracheids
+* pits and perforations
+
+<br/>
+
+* **Zig zag motion cheats gravity a little bit**
+
+<br/>
+
+* **Vascular tissue is tough**
++ high resistance of lignified walls
+</div> 
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/vessels_pits.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:300px; WIDTH:500px; HEIGHT:750px" SRC="images/heart_attack.png">
+
+## What happens when water supply goes wrong? 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/embolism.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:500px; HEIGHT:350px" SRC="images/embolism2.jpg">
 
 ## Xylem Cavitation
 <hr>
+
  <iframe width="560" height="315" src="https://www.youtube.com/embed/uWL0EoZh09w?start=145" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
  
-# Do plants sense cavitation events and repair them? 
+## Do plants sense cavitation events and repair them? 
+<hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:400px" SRC="images/embolism3.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/embolism3.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:400px; HEIGHT:400px" SRC="images/studying_caviatation.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/studying_caviatation.jpg">
 
-# How do plants avoid water problems #1
+## How do plants avoid water problems #1
+<hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:400px; HEIGHT:400px" SRC="images/closed_stomata.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/closed_stomata.jpg">
 
 ## Risky stomatal behavior
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/gs_vpd.gif">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/gs_vpd.jpg">
 
-# How do plants avoid water problems #2
+## How do plants avoid water problems #2
+<hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:50px" SRC="images/soilrefilling.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:700px; HEIGHT:400px" SRC="images/soil_refilling.png">
 
-# How do plants avoid water problems #3
+## How do plants avoid water problems #3
+<hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:400px" SRC="images/xylem_art1.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/xylem_art_1.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art2.jpg">
 
-
-## Water Movements: Soil - Root - Stem - Leaf - Air
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/spad_water.jpg">
-
-notes : air has more empty space to hold water vapor thatn a ligquid (tree sap)
-occurs until around 95% humidity
-
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/root_water_uptake.png">
-
-
-transpiration: air pulls water out when stomata are open, water molecule hang onto each other tightly
-
-## Water movement: Stems
-<hr>
-<br />
-<br />
-<br />
-
-* **Root pressure**
-
-* **Transpiration pull**
-
-* **Xylem tissues, Sapwood area, Cavitation**
- 
- <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:400px; HEIGHT:350px" SRC="images/stemwater.jpg">
- 
-
-
-
-## Remember the acacia tree?
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:185px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/acacia.jpg">
-
-## Plant defenses 
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:925px; HEIGHT:350px" SRC="images/acacia2.jpg">
-
-## Defenses
+## Signalling herbivory
 <hr>
 <br/>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lzq-wRHCTKc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Wounding triggers transmission of Ca^2+^ to start systemic defense responses
+## Wounding triggers transmission of Ca^2+^ to start defense response
 <hr>
 <br/>
 
 Toyota et al. 2018. Science 361: 1112-1115.
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:800px; HEIGHT:500px" SRC="images/science_paper.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:125px; WIDTH:800px; HEIGHT:450px" SRC="images/science_paper.jpg">
 
+## Remember the acacia tree?
+<hr>
 
-## Plants in the dark
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/acacia.jpg">
+
+## Plant defenses 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:800px; HEIGHT:400px" SRC="images/acacia2.png">
+
+## Protective perfumes
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/protective_perfumes.png">
