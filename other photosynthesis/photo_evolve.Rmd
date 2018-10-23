@@ -14,14 +14,14 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/photorespiration.jpeg">
 
-## 
-
-<IMG STYLE="position:absolute; TOP:75px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/evolution_rubisco.jpg">
-
 ## Has rubisco evolved?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/evol_rubisco.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/evolution_rubisco.jpg">
 
 ## Why has rubisco not been replaced?
 <hr>
@@ -78,25 +78,29 @@ runtime: shiny
 
 <div style="float: right; width: 55%;">
 
-* **C4 mechanism separates the Calvin cycle from high O~2~**
+* **C4 mechanism separates Calvin cycle from high O~2~**
 
 <br/>
 
 * **Mesophyll cells @ top are CO~2~ pumps**
-* flood rubisco in bundle sheath cells with CO~2~
+* flood rubisco in **bundle sheath cells** with CO~2~
 
 <br/>
 
-* **New enzyme evolved, phosphoenolpyruvate carboxlylase (PEPC)**
-* uses HCO~3-~ (bicarbonate) as substrate
+* **New enzyme, phosphoenolpyruvate carboxlylase (PEPC)**
+* fixes CO~2~ to PEP
 * no affinity for O~2~
 * 4C malate carries CO~2~ to Calvin cycle
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4.jpg">
 
-## C4 photosynthesis
+##
+
+<IMG STYLE="position:absolute; TOP:200x; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/crosssection.jpg">
+
+## Why has C4 not taken over?
 <hr>
 <br/>
 <br/>
