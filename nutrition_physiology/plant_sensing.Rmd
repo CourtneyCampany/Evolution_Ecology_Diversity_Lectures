@@ -21,6 +21,7 @@ runtime: shiny
 
 * **Do plants sense their environment?**
 * changes in essential resources
+*  herbivory
 
 <br/>
 
@@ -78,8 +79,7 @@ runtime: shiny
       
 <br/>
 
-* **What is the most limiting resource?**
-* huge investment into vascular systems
+* **What is the most limiting resource?** 
 
 </div> 
 
@@ -100,7 +100,7 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 
-* **Large trees move 100 gallons of water a day**
+* **Large trees move hundreds of gallons of water a day**
 
 <br/>
 
@@ -111,7 +111,8 @@ runtime: shiny
 <br/>
 
 * **Path length of transpiration stream**
-*efficiency of xylem 'straws'
+* efficiency of xylem 'straws'
+
 </div> 
  
 ## How can redwoods grow so tall?
@@ -134,23 +135,24 @@ runtime: shiny
 * **Adhension: water sticks to non water moelcules**
 * stick to sides of plant vascular tissue
 
+<br/>
+
+* **Transpiraton pulls water under tension**
 </div> 
  
-<IMG STYLE="position:absolute; TOP:250px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/water_drop.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/water_drop.jpg">
 
 ## How can redwoods grow so tall?
 <hr>
 <br/>
+<br/>
+<br/>
 
 <div style="float: left; width: 55%;">
 
-* **H_2_O is pulled up but not straight up**
+* **H~2~O is pulled in zig zag motion**
 * shape of tracheids
 * pits and perforations
-
-<br/>
-
-* **Zig zag motion cheats gravity a little bit**
 
 <br/>
 
@@ -158,28 +160,23 @@ runtime: shiny
 + high resistance of lignified walls
 </div> 
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/vessels_pits.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/vessels_pits.jpg">
 
 ##
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:300px; WIDTH:500px; HEIGHT:750px" SRC="images/heart_attack.png">
+<IMG STYLE="position:absolute; TOP:25px; LEFT:300px; WIDTH:500px; HEIGHT:700px" SRC="images/heart_attack.png">
 
-## What happens when water supply goes wrong? 
+## Cavitation: When water breaks 
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/embolism.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/embolism.jpg">
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:500px; HEIGHT:350px" SRC="images/embolism2.jpg">
-
-## Xylem Cavitation
-<hr>
-
- <iframe width="560" height="315" src="https://www.youtube.com/embed/uWL0EoZh09w?start=145" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
  
 ## Do plants sense cavitation events and repair them? 
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/embolism3.jpg">
+<IMG STYLE="position:absolute; TOP:270px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/embolism3.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/studying_caviatation.jpg">
 
@@ -196,15 +193,25 @@ runtime: shiny
 ## How do plants avoid water problems #2
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:700px; HEIGHT:400px" SRC="images/soil_refilling.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/soil_refilling.png">
 
 ## How do plants avoid water problems #3
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/xylem_art_1.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art2.jpg">
 
+## Remember the acacia tree?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/acacia.jpg">
+
+## Plant defenses 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:125px; WIDTH:800px; HEIGHT:400px" SRC="images/acacia2.png">
+ 
 ## Signalling herbivory
 <hr>
 <br/>
@@ -219,17 +226,7 @@ Toyota et al. 2018. Science 361: 1112-1115.
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:125px; WIDTH:800px; HEIGHT:450px" SRC="images/science_paper.jpg">
 
-## Remember the acacia tree?
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/acacia.jpg">
-
-## Plant defenses 
-<hr>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:800px; HEIGHT:400px" SRC="images/acacia2.png">
-
 ## Protective perfumes
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/protective_perfumes.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/protective_perfumes.png">
