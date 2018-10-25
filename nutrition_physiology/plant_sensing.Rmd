@@ -69,6 +69,7 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
+<br/>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/redwood.jpg">
 
@@ -98,7 +99,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:500px; HEIGHT:400px" SRC="images/vessels.jpg">
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 45%;">
 
 * **Large trees move hundreds of gallons of water a day**
 
@@ -110,8 +111,7 @@ runtime: shiny
 
 <br/>
 
-* **Path length of transpiration stream**
-* efficiency of xylem 'straws'
+* **Efficiency of xylem elements**
 
 </div> 
  
@@ -147,6 +147,7 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
+<br/>
 
 <div style="float: left; width: 55%;">
 
@@ -164,14 +165,14 @@ runtime: shiny
 
 ##
 
-<IMG STYLE="position:absolute; TOP:25px; LEFT:300px; WIDTH:500px; HEIGHT:700px" SRC="images/heart_attack.png">
+<IMG STYLE="position:absolute; TOP:25px; LEFT:300px; WIDTH:500px; HEIGHT:650px" SRC="images/heart_attack.png">
 
 ## Cavitation: When water breaks 
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:400px; HEIGHT:300px" SRC="images/embolism.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:300px" SRC="images/embolism.jpg">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:500px; HEIGHT:350px" SRC="images/embolism2.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/embolism2.jpg">
  
 ## Do plants sense cavitation events and repair them? 
 <hr>
@@ -198,14 +199,14 @@ runtime: shiny
 ## How do plants avoid water problems #3
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/xylem_art_1.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art_1.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art2.jpg">
 
 ## Remember the acacia tree?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/acacia.jpg">
+<IMG STYLE="position:absolute; TOP:185px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/acacia.jpg">
 
 ## Plant defenses 
 <hr>
@@ -222,11 +223,13 @@ runtime: shiny
 <hr>
 <br/>
 
-Toyota et al. 2018. Science 361: 1112-1115.
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:125px; WIDTH:800px; HEIGHT:450px" SRC="images/science_paper.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/science_paper.jpg">
 
 ## Protective perfumes
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/protective_perfumes.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/plant_smart.png">
