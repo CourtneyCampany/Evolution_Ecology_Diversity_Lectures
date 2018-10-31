@@ -1,0 +1,554 @@
+---
+title: "Changes in the Earth System"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Focal Issue
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Human activites have dramatically altered elemental cycles**
+    + fossil fuels = CO<sub>2</sub>, NO<sub>x</sub> & S
+    + mining = C, N, P & S
+    + agriculture = C, N, P & S
+ 
+<br/>
+
+* **Changes in biogeo cycles affect climate**
+    + global hydrological cycle
+    + feedbacks (+ & -)
+
+<br/>
+
+* **Alter ecosystems @ all scales**
+</div>
+<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/biogeo.jpg">
+
+## Historical Human Drivers
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+* **Agriculture started ~10,000 yrs ago**
+      + Holocene inter-glacial period
+      + stable climate period
+      + population increased 100x till industrial period
+
+<br/>
+
+* **Sedentary communities**
+      + population increased 10x since industrial revolution
+      + land cover changes = 50% surface
+
+<br/>
+
+* **Population & consumption affects ecosystems**
+    + dramatic since 1950
+</div>   
+<IMG STYLE="position:absolute; TOP:225px; LEFT:610px; WIDTH:400px; HEIGHT:400px" SRC="images/irpop.jpg">
+    
+## 
+<IMG STYLE="position:absolute; TOP:150px; LEFT:125px; WIDTH:850px; HEIGHT:400px" SRC="images/agri.jpg">
+
+##
+<IMG STYLE="position:absolute; TOP:50px; LEFT:275px; WIDTH:525px; HEIGHT:625px" SRC="images/greataccel.png">
+
+## Historical Climate Shifts
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:650px; HEIGHT:500px" SRC="images/medival.jpg">
+
+## Current Warming
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/climatespiral.png">
+
+<div style="float: right; width: 45%;">
+<br/>
+<br/>
+<br/>
+<br/>
+
+* **Unprecedented recent warming**
+      + within last 1000 year period
+
+<br/>
+<br/>
+
+* <strong><span style="color:red">
+Could we push Earth System to new state?</span></strong>
+
+</div>
+
+## Regime Shifts
+<hr>
+
+<IMG STYLE="position:absolute; TOP:255px; LEFT:125px; WIDTH:850px; HEIGHT:250px" SRC="images/regime_shift/jpg">
+
+## Global Water Cycle: What is Vulnerable?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/watercycle.jpg">
+
+## Evaporation (1)
+<hr>
+<br/>
+
+* **Global land flux = 15%**
+    + although land = 30% surface
+    + ocean evapotranspiration much greater
+
+<br/>
+
+* **Large regional variation**
+    + both land & ocean
+    + related to climate
+    + plant needs and physiology
+
+<br/>
+
+* **MRT in atmosphere = 10d**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/oceanevap.jpg">
+    
+## Precipitation (2)
+<hr>
+<br/>
+
+* **110,000 km^3^ year**
+    + 40% from ocean
+    + 60% recycled from land
+
+<br/>
+
+* **Highly variable**
+    + regional
+    + seasonal
+    + affects plant water use
+    
+<br/>
+
+* **Land-use change**
+    + shift to sensible heat in tropics
+    
+<IMG STYLE="position:absolute; TOP:240px; LEFT:500px; WIDTH:500px; HEIGHT:350px" SRC="images/precip.jpg">
+    
+## Ground Water (3)
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:185px; LEFT:70px; WIDTH:450px; HEIGHT:450px" SRC="images/groundwater.jpg">
+    
+<div style="float: right; width: 48%;">
+
+* **Soil Moisture turns over ~ 2 months**
+    + high regional variation
+
+<br/>
+
+* **Soil moisture reduced in interior of continents during summer**
+    + important areas of agriculture
+    
+<br/>
+
+* **Ground water turns over ~ 200 years**
+    + likely not replenished from current climate
+</div>    
+    
+    
+## Anthropogenic Changes in Water Cycle
+<hr>
+<br/>
+<div style="float: left; width: 50%;">
+* **Precipitation**
+    + wet getting wetter
+    + dry getting drier
+    + warming air holds more water
+<br/>
+* **Landuse change affects surface energy budget**
+    + quantity of energy absorbed
+    + pathway of energy loss
+    + Δ sensible/latent fluxes affect precipitation
+    + affects other regions (circulation)
+<br/>
+* **Soil moisture effects**
+    + ↓ with ↓ precipitation
+    + ↓ with ↑ evaporation
+    + agriculture areas sensitive
+  </div>
+  
+<IMG STYLE="position:absolute; TOP:175px; LEFT:575px; WIDTH:425px; HEIGHT:500px" SRC="images/landuse.jpg">
+    
+## Consequences of Changes in Water Cycle
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Societal**
+    + small vulnerable pool of freshwater
+    + search for clean drinking water
+
+<br/>
+
+* **Irrigate to offest impacts on soil moisture**
+    + draw from lakes, rivers & groundwater
+    + <strong><span style="color:red">
+irrigation increased 5x in 20^th^ century</span></strong>
+    + negatively impacts aquatic ecosystems
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/irrigation2.jpg">
+    
+## Agricultural Water Availability: Mediterranean
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/irrigation.png">
+
+## Food Insecurity
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/foodinsecurity.png">
+
+## Global Carbon Cycle: What is Vulnerable?
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:500px; HEIGHT:350px" SRC="images/carbon-cycle.jpg">
+
+* **Carbon is disrupted among 4 pools**
+    + atmosphere
+    + ocean
+    + land 
+    + sediments/rocks
+
+<br/>
+
+* **Atmospheric C is most dynamic**
+    + driven by metabolism of organisms
+    + ~5 year turnover
+    + https://www.co2.earth/
+    
+## Greenhouse CO<sub>2</sub> Emissions
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/greenhouse.png">
+
+
+## Greenhouse CO<sub>2</sub> Emissions
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/anthropogenic-co2-by-country.png">
+
+## Changes in Atmospheric CO<sub>2</sub>: Temporal 
+<hr>
+<br/>
+
+<div class="centered">
+<strong><span style="color:green">
+Varied 10 fold in Earth's history</span></strong>
+</div>
+
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Short term controls (sec - yrs)**
+    + Photosynthesis
+    + Respiration
+    + Human emissions (15% of fluxes)
+    + Ocean Surface
+ 
+ <br/>
+ 
+* **Centurial contols**
+    + NPP
+    + SOM
+    + Disturbance
+    + Deeper ocean waters
+    
+ </div>
+ 
+<div style="float: right; width: 50%;">
+
+* **Long term controls**
+    + uplift
+    + weathering
+    + ocean sedimentation
+    + glacial cycles
+ </div>   
+  
+## Recent Changes in Greenhouse Gases
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/icecore.png">
+
+## Marine Sinks for CO<sub>2</sub>
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/oceansink.png">
+
+## Marine Sinks for CO<sub>2</sub>
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **CO<sub>2</sub> removed from atmosphere:**
+    + dissolution in seawater
+    + photosynthetic organisms
+    + https://ocean-climate.org/?p=3896&lang=en
+
+<br/>
+
+* **Dissolution produces acidity**
+    + dissolves shells of invertebrates
+    + reduces sink strength
+ </div>     
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/ocean-acidification.jpg">
+    
+## The Other CO<sub>2</sub> Problem
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:800px; HEIGHT:550px" SRC="images/oceanph.png">
+    
+## Terrestrial Sinks for CO<sub>2</sub>
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:450px; HEIGHT:450px" SRC="images/sinks.jpg">
+
+<div style="float: right; width: 35%;">
+
+* **Fire suppression**
+
+<br/>
+
+* **CO<sub>2</sub> plant fertilization**
+
+<br/>
+
+* **Fertilizers and plant production**
+
+<br/>
+
+* **Forest regrowth**
+
+<br/>
+
+* **Climate**
+</div>
+
+## Power of plants
+<hr>
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/npp.png">
+ 
+## USA: Net Sink of Source of CO<sub>2</sub>?
+<hr>
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/carbonusa.png">
+
+<div style="float: left; width: 40%;">
+<br/>
+<br/>
+<br/>
+
+* **Consistent increase in forest C stocks over the last 2 decades**
+    + CO<sub>2</sub> fertilization
+    + forest managment 
+
+<br/>
+
+* **Emissions exceed ecosystem uptake by 3x**
+</div>
+
+## CO<sub>2</sub> Effects on Climate
+<hr>
+<br/>
+<br/>
+
+* **If emisions stopped today:**
+    + 50% absorbed by land/water in 30 yrs
+    + 30% in atmosphere for centuries
+    + 20% in atmospere for 1000 yrs
+
+<br/>
+
+* **Future warming is inevitable**
+    + sinks are weakening
+    + deep sea sinks and weathering are slow
+    
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/warming.jpg">
+
+## Climate Extremes Trend Up with Warming
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/extreme.jpg">
+
+## Extremes - Heat Waves
+<hr>
+
+<div class="centered"><span style="color:red">
+Almost everywhere these heat waves are now warmer than a century ago
+</span></div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/heatwaves.png">
+
+## Extremes - Precipitation in the USA
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/downpours.jpg">
+
+## Extremes - Precipitation in the USA
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/soil_moisture.jpg">
+
+
+## Warming and Sea Ice
+<hr>
+<br/>
+<br/>
+<br/>
+<div style="float: left; width: 45%;">
+
+* **Sea ice observations further back in time are too uncertain**
+
+<br/>
+
+* **Real acceleration in sea ice loss per degree of global warming**
+
+<br/>
+
+* **Arctic sea ice has melted more than expected from 2007 onwards**
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/seaice.png">
+
+## Can Melting Sea Ice 'Seaquester' CO<sub>2</sub>?
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:325px" SRC="images/algaeseaice.jpg">
+
+## Should We Fertilize the Ocean?
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:300px; HEIGHT:400px" SRC="images/ironco2.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/whale.png">
+
+## Greenhouse Gases: Methane
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:600px; HEIGHT:450px" SRC="images/methane.png">
+
+## Methane Sources
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:600px; HEIGHT:450px" SRC="images/methane2.jpg">
+
+## Methane Sources: Artic
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **High latitudes heat up**
+    + warming climate
+    
+<br/>
+
+* **Permafrost and accumulated ice thaw**
+    + Now at accelerated rates
+
+<br/>
+
+* **CH<sub>4</sub> rapidly released**
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:500px; HEIGHT:400px" SRC="images/methane4.jpg">
+
+## Global Nitrogen Cycle: What is Vulnerable?
+<hr>
+<br/>
+<br/>
+<div style="float: left; width: 45%;">
+
+* **Atmospheric pool is large**
+    + 78% of atmosphere
+    + soils + plant pools smaller
+
+<br/>
+
+* **N cycled through plants and oceans**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/ncycle.png">
+
+## Anthropogenic Changes in Nitrogen Cycle
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/> 
+
+* **Humans increase N inputs**
+    + fertilizer use & production
+    + nitrogen fixing crops
+    + fossil fuel combustion
+    
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/fert.png">    
+
+## Haber-Bosch
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/haber.jpg">
+
+##Nitrogen and Agriculture - NO<sub>x</sub>
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/nagri.jpg">
+
+
+##Nitrogen Leaching and Agriculture
+<hr>
+
+<IMG STYLE="position:absolute; TOP:165px; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/nwater.jpg">
+
+## 
+<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:800px; HEIGHT:600px" SRC="images/eutro.png">
+
+
+## Is 1.5C Global Target Reachable?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:600px; HEIGHT:400px" SRC="images/globalmeantemp2.png">
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:600px; HEIGHT:400px" SRC="images/globalmeantemp.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/climatepeople.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:150px; WIDTH:700px; HEIGHT:700px" SRC="images/eba_framework.jpg">

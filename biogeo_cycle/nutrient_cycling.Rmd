@@ -1,0 +1,300 @@
+---
+title: "Biogeochemical Cycling"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Essential Nutrients required for plant growth
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/nutrients.jpg">
+
+## Macro vs Micro- nutrients
+<hr>
+<br />
+
+* **Macronutrients required in largest amounts**
+  + commonly limit plant growth
+
+<br />
+
+* **Micro-nutrients are required, but in small amounts**
+
+<br />
+
+* **Beneficial nutrients enhance growth under specific conditions**
+  + ferns required aluminum
+  + nitrogen-fixing plants need cobalt
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:300px; HEIGHT:400px" SRC="images/liebigs.png">
+
+## Nutrient limitation on ecosystem scale
+<hr>
+<br />
+
+<div style="float: left; width: 45%;">
+
+* **Most vegetation on Earth struggles to reach optimum productivity**
+  + sparse nutrients, such as N or P
+  
+  <br />
+
+* **Global vegetation productivity -25% compared to a completely fertile Earth**
+
+<br />
+
+* **How do we define plant nutrient limitation?**
+
+<br />
+
+* **How do ecosystems respond to Δ in nutrients?**
+</div>
+
+<IMG STYLE="position:absolute; TOP:165px; LEFT:575px; WIDTH:450px; HEIGHT:250px" SRC="images/calcium.png">
+
+<IMG STYLE="position:absolute; TOP:425px; LEFT:575px; WIDTH:450px; HEIGHT:250px" SRC="images/np_add.png">
+
+## Nutrient limitation in plants
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/limitation_globe.jpg">
+
+## Plant nutrient use: Co-limitation of N & P 
+<hr>
+<br />
+<br />
+<br />
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/nplimits.png">
+
+## Fine roots: Biomes
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:550px; HEIGHT:400px" SRC="images/root_diameter_biomes.jpg">
+
+## Mycorrhizal symbiosis with plant roots
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mycorr.jpg">
+
+## Mycorrhizae
+<hr>
+<br />
+<br />
+
+<div style="float: left; width: 45%;">
+
+* **Extrension of roots systems into bulk soil**
+  + carbon source for fungus
+  + nutrients passed to plants
+  + <strong><span style="color:green">adds 1-15m per 1cm of root</span></strong>
+
+<br />
+<br />
+<br />
+
+* **Most plants associate with mycorrhizae**
+  + 80% angiosperms
+  + all gymnosperms
+  + many ferns
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:575px; WIDTH:440px; HEIGHT:450px" SRC="images/mycorr3.png">
+
+## Nitrogen fixing plants
+<hr>
+<br />
+<br />
+<br />
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/Nitrogen-Fixing.jpg">
+
+* **Symbiosis with N-fixing bacteria**
+  + similar trade as mycorrhizae
+
+<br />
+
+* **N instead fixed from atmosphere**
+  + energetically expensive
+
+<br />
+
+* **Common to high light / low N sites**
+
+
+## Root absorption properties
+<hr>
+<br />
+  
+* **Plant preferences for different forms**
+  + N = nitrate, ammonia or amino acids
+  + adaptation to ecosystem 
+  + most plants take up some nitrate
+  
+  <IMG STYLE="position:absolute; TOP:225px; LEFT:475px; WIDTH:500px; HEIGHT:300px" SRC="images/nforms.png">
+
+
+
+## Ecosystem Nutrient Cycling
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/nutrient_cycle2.png">
+
+
+## Ecosystem Nutrient Cycling
+<hr>
+<br />
+<br />
+
+<div style="float: left; width: 40%;">
+
+* **Entry of nutrients into system**
+  + biological fixation
+  + weathering
+  + deposition
+
+<br />
+
+* **Internal transfer**
+  + plants, microbes, consumers & environment
+  + decomposition
+ 
+ <br />
+ 
+* **Loss**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/nutrient_cycle1.png">
+
+## Ecosystem Nitrogen Cycling
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/Nitrogen-cycle2.png">
+
+## Nitrogen inputs: Fixation
+<hr>
+<br />
+<br />
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/Nitrogen-Fixing.jpg">
+
+<div style="float: left; width: 45%;">
+
+* **Energetically expensive**
+  + can be highly advantageous
+
+<br />
+
+* **N fixers limited by other resources**
+  + co-limitation of P
+  + limited once canopies closed (light)
+  
+<br />
+
+* **These factors reduce the competitive advantageof N fixers**
+  + N absorption becomes cheaper
+ 
+ </div>   
+
+## Nitrogen inputs: Deposition
+<hr>
+<br />
+
+* **Humans**
+  + fertilizers
+  + animal husbandry
+  + fossil fuels
+  + released as NH3 & NOx
+ 
+ <br /> 
+  
+* **Precipitation**
+
+ <br /> 
+ 
+* **Dust / aerosols**
+  
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/artichaze.jpg">
+
+## Nitrogen inputs: Clean air act (1970)
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/epa-trends.jpg">
+
+
+## Decomposition: Leaching / Fragmentation / Alteration
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/decomp.png">
+
+## Decomposition rate: Ecosystems
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/decomp_biomes.jpg">
+
+ 
+## Soil Nitrogen Pool
+<hr>
+<br />
+<br />
+<br />
+
+
+<div style="float: left; width: 45%;">
+
+* **N availability determines fate**
+  + organic N → NH<sub>4</sub> → NO<sub>3</sub>
+  + Shifts in mycorrhizal contribution
+  
+  Release inorganic NH<sub>4</sub> into soil
+ 
+ <br />
+ 
+* **When N availability ↓:**
+  + competition !!!
+
+ </div> 
+ 
+<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:400px; HEIGHT:450px" SRC="images/mycorr2.jpg">
+
+## Pathways of N loss
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/nitro_loss.jpg">
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:625px; WIDTH:400px; HEIGHT:500px" SRC="images/nitrate_loss2.png">
+
+## Agriculture: N solution losses
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:500px; HEIGHT:300px" SRC="images/nitrate_loss.jpg">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:650px; WIDTH:300px; HEIGHT:200px" SRC="images/npk.jpg">
+
+
+## Phosphorus cycling
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soilP2.jpg">
+
+
+## Phosphorus cycling
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/soilP.png">

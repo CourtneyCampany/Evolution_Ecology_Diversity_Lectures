@@ -1,0 +1,42 @@
+---
+title: "trophic levels"
+author: "Court Campany"
+date: "October 31, 2018"
+output: ioslides_presentation
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Trophic Dynamics
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/grazers.jpg">
+
+## Trophic Casacdes
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/energy_v_nutrient.jpg">
+
+## Consumers
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/trophic_levels.jpg">
+
+## Levels
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/pyramid.jpg">
+
+## DDT case study
+<hr>
+
+## other case study
+<hr>
+
+
+## NPP
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/npp_biome.jpg">
+
+## Most productive systems ?
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/npp_biome.jpg">

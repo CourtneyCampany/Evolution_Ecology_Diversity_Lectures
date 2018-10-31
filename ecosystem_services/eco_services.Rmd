@@ -1,0 +1,42 @@
+---
+title: "Ecosystem Services"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Sustainability and System Science 
+<hr>
+<br/>
+
+>- <strong>Consider that I give everyone 1 dollar each time you come to class</strong> 
+  >- Is that sustainable?    
+<br/>
+
+>- <strong>What information do we need?</strong>
+  >- What is my 'stock' of money?
+<br/>
+
+>- <strong>What if I spend $ on other stuff? </strong>  
+  >- What is my 'input' of new money
+  >- What is my 'turnover' time of money based on my consumption of money
+<br/>
+
+>- <strong>What if the class size grows....because Im giving away money?</strong> 
+<br/>
+<br/>
+>- <strong><span style="color:green">This question relates to a 'system' which has a balancing point</strong></span>
+
+## Climate Resilience: Human Interactions
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/buildreslience.png"> 
+
+## Restoration Ecology
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/restoration_ecology.jpg">
