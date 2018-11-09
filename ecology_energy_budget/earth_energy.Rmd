@@ -1,5 +1,5 @@
 ---
-title: "Earth's Energy Budget"
+title: "Ecology and Earth's Energy Budget"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -14,21 +14,106 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ##
+<div class="centered"><span style="color:black">The relationships of organisms to one another and to their surroundings</span></div>
 
-<IMG STYLE="position:absolute; TOP:1500px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/albedo_paint.jpg">
- 
 
-## Earth's Energy Budget
-<hr>
+<IMG STYLE="position:absolute; TOP:160px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/ecology2.jpg">
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/Radiationbalance.jpg">
+<div class="centered"><span style="color:green">"A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community. It is wrong when it tends otherwise" -Aldo Leopold </span></div>
 
-## Short wave radiation vs long wave (add long)
+## What does ecology have to do with me?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/ecology3.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/footprint.jpg">
+
+
+##
+
+<IMG STYLE="position:absolute; TOP:125px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ecology.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:125px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/albedo_paint.jpg">
+
+## Albedo
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/albedo.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:20px; LEFT:100px; WIDTH:500px; HEIGHT:800px" SRC="images/albedo2.jpg">
+
+<div class="item-absolute">Earth's average albedo is ~0.3, but it is changing. What does this actually mean? </div>
+</div>
+
+## Sun is Earth's primarily form of heat, bathing us with radiation
 <hr>
 <br />
+<br />
+<br />
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/shortwave.png">
+<div style="float: left; width: 45%;">
+
+* **Roughly one third of sunlight energy reflects back to space**
+
+<br />
+
+* **Rest is absorbed by land, ocean and atmosphere**
+
+<br />
+
+* **Exact amount absorbed depends on reflectivity of atmosphere and surface**
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:525px; WIDTH:500px; HEIGHT:500px" SRC="images/newradiation.gif">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:800px; HEIGHT:600px" SRC="images/Radiationbalance.jpg">
+
+## Earth's Energy Budget: Balance
+<hr>
+
+* <strong>Earth normally close to radiative balance</strong> 
+    + temperatures should remain constant
+  
+<br />
+
+* **Atmospheric heating**
+    + absorption of some solar radiation by active gases
+  
+<br />
+  
+* **Recent large increases in active atmospheric gases**
+    + fossil fuels, industry and agriculture
+    + atmosphere traps more energy = **enhances greenhouse effect**
+  
+<br />
+
+* **Disrupts radiative balance (.2-.3%)**
+    + excess energy absorbed by oceans
 
 ## Greenhouse effect
 <hr>
@@ -39,28 +124,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Greenhouse effect
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VYMjSule0Bw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-## Earth's Energy Budget: Balance
-<hr>
-
-* <strong>Earth normally close to radiative balance</strong> (emission = absorbtion)
-  
-<br />
-
-* <strong>Atmospheric heating</strong>
-  + <span style="color:green">longwave absorption by active gases</span>
-  + absorption of some solar radiation
-  + *latent heat flux*: 
-  + *sensible heat flux*: 
-  
-<br />
-  
-* <strong><span style="color:green">Recent large increases in active atmospheric gases</span></strong>
-  + fossil fuels, industry and agriculture
-  + atmosphere traps more longwave = <strong>enhances greenhouse effect</strong>
-  
-* disrupts radiative balance (.2-.3%)
-  + excess energy absorbed by oceans
 
 ## Earth's Energy Budget: Atmosphere Absorption
 <hr>
@@ -77,7 +140,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <div style="float: right; width: 50%;">
 <br />
 
-* <strong>Most gases have long mean residence times</strong>
+* <strong>Most gases have long residence times</strong>
   + constant around the world
   + N<sub>2</sub> = 13 mil and O<sub>2</sub> = 10,000 years
   + CO<sub>2</sub> = 5 years (?Good or Bad?)
@@ -91,125 +154,38 @@ knitr::opts_chunk$set(echo = FALSE)
 
 </div>
 
-## Why clouds are cool...
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/clouds.jpg">
-
-## Net radiation absorbed: In vs Out
-<hr>
-<br />
-<br />
-<br />
-
-<div style="float: left; width: 45%;">
-
-* **Surface absorbs ~48% of incoming sunlight**
-
-<br />
-
-* **3 processes remove an equivalent amount of energy from the Earth’s surface**
-  + evaporation (25%)
-  + convection (5%)
-  + thermal infrared radiation, or heat (net 17%).
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:300px" SRC="images/newradiation.gif">
-
-## Global net radiation
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:175px; WIDTH:700px; HEIGHT:350px" SRC="images/modis_radiation2.png">
-
-## Radiation Partitioning
+## Surface energy budget
 <hr>
 <br />
 <div style="float: left; width: 40%;">
 
 * **Energy transfered from surface**
-  + latent heat flux
-  + sensible heat flux
 
 <br />
 
 * **Energy conducted into the soil**
-  + ground heat flux
   + Largest in regions with permafrost
 
 <br />
 
 * **Energy stored inside ecosystem**
   + photosynthetic chemical energy
-  + temperature flux of plants
 </div> 
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:500px; HEIGHT:300px" SRC="images/surface_budget.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:500px; HEIGHT:400px" SRC="images/surface_budget.jpg">
 
-## Albedo
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/albedo.png">
-
-## Albedo feedbacks
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:500px; HEIGHT:500px" SRC="images/albedo2.jpg">
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:600px; WIDTH:500px; HEIGHT:500px" SRC="images/world1.jpg">
-
-## Water Cycle
+## Why clouds are cool...
 <hr>
+<br />
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/water_cycle.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/clouds.jpg">
 
 ## Solar energy & water cycle interconnected
 <hr>
 
 <div class="centered"><strong><span style="color:orange">25% of incoming solar energy leaves the surface through evaporation</span></strong></div>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<div class="centered"><strong><span style="color:orange">Latent heat released once water vapor condenses</span></strong></div>
-
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/Solar-Energy.jpg">
-
-## Water for Humans?
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/waterpeople.png">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/water_sphere.jpg">
-
-## Hot topic: Groundwater supports 40% of agriculture
-<hr>
-
-<IMG STYLE="position:absolute; TOP:150x; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/fossilwater2.png">
-
-## Hot topic: Fossilwater
-<hr>
-
-<IMG STYLE="position:absolute; TOP:150px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/fossilwater1.png">
-
-## In the news: Megadrought
-<hr>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ToY4eeWsdLc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Water vapor feedback
 <hr>
@@ -246,7 +222,6 @@ knitr::opts_chunk$set(echo = FALSE)
 <div style="float: left; width: 50%;">
 
 * **Major role in linkage of water/energy budget**
-  + Surface evaporation + leaf transpiration
 
 <br />
 
@@ -269,6 +244,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/evapotrans_usa.png">
 
+## Water Cycle
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/water_cycle.png">
+
 ## Ecosystem Water Budgets: Big Buckets
 <hr>
 
@@ -278,6 +258,30 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/recharge.png">
+
+## Water for Humans?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/waterpeople.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/water_sphere.jpg">
+
+## Hot topic: Groundwater supports 40% of agriculture
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150x; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/fossilwater2.png">
+
+## Hot topic: Fossilwater
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/fossilwater1.png">
+
+## In the news: Megadrought
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ToY4eeWsdLc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 
 
 
