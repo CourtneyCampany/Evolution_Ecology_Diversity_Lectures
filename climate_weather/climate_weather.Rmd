@@ -9,6 +9,124 @@ output:
 runtime: shiny
 ---
 
+## Climate vs Weather
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/trumpcold.jpg">
+
+## What drives global climate zones?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/climate_world.gif">
+
+## Slope of Earth's surface causes uneven heating
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/uneven_heating.gif">
+
+## Atmosphere Circulation affects rainfall
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:500px" SRC="images/hadley.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:500px" SRC="images/hadley2.jpg">
+
+## Climate Variability: Longer time scales
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/elnino.jpg">
+
+## Climate Variability: Longer time scales
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/ice_ages.jpg">
+
+## Climate Variability: Longer time scales
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/CO2_history.jpg">
+
+## Climate Variability: Shorter time scales =  seasons
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/seasons.jpg">
+
+## Climate Variability: Shorter time scales = Weather
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/usa_weather.jpg">
+
+## Climate drives distribution of biomes
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:500px; HEIGHT:500px" SRC="images/biomes_temp.png">
+
+## Climate and vegetation
+<hr>
+<br />
+
+* Vegetaion struture varies within and among biomes due to climate
+  + Predictable!
+  
+  <br />
+  <br />
+  
+* Examples:
+
+<br />
+
+* Remember: boundaries caused by climate are not discrete
+  + Gradients of growth forms, leaf types, life forms, etc.
+  
+## Climate and diversity
+<hr>
+
+<div class="centered">
+<strong><span style="color:green">Species Diversity declines from tropics and from low-high elevation</span></strong>
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/biomes2.png">
+
+##
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h1eRp0EGOmE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Landform effect on climate
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:475px; WIDTH:500px; HEIGHT:400px" SRC="images/rainshadow.jpg">
+
+## Ocean effect on climate
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:475px; WIDTH:500px; HEIGHT:400px" SRC="images/atlantic_currents.jpg">
+
+## Vegetation effects on climate
+<hr>
+<br />
+
+* <strong>Variable albedo</strong>
+  + issues with land use change
+  
+  <br />
+  
+* <strong>Vegetation structure</strong>
+  + Tropical recycled rain
+  + https://www.youtube.com/watch?v=Y3OWgb0Bv-A
+  
+<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:350px; HEIGHT:350px" SRC="images/trees_rain.jpg">
+
+
+
+## Precipation Shifts?
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ipOcTpNl5rs?rel=0&amp;" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+
 ## Climate: Hot Topic
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXrYvd-LBu0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -44,206 +162,15 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:800px; HEIGHT:500px" SRC="images/emissions.png">
 
-##
-
-<IMG STYLE="position:absolute; TOP:75px; LEFT:350px; WIDTH:400px; HEIGHT:600px" SRC="images/politics.png">
-
-## Climate and biomes 
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:500px; HEIGHT:500px" SRC="images/biomes_temp.png">
-
-## Climate and vegetation
-<hr>
-<br />
-
-* Vegetaion struture varies within and among biomes due to climate
-  + Predictable!
-  
-  <br />
-  <br />
-  
-* Examples:
-
-<br />
-
-* Remember: boundaries caused by climate are not discrete
-  + Gradients of growth forms, leaf types, life forms, etc.
-  
-## Climate and diversity
-<hr>
-
-<div class="centered">
-<strong><span style="color:green">Species Diversity declines from tropics and from low-high elevation</span></strong>
-</div>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/biomes2.png">
-
-##
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h1eRp0EGOmE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-## Atmosphere: Circulation → Uneven Heating
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/uneven_heating.gif">
-
-## Atmosphere: Circulation → Hadley cell
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:600px; HEIGHT:400px" SRC="images/hadley.jpg">
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:525px; WIDTH:600px; HEIGHT:400px" SRC="images/hadley2.jpg">
-
-## Atmosphere: Rotation → Corilis effect
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i2mec3vgeaI?start=6" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-## Landform effect on climate
-<hr>
-<br />
-
-<div style="float: left; width: 50%;">
-
-* <strong>Land</strong>
-  + heating of ocean vs land
-  + land and sea breezes
-  + dirunal and seasonal
-  
-<br />
-<br /> 
-
-* <strong>Mountains</strong>
-  + rain shadow
-  + topography & micro-climate
-  + aspect -?Ski Resorts?-
-</div>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:475px; WIDTH:500px; HEIGHT:400px" SRC="images/rainshadow.jpg">
-
-## Vegetation effects on climate
-<hr>
-<br />
-
-* <strong>Variable albedo</strong>
-  + bare soil > grasslands > forests
-  + issues with land use change
-  
-  <br />
-
-* <strong>Ecosystem structure</strong>    
-  + smooth vs variable surfaces (forest stands)
-  + wind turbulence alters senisble and latent heat fluxes
-  
-  <br />
-  
-* <strong>Vegetation structure</strong>
-  + Tropical recycled rain
-  + https://www.youtube.com/watch?v=Y3OWgb0Bv-A
-  
-<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:350px; HEIGHT:350px" SRC="images/trees_rain.jpg">
-
-## Climate Variability: Longer time scales
-<hr>
-<br />
-
-<div style="float: left; width: 50%;">
-
-* <strong>Millennial</strong>
-  + distribution of solar input (orbit variation)
-  + atmospheric composition changes
-  + volcanoes and asteroids (solar)
-  + glacial periods
-  
-<br />
-
-* <strong>Bubbles in ice </strong>
-  + ice cores give us a view to the past
-  + past warming from CO<sub>2</sub> and CH<sub>4</sub> 
-  + CO<sub>2</sub> now highest in 650,000 years
-</div>
-
-
-<div style="float: right; width: 45%;">
-
-* <strong>Interannual</strong>
-  + changes in atmosphere-ocean systems
-  + La Nina = norm
-  + cool surface waters over eastern Pacific
-
-<br />
-
-* <strong>El Nino</strong>
-  + atmospheric pressure + ocean temp changes
-  + weakening of Pacific, Indo and easterly winds
-  + warm waters of Pacific change to eastward
-</div>
-
-## Water vapor
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/watervapor_globe.png">
-
-## Precipation Shifts?
-<hr>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ipOcTpNl5rs?rel=0&amp;" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-## Climate Variability: Shorter time scales
-<hr>
-<br />
-
-<div style="float: left; width: 50%;">
-
-* <strong>Seasonal</strong>
-  + realted to earths tilt and rotation
-  + predictable
-  + day length and irradiance
-  
-<br />
-
-* <strong>Equinoxes</strong>
-  + sun directly over equator
-  + 12 hr daylight
-  
-  <br />
-  
-* <strong>Solstices</strong>
-  + Sun reaches most northerly/southerly excursion 
-  + daylength min/max
-  + pronouced as latitude ↑
-  
-</div>
-
-
-<div style="float: right; width: 50%;">
-
-* <strong>Daily</strong>
-  + photoperiod
-  + temperature
-  + storms 
-  + weather
-</div>
-
-<IMG STYLE="position:absolute; TOP:375px; LEFT:600px; WIDTH:400px; HEIGHT:250px" SRC="images/seasons.png">
-
-## Climate Variability: People
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/climate-people.png">
-
-## What is weather?
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/trumpcold.jpg">
-
 ## Global Precipitation
 <hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c2-iquZziPU?rel=0&amp;start=52" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Atmosphere: Rotation → Corilis effect
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i2mec3vgeaI?start=6" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## How does weather impact ecosystems
 <hr>
@@ -254,7 +181,3 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:280spx; LEFT:300px; WIDTH:425px; HEIGHT:425px" SRC="images/hurricanes.jpg">
 
-## People and weather/climate
-
-
-<IMG STYLE="position:absolute; TOP:280spx; LEFT:300px; WIDTH:425px; HEIGHT:425px" SRC="images/people_climate.jpg">

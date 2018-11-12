@@ -266,6 +266,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/water_sphere.jpg">
 
+## People and water cycle
+
+<IMG STYLE="position:absolute; TOP:280spx; LEFT:300px; WIDTH:425px; HEIGHT:425px" SRC="images/people_climate.jpg">
+
 ## Hot topic: Groundwater supports 40% of agriculture
 <hr>
 
