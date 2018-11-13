@@ -1,5 +1,5 @@
 ---
-title: "Ecological Succession"
+title: "Community Dynamics"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:

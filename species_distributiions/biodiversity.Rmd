@@ -1,0 +1,102 @@
+---
+title: "Biodiversity"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## What is Species Diversity?
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/spp_diversity.gif">
+
+<div style="float: right; width: 50%;">
+
+* **# of different species that are represented in a given community**
+
+<br/>
+
+* **3 components**
+    + richness = simple count of species
+    + evenness = how equal the abundances of the species are
+    + taxonomic or phylogenetic diversity
+
+<br/>
+
+* **Gradient ranging from low at the poles to high at the equator**
+    + terrestrial and oceans(?)
+</div>
+
+
+##
+<IMG STYLE="position:absolute; TOP:75px; LEFT:150px; WIDTH:750px; HEIGHT:600px" SRC="images/diverse_services.png">
+
+## Keystone species
+
+  + loss of dominant species hurts more
+  + keystone species: ecologically distinct
+  
+## Biodiversity hotspots
+
+## Mapping biodiversity: Plants
+
+## Mapping biodiversity: Animals
+
+## Mapping biodiversity: Oceans?
+
+## Threats to biodiversity
+
+
+## Hitorical species diversity: Megafauna Extinction
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:425px; HEIGHT:425px" SRC="images/lostmega.jpeg">
+
+<div style="float: right; width: 45%;">
+
+* **Large herbivores and carnivores declined since the Late Pleistocene**
+      + land and oceans
+      + human induced effects
+
+<br/>
+
+* **Do megafana impact ecological systems?**
+    + consumption and digestion releases methane
+    + trampling or browsing alters vegetation: albedo/water cycles 
+
+</div>
+
+## Diversity as Insurance
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 48%;">
+* **Diversity buffers against functional changes**
+    + ecosystem stability maintained
+    + protects against drastic change to extreme events
+
+<br/>
+    
+* **6^th^ major extinction event**
+      + 100-fold greater than pre-human
+      + biologically driven
+      + loss of species is irreversible
+</div>
+ 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/extinction2.png"> 
+
+##
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction3.jpg">
+
+##
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction1.png">

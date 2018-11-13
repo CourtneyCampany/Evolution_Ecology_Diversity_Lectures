@@ -1,5 +1,5 @@
 ---
-title: "Species Effects on Ecosystems"
+title: "Species Interactions"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -15,9 +15,9 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 
-* **Intricate webs of interacting organisms create resilient sources of ecological services**
+* **Intricate webs of interacting organisms**
     + 2,000,000 species are known 
-    + 18,000  plants and animals discovered per year
+    + 18,000 plants and animals discovered per year
     + estimated 87% of Eukaryotas unknown
 
 <br/>
@@ -28,38 +28,23 @@ runtime: shiny
 
 * **Humans have altered 75% of ice-free surface**
     + alters species composition
-    + directly impacts ecosystem processes
  </div>
  
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:475px; HEIGHT:350px" SRC="images/animals.jpg">
     
-## Megafauna Extinction
+## Biological communities
 <hr>
-<br/>
-<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:425px; HEIGHT:425px" SRC="images/lostmega.jpeg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:450px; HEIGHT:350px" SRC="images/desert.jpg">
 
-<div style="float: right; width: 45%;">
-
-* **Large herbivores and carnivores declined since the Late Pleistocene**
-      + land and oceans
-      + human induced effects
-
-<br/>
-
-* **Do megafana impact climate?**
-    + consumption and digestion releases methane
-    + trampling or browsing alters vegetation: albedo/water cycles 
-
-</div>
-
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/coral_reef.jpg">
+    
 ## Hot Topic: Invasives
 <hr>
 <br/>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 55%;">
 
 * **Exotic species can change physical and biotic environment**
     + alter native species communities
@@ -73,13 +58,8 @@ runtime: shiny
 
 * **Impacts of invasives outweigh natural extinction rates**
  </div>
- 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/invasives1.jpg">
 
-## Hot Topic: Invasive Species
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/invasives2.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/invasives2.png">
 
 ## Humans & Invasive Species
 <hr>
@@ -93,7 +73,7 @@ runtime: shiny
 <div style="float: left; width: 55%;">
 
 * **Replacement of native species by exotics**
-    + process by which ecosystems lose their uniqueness 
+    + ecosystems lose their uniqueness 
 
 <br/>
 
@@ -103,9 +83,9 @@ runtime: shiny
 <br/>
 
 * **Biotic homogenization tied to humans**
-    + landscape simplification leads to resource declines
-    + loss of habitat & resources following urbanization
-    + competition and hybridization with invasive species
+    + landscape simplification
+    + habitat loss
+    + competition and hybridization with invasives
 
 </div>
 
@@ -114,6 +94,57 @@ runtime: shiny
 ## Homogenization: USA?
 <hr>
 <IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/usa_diverse.png">
+
+## Species in a community interact constantly
+<hr>
+<IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/turtle.png">
+
+
+## Bird Networks in the Amazon (complexity)
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/birds_network.jpg">
+
+## Species interact in different ways
+
+competition, predation, defense mechanism, symbiotic relationship, parasitic relationship, consumption
+
+## Species relationships may have benefits/costs
+
+## Competition lowers the fitness of both individuals
+
+## Competition explains species niches
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niches.jpg">
+
+## Competition among barnacles
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/barnacles.png">
+
+## Warblers: competition avoidance
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/avoidance.jpg">
+
+## Consumption: Herbiory, Predation and Parasitism
+
+## Predator-Prey: Isle Royale
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/IsleRoyale.jpg">
+
+## Consumption leads to Defenses: Plants
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plant_defense.jpg">
+
+## Consumption leads to Defenses: Animals
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/newt.jpg">
+
+## Consumption is an agent of natural selection
+
+## Mutualisms
+
+
+
+
 
 ## Species Effects: Trophic Levels
 <hr>
@@ -134,38 +165,6 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:625px; WIDTH:300px; HEIGHT:500px" SRC="images/species_eco.png">
 
-## Keystone
-
-    + loss of dominant species hurts more
-    + keystone species: ecologically distinct
-  
-
-##
-<IMG STYLE="position:absolute; TOP:75px; LEFT:150px; WIDTH:750px; HEIGHT:600px" SRC="images/diverse_services.png">
-
-## What is Species Diversity?
-<hr>
-<br/>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/spp_diversity.gif">
-
-<div style="float: right; width: 50%;">
-
-* **# of different species that are represented in a given community**
-
-<br/>
-
-* **3 components**
-    + richness = simple count of species
-    + evenness = how equal the abundances of the species are
-    + taxonomic or phylogenetic diversity
-
-<br/>
-
-* **Gradient ranging from low at the poles to high at the equator**
-    + terrestrial and oceans(?)
-</div>
 
 ## Functional Traits
 <hr>
@@ -442,33 +441,6 @@ runtime: shiny
 * **Species presence or absense can predict ecosystem functions**
 </div>
 <IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:400px; HEIGHT:400px" SRC="images/bee.jpg">
-
-## Diversity as Insurance
-<hr>
-<br/>
-<br/>
-<br/>
-
-<div style="float: right; width: 48%;">
-* **Diversity buffers against functional changes**
-    + ecosystem stability maintained
-    + protects against drastic change to extreme events
-
-<br/>
-    
-* **6^th^ major extinction event**
-      + 100-fold greater than pre-human
-      + biologically driven
-      + loss of species is irreversible
-</div>
- 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/extinction2.png"> 
-
-##
-<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction3.jpg">
-
-##
-<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction1.png">
 
 
 ## Complementary Hypothesis
