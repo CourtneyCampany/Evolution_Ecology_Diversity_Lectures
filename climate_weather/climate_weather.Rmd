@@ -14,10 +14,17 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/trumpcold.jpg">
 
+## Elements of weather
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:400px; HEIGHT:350px" SRC="images/elements.png">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:300px" SRC="images/earth_energy.jpg">
+
 ## What drives global climate zones?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/climate_world.gif">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/climate-world.gif">
 
 ## Slope of Earth's surface causes uneven heating
 <hr>
@@ -25,37 +32,39 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/uneven_heating.gif">
 
-## Atmosphere Circulation affects rainfall
+## Atmosphere circulation affects rainfall
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:500px" SRC="images/hadley.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:500px" SRC="images/hadley2.jpg">
 
-## Climate Variability: Longer time scales
+## Climate variability: Long time scales
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/elnino.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:500px; HEIGHT:500px" SRC="images/elnino.jpg">
 
-## Climate Variability: Longer time scales
+<IMG STYLE="position:absolute; TOP:175px; LEFT:575px; WIDTH:500px; HEIGHT:300px" SRC="images/elnino2.png">
+
+## Climate variability: Long time scales
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/ice_ages.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ice_ages.jpg">
 
-## Climate Variability: Longer time scales
+## Climate variability: Long time scales
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/CO2_history.jpg">
 
-## Climate Variability: Shorter time scales =  seasons
+## Climate Variability: Short time scales = Seasons
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/seasons.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/seasons.jpg">
 
-## Climate Variability: Shorter time scales = Weather
+## Climate Variability: Short time scales = Weather
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/usa_weather.jpg">
+<IMG STYLE="position:absolute; TOP:190x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/usa_weather.jpg">
 
 ## Climate drives distribution of biomes
 <hr>
@@ -63,121 +72,80 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:500px; HEIGHT:500px" SRC="images/biomes_temp.png">
 
-## Climate and vegetation
+## Vegetation varies within and among biomes due to climate
 <hr>
 <br />
 
-* Vegetaion struture varies within and among biomes due to climate
-  + Predictable!
+<IMG STYLE="position:absolute; TOP:200px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/africa.jpg">
   
-  <br />
-  <br />
-  
-* Examples:
-
-<br />
-
-* Remember: boundaries caused by climate are not discrete
-  + Gradients of growth forms, leaf types, life forms, etc.
-  
-## Climate and diversity
+## Species diversity declines from tropics and from high elevation
 <hr>
 
-<div class="centered">
-<strong><span style="color:green">Species Diversity declines from tropics and from low-high elevation</span></strong>
-</div>
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biomes2.png">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/biomes2.png">
+## Landform impacts climate: Rain Shadow
+<hr>
 
-##
+<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/rainshadow.jpg">
+
+## Landform impacts weather: Hurricane
+<hr>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h1eRp0EGOmE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Landform effect on climate
+## Ocean impacts climate
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:475px; WIDTH:500px; HEIGHT:400px" SRC="images/rainshadow.jpg">
-
-## Ocean effect on climate
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:475px; WIDTH:500px; HEIGHT:400px" SRC="images/atlantic_currents.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/atlantic_currents.jpg">
 
 ## Vegetation effects on climate
 <hr>
-<br />
+https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
-* <strong>Variable albedo</strong>
-  + issues with land use change
-  
-  <br />
-  
-* <strong>Vegetation structure</strong>
-  + Tropical recycled rain
-  + https://www.youtube.com/watch?v=Y3OWgb0Bv-A
-  
-<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:350px; HEIGHT:350px" SRC="images/trees_rain.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:500px; HEIGHT:400px" SRC="images/cloudforest.jpg">
 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/trees_rain.jpg">
 
-
-## Precipation Shifts?
+## How does climate impact ecology?
 <hr>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ipOcTpNl5rs?rel=0&amp;" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/climate_ecology.png">
 
+## How does weather impact ecology?
+<hr>
 
+<div class="centered">
+<strong>Extreme weather such as hurricanes, torrential downpours and droughts will increases the risk for species extinction, especially in diverse ecosystems such as coral reefs and tropical rainforests.</strong>
+</div>
 
+<IMG STYLE="position:absolute; TOP:280px; LEFT:50px; WIDTH:350px; HEIGHT:350px" SRC="images/hurricanes.jpg">
 
-## Climate: Hot Topic
+<IMG STYLE="position:absolute; TOP:240px; LEFT:460px; WIDTH:600px; HEIGHT:400px" SRC="images/irma.jpg">
+
+## Climate is a **Hot** Topic
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXrYvd-LBu0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## We are *modifiying* Earth's climate
+## We are *modifiying* Earth's climate and weather
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:600px; HEIGHT:400px" SRC="images/humans_climate.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/humans_climate.png">
 
-<div style="float: right; width: 35%;">
-<br />
-<br />
-
+**notes**
 * <strong>Changes in climate alter ecosystem processes</strong>
   + subtly and not so subtly
-<br />
-<br />
 * <strong>USA 2017</strong>
   + Fire and storm frequency
   + Hurricane strength -- ?WHY?
-</div>
-
-## Climate: Hot Topic
-<hr>
-<br />
-
-<br />
-<br />
-<strong>http://www.ipcc.ch/</strong>
-
-<IMG STYLE="position:absolute; TOP:350px; LEFT:50px; WIDTH:200px; HEIGHT:200px" SRC="images/ipcc.png">
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:800px; HEIGHT:500px" SRC="images/emissions.png">
-
-## Global Precipitation
-<hr>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c2-iquZziPU?rel=0&amp;start=52" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Atmosphere: Rotation → Corilis effect
 <hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i2mec3vgeaI?start=6" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## How does weather impact ecosystems
+## Global Precipitation
 <hr>
 
-<div class="centered">
-<strong>Extreme weather such as hurricanes, torrential downpours and droughts will become more frequent in pace with global warming. This increases the risk for species extinction, especially in bio diverse ecosystems such as coral reefs and tropical rainforests.</strong>
-</div>
-
-<IMG STYLE="position:absolute; TOP:280spx; LEFT:300px; WIDTH:425px; HEIGHT:425px" SRC="images/hurricanes.jpg">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c2-iquZziPU?rel=0&amp;start=52" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

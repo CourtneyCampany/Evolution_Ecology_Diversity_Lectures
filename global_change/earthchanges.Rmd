@@ -89,6 +89,18 @@ Could we push Earth System to new state?</span></strong>
 
 </div>
 
+## Climate: Hot Topic
+<hr>
+<br />
+
+<br />
+<br />
+<strong>http://www.ipcc.ch/</strong>
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:50px; WIDTH:200px; HEIGHT:200px" SRC="images/ipcc.png">
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:800px; HEIGHT:500px" SRC="images/emissions.png">
+
 ## Climate Variability: People
 <hr>
 <br />
@@ -147,6 +159,12 @@ Could we push Earth System to new state?</span></strong>
     + shift to sensible heat in tropics
     
 <IMG STYLE="position:absolute; TOP:240px; LEFT:500px; WIDTH:500px; HEIGHT:350px" SRC="images/precip.jpg">
+
+## Precipation Shifts?
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ipOcTpNl5rs?rel=0&amp;" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
     
 ## Ground Water (3)
 <hr>
