@@ -1,0 +1,57 @@
+---
+title: "Species Interactions"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+
+## Species in a community interact constantly
+<hr>
+<IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/turtle.png">
+
+## Species interact in different ways
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/avoidance.jpg">
+## Bird Networks in the Amazon (complexity)
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/birds_network.jpg">
+
+## Species relationships may have benefits/costs
+
+## Competition lowers the fitness of both individuals
+
+## Competition explains species niches
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niches.jpg">
+
+## Competition among barnacles
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/barnacles.png">
+
+## Warblers: competition avoidance
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/avoidance.jpg">
+
+## Consumption: Herbiory, Predation and Parasitism
+
+## Predator-Prey: Isle Royale
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/IsleRoyale.jpg">
+
+## Consumption leads to Defenses: Plants
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plant_defense.jpg">
+
+## Consumption leads to Defenses: Animals
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/newt.jpg">
+
+## Consumption is an agent of natural selection
+
+## Mutualisms
+

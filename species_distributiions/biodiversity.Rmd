@@ -50,7 +50,188 @@ runtime: shiny
 
 ## Mapping biodiversity: Oceans?
 
+## How does this all work?
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:150px; WIDTH:750px; HEIGHT:600px" SRC="images/island_biogeo.jpg">
+
 ## Threats to biodiversity
+
+## Hot Topic: Invasives
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Exotic species can change physical and biotic environment**
+    + alter native species communities
+
+<br/>
+
+* **Aquatic ecosystems have been heavily affected**
+    + accidental & intentional
+
+<br/>
+
+* **Impacts of invasives outweigh natural extinction rates**
+ </div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/invasives2.png">
+
+## Humans & Invasive Species
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/species_ship.jpg">
+
+## Hot Topic: Homogenization
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Replacement of native species by exotics**
+    + ecosystems lose their uniqueness 
+
+<br/>
+
+* **Taxonomic homogenization: increased similarity of species** 
+      + plants, insect, fish, birds & mammals
+
+<br/>
+
+* **Biotic homogenization tied to humans**
+    + landscape simplification
+    + habitat loss
+    + competition and hybridization with invasives
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/blender.jpg">
+
+## Homogenization: USA?
+<hr>
+<IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/usa_diverse.png">
+
+## Species Effects: Trophic Levels
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Several hierarchical levels in an ecosystem**
+      + organisms that share the same function in the food chain
+
+<br/>
+
+* **No single species performs all functional roles within a trophic level**
+* Biodiversity is important for ecosysem functioning**
+* ecosystems work better as a group than an indivdiual
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:625px; WIDTH:300px; HEIGHT:500px" SRC="images/species_eco.png">
+
+
+
+
+
+## Functional Types
+<hr>
+
+<div class="centered"><strong><span style="color:green">Groups of species that are "ecologically similar"</span></strong></div>
+
+<br/> 
+<br/>
+<br/>
+
+* **Respones Functional Types**
+    + C~4~ grasses
+    + fire-adapted species
+    
+<br/>
+
+* **Effect Functional Types**
+    + nitrifying bacteria
+    + termites
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/resprout.jpg">
+
+
+
+
+## Species Effects: Disturbance
+<hr>
+<br/>
+<br/>
+<div style="float: right; width: 50%;">
+
+* **Organisms can alter disturbance regimes**
+    + impact colonization and species interactions
+    + cheat grass promotes fire
+
+<br/>
+
+* **Ecosystem engineers create or modify habitats**
+    + physical disturbance alters succession
+    + trampling affects vegetation/nutrients
+    + plants and flammability (resins)
+    + dune plants and soil stability
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/beaver.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:850px; HEIGHT:650px" SRC="images/mangroves.jpg">
+
+## Response Functional Types
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Species occur together because they can survive, compete and reproduce in the environment the co-occur**
+    + not all perfectly adapted
+    + networks of trophic interactions
+
+<br/>
+
+* **Species differences in respones broaden ecosystem function**
+    + larger threshold of environmental conditions
+    + fosters ecosystem resilience
+ </div>   
+        
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/interaction.jpg">  
+    
+
+## Response Diversity
+<hr>
+<br/>
+<br/>
+<div style="float: right; width: 50%;">
+* **Diversity impactst ecosystem resouce use**
+      + Leaching ↓ in more diverse grasslands
+      + High diversity may lead to ↑ nutrient use
+    
+<br/>
+
+* **Complementary patterns of resouce use**
+      + grasslands with C~3~ and C~4~ species
+      + summer vs winter rains in deserts
+
+<br/>
+
+* **Diverse ecosystems are not always more productive**
+    + plantations vs mixed-forests
+    + ecosystem processes may saturate
+</div>
+ 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:400px" SRC="images/response.png"> 
+
+## Biodiversity in a changing world
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/biodiversity_redistribution.jpg">
 
 
 ## Hitorical species diversity: Megafauna Extinction
@@ -100,3 +281,22 @@ runtime: shiny
 
 ##
 <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction1.png">
+
+
+## Biodiveristy and ecosystem function
+ No one species fills all the roles of an ecosystem
+
+## Complementary Hypothesis
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/comp.jpg">
+
+## Redundancy Hypothesis
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/redund.jpg">
+
+## Driver and Passenger Hypothesis
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/driver.jpg">

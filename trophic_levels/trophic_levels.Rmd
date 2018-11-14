@@ -26,6 +26,28 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/pyramid.jpg">
 
+## Species Effects: Trophic Interactions
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Top-down controls: removal of top predators**
+    + otters : urchins : kelp
+    + over-fishing : urchins : killer whales
+    + wolves : elk : vegetation
+    + elephants : savannas : forests
+
+<br/>
+
+* **Large impact on lower trophic levels**
+    + usually through nutrient cycling
+</div>
+
+<IMG STYLE="position:absolute; TOP:215px; LEFT:575px; WIDTH:450px; HEIGHT:400px" SRC="images/otter.png">
+
 ## DDT case study
 <hr>
 

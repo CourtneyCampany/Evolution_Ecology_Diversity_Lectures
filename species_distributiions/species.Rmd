@@ -1,5 +1,5 @@
 ---
-title: "Species Interactions"
+title: "Species Distribution"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -31,6 +31,11 @@ runtime: shiny
  </div>
  
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:475px; HEIGHT:350px" SRC="images/animals.jpg">
+
+## Many factors affect species distributions
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:450px; HEIGHT:350px" SRC="images/species_climate.jpg">
     
 ## Biological communities
 <hr>
@@ -38,422 +43,89 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:450px; HEIGHT:350px" SRC="images/desert.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/coral_reef.jpg">
-    
-## Hot Topic: Invasives
-<hr>
-<br/>
-<br/>
-
-<div style="float: left; width: 55%;">
-
-* **Exotic species can change physical and biotic environment**
-    + alter native species communities
-
-<br/>
-
-* **Aquatic ecosystems have been heavily affected**
-    + accidental & intentional
-
-<br/>
-
-* **Impacts of invasives outweigh natural extinction rates**
- </div>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/invasives2.png">
-
-## Humans & Invasive Species
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/species_ship.jpg">
-
-## Hot Topic: Homogenization
-<hr>
-<br/>
-
-<div style="float: left; width: 55%;">
-
-* **Replacement of native species by exotics**
-    + ecosystems lose their uniqueness 
-
-<br/>
-
-* **Taxonomic homogenization: increased similarity of species** 
-      + plants, insect, fish, birds & mammals
-
-<br/>
-
-* **Biotic homogenization tied to humans**
-    + landscape simplification
-    + habitat loss
-    + competition and hybridization with invasives
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/blender.jpg">
-
-## Homogenization: USA?
-<hr>
-<IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/usa_diverse.png">
 
 ## Species in a community interact constantly
 <hr>
 <IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/turtle.png">
 
-
-## Bird Networks in the Amazon (complexity)
-<hr>
-<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/birds_network.jpg">
-
 ## Species interact in different ways
-
-competition, predation, defense mechanism, symbiotic relationship, parasitic relationship, consumption
-
-## Species relationships may have benefits/costs
-
-## Competition lowers the fitness of both individuals
-
-## Competition explains species niches
 <hr>
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/niches.jpg">
 
-## Competition among barnacles
-<hr>
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/barnacles.png">
-
-## Warblers: competition avoidance
-<hr>
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/avoidance.jpg">
 
-## Consumption: Herbiory, Predation and Parasitism
-
-## Predator-Prey: Isle Royale
-<hr>
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/IsleRoyale.jpg">
-
-## Consumption leads to Defenses: Plants
-<hr>
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plant_defense.jpg">
-
-## Consumption leads to Defenses: Animals
-<hr>
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/newt.jpg">
-
-## Consumption is an agent of natural selection
-
-## Mutualisms
-
-
-
-
-
-## Species Effects: Trophic Levels
-<hr>
-<br/>
-
-<div style="float: left; width: 50%;">
-
-* **Several hierarchical levels in an ecosystem**
-      + organisms that share the same function in the food chain
-
-<br/>
-
-* **No single species performs all functional roles within a trophic level**
-* Biodiversity is important for ecosysem functioning**
-* ecosystems work better as a group than an indivdiual
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:625px; WIDTH:300px; HEIGHT:500px" SRC="images/species_eco.png">
-
-
-## Functional Traits
+## So species distributions are largely related to their niche space
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:550px; HEIGHT:450px" SRC="images/functioanltrait.png">
-
-## 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:225px; WIDTH:650px; HEIGHT:550px" SRC="images/planttraits.jpg">
-
-## Functional Traits: Ecosystems
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/traits_wetlands.jpg">
-
-## Trait Based Ecology
-<hr>
-<br/>
-<br/>
-<br/>
-
-<div style="float: left; width: 45%;">
-
-* **Way to link population processes with the underlying environmental gradients or competitive interactions**
-    + dictate which species persist together
-    
-<br/>
-<br/>
-
-* **Traits provide a mechanistic basis for how ecosystems function**
-      + provide services that they deliver to humanity
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/traitecology.jpg">
-
-## Functional Types
+## Niches define the limiting factors for a species
 <hr>
 
-<div class="centered"><strong><span style="color:green">Groups of species that are "ecologically similar"</span></strong></div>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/tolerance.jpg">
 
-<br/> 
-<br/>
-<br/>
-
-* **Respones Functional Types**
-    + C~4~ grasses
-    + fire-adapted species
-    
-<br/>
-
-* **Effect Functional Types**
-    + nitrifying bacteria
-    + termites
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/resprout.jpg">
-
-## Species Effects: Biogeochemisty
-<hr>
-<br/>
-
-* **Traits that affect nutrient supply have large ecosystem effects**
-    + *Morella faya*: N fixing tree in Hawaii
-    + Deep-rooted species: *Eucalyptus*
-    + Salmon: nutrient transfer
-
-<br/>
-
-* **Soil fertility related to species litter quality**
-    + decomposition rates +/-
-
-<br/>
-
-* **Species composition of lakes**
-    + filter rates of Zebra mussels
-    
-<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:400px; HEIGHT:350px" SRC="images/bear.jpg">
-
-## Species Effects: Climate
-<hr>
-<br/>
-<br/>
-
-* **Micro-climate**
-    + boreal mosses insulate soil in summer
-    + 'nurse plants' shade baby cacti
-
-<br/>
-
-* **Energy exchange**
-    + plant height/density = surface roughness
-    + conifers = low albedo
-    + overgrazing ↑ albedo
-    
-<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:400px; HEIGHT:400px" SRC="images/nurse.jpg">
-
-## Desertification of Fertile Cresent
+## What factors limit species distributions
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/fertilecresent.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/coral_map.jpeg">
 
-## Species Effects: Trophic Interactions
-<hr>
-<br/>
-<br/>
-<br/>
+## Distibution patterns:
 
-<div style="float: left; width: 50%;">
+climatic factors consist of sunlight, atmosphere, humidity, temperature, and salinity;
+edaphic factors are abiotic factors regarding soil, such as the coarseness of soil, local geology, soil pH, and aeration; and
+social factors include land use and water availability.
 
-* **Top-down controls: removal of top predators**
-    + otters : urchins : kelp
-    + over-fishing : urchins : killer whales
-    + wolves : elk : vegetation
-    + elephants : savannas : forests
+biotic vs abiotic
 
-<br/>
-
-* **Large impact on lower trophic levels**
-    + usually through nutrient cycling
-</div>
-
-<IMG STYLE="position:absolute; TOP:215px; LEFT:575px; WIDTH:450px; HEIGHT:400px" SRC="images/otter.png">
-
-## Species Effects: Disturbance
-<hr>
-<br/>
-<br/>
-<div style="float: right; width: 50%;">
-
-* **Organisms can alter disturbance regimes**
-    + impact colonization and species interactions
-    + cheat grass promotes fire
-
-<br/>
-
-* **Ecosystem engineers create or modify habitats**
-    + physical disturbance alters succession
-    + trampling affects vegetation/nutrients
-    + plants and flammability (resins)
-    + dune plants and soil stability
-</div>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/beaver.jpg">
-
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:850px; HEIGHT:650px" SRC="images/mangroves.jpg">
-
-## Response Functional Types
-<hr>
-<br/>
-
-<div style="float: left; width: 45%;">
-
-* **Species occur together because they can survive, compete and reproduce in the environment the co-occur**
-    + not all perfectly adapted
-    + networks of trophic interactions
-
-<br/>
-
-* **Species differences in respones broaden ecosystem function**
-    + larger threshold of environmental conditions
-    + fosters ecosystem resilience
- </div>   
-        
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/interaction.jpg">  
-    
-## Bird Networks in the Amazon
-<hr>
-<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/birds_network.jpg">
-
-## Response Diversity
-<hr>
-<br/>
-<br/>
-<div style="float: right; width: 50%;">
-* **Diversity impactst ecosystem resouce use**
-      + Leaching ↓ in more diverse grasslands
-      + High diversity may lead to ↑ nutrient use
-    
-<br/>
-
-* **Complementary patterns of resouce use**
-      + grasslands with C~3~ and C~4~ species
-      + summer vs winter rains in deserts
-
-<br/>
-
-* **Diverse ecosystems are not always more productive**
-    + plantations vs mixed-forests
-    + ecosystem processes may saturate
-</div>
+ change by season, distribution by humans, in response to the availability of resources
  
-<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:400px" SRC="images/response.png"> 
-
-## Functional Matrix of Traits
-<hr>
-<br/>
-<br/>
-<br/>
-
-<div style="float: left; width: 55%;">
-
-* **Organisms affect ecosystems through multiple traits**
-    + traits vary independently
-    + eg. many traits affect N cycling
-
-<br/>
-
-* **Each trait can be treated as a continuous variable**
-    + each species has a value for that trait
-
-<IMG STYLE="position:absolute; TOP:235px; LEFT:605px; WIDTH:400px; HEIGHT:400px" SRC="images/root_traits.jpg"> 
-
-## Functional Matrix of Traits
-<hr>
-<br/>
-<br/>
-
-<div style="float: right; width: 50%;">
-* **Useful for restoration**
-    + species choice can shape ecosystem trajectory
-    + multiple traits needed 
-    + species interactions determine success
-
-<br/>
-
-* **Trade-offs exist**
-    + fast growing species (erosion) susceptible to drought
-    + limit trait combinations
-</div>
- 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/stream.jpg"> 
-
-## Linking Environmental Variability with Traits
-<hr>
-<br/>
-<br/>
-
-<div style="float: left; width: 48%;">
-* **Traits in an ecosystem are packaged into distinct species**
-    + each has a set of 'effects' and 'responses'
-    + ecosystems are sensitive when 'packages' are linked
-
-<br/>
-
-* **Species with traits for high N absorption**
-    + high photosynthesis and growth
-    + rapidly decomposing litter
-    + **high sensitivity** to nutrient supply
-</div>
-
-<IMG STYLE="position:absolute; TOP:215px; LEFT:560px; WIDTH:400px; HEIGHT:400px" SRC="images/traitpackages.jpg"> 
-
-## Species Interactions and Ecosystem Processes
-<hr>
-<br/>
-
-<div style="float: right; width: 50%;">
-
-* **Interactions among species govern which traits are expressed**
-      + modify pathways of energy and material flow
-      + mutualisms, competition, predation, etc
-
-<br/>
-
-* **Species effects are often indirect**
-    + single pollinator has a small direct effect
-    + legumes + C~4~ plants = soil C ↑
-    + litter quality in a mixed forest
-
-<br/>
-
-* **Species presence or absense can predict ecosystem functions**
-</div>
-<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:400px; HEIGHT:400px" SRC="images/bee.jpg">
-
-
-## Complementary Hypothesis
+## Species ranges: animals
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/comp.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/polar_bear.jpg">
 
-## Redundancy Hypothesis
+## Species ranges: plants
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/redund.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ashPop.jpg">
 
-## Driver and Passenger Hypothesis
+## Actual species distributions are scattered
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/driver.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/scattered.jpg">
+
+## Native species
+
+## Endemics species
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/fish_endemics.jpg">
+
+## Endemics species of Madagascar
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/madagascar.jpg">
+
+## Historical drivers: Glacia refugia
+
+
+## Can we predict species distributions
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:400px" SRC="images/dist_model.jpg"> 
+
+disturbance, dispersal and population dynamics. Based on factors of dispersal, disturbance, resources limiting climate, and other species distribution, predictions of species distribution can create a bio-climate range, or bio-climate envelope. 
+
+## Predicting aids in conservations
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:400px" SRC="images/dist_model2.png"> 
+
+## Species ranges: climate change 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/polar_bear2.jpg">
+
+## Species ranges: climate change 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/tree_move.jpg">
+
+## Species ranges: climate change 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mosquito.png">
