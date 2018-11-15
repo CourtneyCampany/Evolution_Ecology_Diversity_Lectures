@@ -33,9 +33,27 @@ runtime: shiny
     + terrestrial and oceans(?)
 </div>
 
+## Species diversity declines from tropics and from high elevation
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biomes2.png">
+
 
 ##
 <IMG STYLE="position:absolute; TOP:75px; LEFT:150px; WIDTH:750px; HEIGHT:600px" SRC="images/diverse_services.png">
+
+
+## Native species
+
+## Endemics species
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/fish_endemics.jpg">
+
+## Endemics species of Madagascar
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/madagascar.jpg">
 
 ## Keystone species
 

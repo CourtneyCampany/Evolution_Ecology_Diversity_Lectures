@@ -32,100 +32,101 @@ runtime: shiny
  
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:475px; HEIGHT:350px" SRC="images/animals.jpg">
 
-## Many factors affect species distributions
+## Species are spatially arranged
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:450px; HEIGHT:350px" SRC="images/species_climate.jpg">
-    
-## Biological communities
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:400px; HEIGHT:700px" SRC="images/scattered.jpg">
+
+## Climate drives broad distribution of biomes
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:450px; HEIGHT:350px" SRC="images/desert.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:500px; HEIGHT:500px" SRC="images/biomes_temp.png">
+
+## Species distribution varies within and among biomes
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:500px; HEIGHT:500px" SRC="images/africa.jpg">
+
+## Species distribution depends on climate + soils
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:400px" SRC="images/soils.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/soils2.png">
+
+## Seasonal patterns in distribution
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/seasons_monarch.png">
+
+## Species distribution likely depends on humans
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/species_climate.jpg">
+
+## Distribution within biological communities
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:120px; WIDTH:300px; HEIGHT:450px" SRC="images/desert.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/coral_reef.jpg">
 
-## Species in a community interact constantly
-<hr>
-<IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/turtle.png">
-
-## Species interact in different ways
+## Species distributions are related to their niche space
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/avoidance.jpg">
-
-## So species distributions are largely related to their niche space
-<hr>
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/avoidance.jpg">
 
 ## Niches define the limiting factors for a species
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/tolerance.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/tolerance.jpg">
 
-## What factors limit species distributions
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/coral_map.jpeg">
+
+## Ranges versus distributions
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/coral_map.jpeg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:2500px; WIDTH:600px; HEIGHT:600px" SRC="images/croc.png>
 
-## Distibution patterns:
-
-climatic factors consist of sunlight, atmosphere, humidity, temperature, and salinity;
-edaphic factors are abiotic factors regarding soil, such as the coarseness of soil, local geology, soil pH, and aeration; and
-social factors include land use and water availability.
-
-biotic vs abiotic
-
- change by season, distribution by humans, in response to the availability of resources
- 
 ## Species ranges: animals
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/polar_bear.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/polar_bear.jpg">
 
 ## Species ranges: plants
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ashPop.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/coconut.png">
 
-## Actual species distributions are scattered
+## Species ranges: plants
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/scattered.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/seeds.png">
 
-## Native species
-
-## Endemics species
+## Can we predict species distributions?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/fish_endemics.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/dist_model.jpg"> 
 
-## Endemics species of Madagascar
+## Predicting aids in conservation: salamander
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/madagascar.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:500px; HEIGHT:500px" SRC="images/dist_model2.png"> 
 
-## Historical drivers: Glacia refugia
-
-
-## Can we predict species distributions
-<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:400px" SRC="images/dist_model.jpg"> 
-
-disturbance, dispersal and population dynamics. Based on factors of dispersal, disturbance, resources limiting climate, and other species distribution, predictions of species distribution can create a bio-climate range, or bio-climate envelope. 
-
-## Predicting aids in conservations
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:400px" SRC="images/dist_model2.png"> 
-
-## Species ranges: climate change 
+## Global change: climate refugia (Polar bear)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/polar_bear2.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/polar_bear2.jpg">
 
-## Species ranges: climate change 
+## Global change: range shifts
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/tree_move.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/tree_move.jpg">
 
-## Species ranges: climate change 
+## Global change: range expansion
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mosquito.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/mosquito.png">
+

@@ -66,23 +66,6 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:190x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/usa_weather.jpg">
 
-## Climate drives distribution of biomes
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:500px; HEIGHT:500px" SRC="images/biomes_temp.png">
-
-## Vegetation varies within and among biomes due to climate
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/africa.jpg">
-  
-## Species diversity declines from tropics and from high elevation
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biomes2.png">
-
 ## Landform impacts climate: Rain Shadow
 <hr>
 
