@@ -3,52 +3,67 @@ title: "Biodiversity"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
 runtime: shiny
 ---
 
-## What is Species Diversity?
+## 
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/components.png">
+
+## 
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:700px" SRC="images/diversity_role.jpg.png">
+
+## Theories of Biodiversity (Equilibrium)
 <hr>
-<br/>
-<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/spp_diversity.gif">
+<IMG STYLE="position:absolute; TOP:75px; LEFT:150px; WIDTH:750px; HEIGHT:600px" SRC="images/island_biogeo.jpg">
 
-<div style="float: right; width: 50%;">
+## No one species fills all the roles of an ecosystem
+<hr>
 
-* **# of different species that are represented in a given community**
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:400px; HEIGHT:200px" SRC="images/comp.jpg">
 
-<br/>
+<IMG STYLE="position:absolute; TOP:300px; LEFT:150px; WIDTH:400px; HEIGHT:200px" SRC="images/redund.jpg">
 
-* **3 components**
-    + richness = simple count of species
-    + evenness = how equal the abundances of the species are
-    + taxonomic or phylogenetic diversity
+<IMG STYLE="position:absolute; TOP:400px; LEFT:150px; WIDTH:400px; HEIGHT:200px" SRC="images/driver.jpg">
 
-<br/>
-
-* **Gradient ranging from low at the poles to high at the equator**
-    + terrestrial and oceans(?)
-</div>
-
-## Species diversity declines from tropics and from high elevation
+## Species diversity genearlly declines from tropics and from high elevation
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biomes2.png">
 
+## Biodivesity is always changing
+<hr>
+<IMG STYLE="position:absolute; TOP:200x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/amazon_new.jpg">
 
-##
-<IMG STYLE="position:absolute; TOP:75px; LEFT:150px; WIDTH:750px; HEIGHT:600px" SRC="images/diverse_services.png">
+## How and Why do we measure biodiversity (on board)- what scale?
+<hr>
 
+  + richness = simple count of species
+  + evenness = how equal the abundances of the species are
+  
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/spp_diversity.gif">
+    
+<IMG STYLE="position:absolute; TOP:75px; LEFT:550px; WIDTH:750px; HEIGHT:600px" SRC="images/diverse_eco.jpg">
+
+
+## Species types
 
 ## Native species
+<hr>
 
-## Endemics species
+## Endemics fish
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/fish_endemics.jpg">
+
+## Endemics birds
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/endemics_birds.jpg">
 
 ## Endemics species of Madagascar
 <hr>
@@ -60,19 +75,49 @@ runtime: shiny
   + loss of dominant species hurts more
   + keystone species: ecologically distinct
   
-## Biodiversity hotspots
+## Biodiversity hotspots: species
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/Biodiversity_Hotspots_Map.jpg"
+
+## Biodiversity hotspots: ecosystems
+<hr>
+<IMG STYLE="position:absolute; TOP:200x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ecoregions.jpg">
 
 ## Mapping biodiversity: Plants
+<hr>
 
-## Mapping biodiversity: Animals
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plant_global.jpg"
+
+## Mapping biodiversity: Animals (birds (left), mammals (middle), and amphibians)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/animals_biodiverse.jpg">
 
 ## Mapping biodiversity: Oceans?
+<hr>
 
-## How does this all work?
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ocean_richness.jpg">
 
-<IMG STYLE="position:absolute; TOP:75px; LEFT:150px; WIDTH:750px; HEIGHT:600px" SRC="images/island_biogeo.jpg">
+## Mapping biodiversity: Soils?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soil_biodiversity.jpg">
 
 ## Threats to biodiversity
+<hr>
+
+Species Loss (Extinction)
+Population Loss (Loss of Genetic Variation)
+Habitat Loss
+
+##
+<hr>
+<IMG STYLE="position:absolute; TOP:200x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biodiversity_threats.jpg">
+
+##
+<hr>
+<IMG STYLE="position:absolute; TOP:200x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ecoregion_status.jpg">
 
 ## Hot Topic: Invasives
 <hr>
@@ -149,30 +194,6 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:625px; WIDTH:300px; HEIGHT:500px" SRC="images/species_eco.png">
 
-
-
-
-
-## Functional Types
-<hr>
-
-<div class="centered"><strong><span style="color:green">Groups of species that are "ecologically similar"</span></strong></div>
-
-<br/> 
-<br/>
-<br/>
-
-* **Respones Functional Types**
-    + C~4~ grasses
-    + fire-adapted species
-    
-<br/>
-
-* **Effect Functional Types**
-    + nitrifying bacteria
-    + termites
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/resprout.jpg">
 
 
 
@@ -299,22 +320,3 @@ runtime: shiny
 
 ##
 <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction1.png">
-
-
-## Biodiveristy and ecosystem function
- No one species fills all the roles of an ecosystem
-
-## Complementary Hypothesis
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/comp.jpg">
-
-## Redundancy Hypothesis
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/redund.jpg">
-
-## Driver and Passenger Hypothesis
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/driver.jpg">

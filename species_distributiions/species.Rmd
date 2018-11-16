@@ -32,6 +32,17 @@ runtime: shiny
  
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:475px; HEIGHT:350px" SRC="images/animals.jpg">
 
+## "Lines of the geography of plants” by Alexander von Humboldt, 1817
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/humboldt-canaryislands.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:100; LEFT:50px; WIDTH:700px; HEIGHT:500px" SRC="images/humboldt2.jpg">
+
+<IMG STYLE="position:absolute; TOP:100; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/humboldt3.jpg">
+
 ## Species are spatially arranged
 <hr>
 
