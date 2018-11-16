@@ -10,6 +10,25 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Species Effects: Trophic Levels
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Several hierarchical levels in an ecosystem**
+      + organisms that share the same function in the food chain
+
+<br/>
+
+* **No single species performs all functional roles within a trophic level**
+* Biodiversity is important for ecosysem functioning**
+* ecosystems work better as a group than an indivdiual
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:625px; WIDTH:300px; HEIGHT:500px" SRC="images/species_eco.png">
+
 ## Trophic Dynamics
 <hr>
 <IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/grazers.jpg">
@@ -62,3 +81,27 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Most productive systems ?
 <hr>
 <IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/npp_biome.jpg">
+
+## Response Functional Types
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Species occur together because they can survive, compete and reproduce in the environment the co-occur**
+    + not all perfectly adapted
+    + networks of trophic interactions
+
+<br/>
+
+* **Species differences in respones broaden ecosystem function**
+    + larger threshold of environmental conditions
+    + fosters ecosystem resilience
+ </div>   
+        
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/interaction.jpg"> 
+
+## Keystone species
+
+  + loss of dominant species hurts more
+  + keystone species: ecologically distinct

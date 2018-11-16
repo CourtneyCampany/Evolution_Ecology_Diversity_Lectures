@@ -1,6 +1,5 @@
 ---
 title: "Biodiversity"
-date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
     css: custom2.css
@@ -11,127 +10,157 @@ runtime: shiny
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/components.png">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:800px; HEIGHT:500px" SRC="images/components.jpg">
 
 ## 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:700px" SRC="images/diversity_role.jpg.png">
+<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:800px; HEIGHT:600px" SRC="images/diversity_role.jpg.">
 
-## Theories of Biodiversity (Equilibrium)
+## Diversity as Insurance
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+* **Diversity buffers against functional changes**
+    + protects against drastic change to extreme events
+
+<br/>
+
+*  **No one species fills all the roles of an ecosystem**
+  + ecosystem stability maintained
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/redund.jpg">
+
+## Measuring biodiversity (richness and eveness)
+<hr>
+  
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/diverse_eco.jpg">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:450px; HEIGHT:200px" SRC="images/simpson-index.jpeg">
+
+## Equilibrium theories of biodiversity
 <hr>
 
-<IMG STYLE="position:absolute; TOP:75px; LEFT:150px; WIDTH:750px; HEIGHT:600px" SRC="images/island_biogeo.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/island_biogeo.jpg">
 
-## No one species fills all the roles of an ecosystem
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/islands.png">
+
+## Kipuka
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:400px; HEIGHT:200px" SRC="images/comp.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/kipuka1.jpg">
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:150px; WIDTH:400px; HEIGHT:200px" SRC="images/redund.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/kipuka2.jpg">
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:150px; WIDTH:400px; HEIGHT:200px" SRC="images/driver.jpg">
-
-## Species diversity genearlly declines from tropics and from high elevation
+## Species diversity declines from tropics and from high elevation
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biomes2.png">
 
-## Biodivesity is always changing
-<hr>
-<IMG STYLE="position:absolute; TOP:200x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/amazon_new.jpg">
+##
+<IMG STYLE="position:absolute; TOP:300x; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/amazon_new.jpg">
 
-## How and Why do we measure biodiversity (on board)- what scale?
-<hr>
-
-  + richness = simple count of species
-  + evenness = how equal the abundances of the species are
-  
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/spp_diversity.gif">
-    
-<IMG STYLE="position:absolute; TOP:75px; LEFT:550px; WIDTH:750px; HEIGHT:600px" SRC="images/diverse_eco.jpg">
-
+<IMG STYLE="position:absolute; TOP:300x; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/extinction4.jpg">
 
 ## Species types
-
-## Native species
 <hr>
 
-## Endemics fish
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/australia_species.jpg">
+
+## Exotic vs Invasive
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/fish_endemics.jpg">
+<IMG STYLE="position:absolute; TOP:250x; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/exotic.jpg">
 
-## Endemics birds
+<IMG STYLE="position:absolute; TOP:250x; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/ninja_turtles.jpg">
+
+## Species Richness: Fish
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/endemics_birds.jpg">
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/fish_endemics.jpg">
 
-## Endemics species of Madagascar
+## Endemics birds in the Andes
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/madagascar.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/endemic_birds.jpg">
 
-## Keystone species
+## Endemic species of Madagascar
+<hr>
 
-  + loss of dominant species hurts more
-  + keystone species: ecologically distinct
-  
+<IMG STYLE="position:absolute; TOP:160x; LEFT:225px; WIDTH:700px; HEIGHT:500px" SRC="images/madagascar.png">
+
 ## Biodiversity hotspots: species
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/Biodiversity_Hotspots_Map.jpg"
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/Biodiversity_Hotspots_Map.jpg"
 
 ## Biodiversity hotspots: ecosystems
 <hr>
-<IMG STYLE="position:absolute; TOP:200x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ecoregions.jpg">
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ecoregions.jpg">
 
 ## Mapping biodiversity: Plants
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plant_global.jpg"
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plant_global.png"
 
-## Mapping biodiversity: Animals (birds (left), mammals (middle), and amphibians)
+## Mapping biodiversity: Animals
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/animals_biodiverse.jpg">
+
+## Mapping biodiversity: Oceans
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/animals_biodiverse.jpg">
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ocean_richness.jpg">
 
-## Mapping biodiversity: Oceans?
+## Mapping biodiversity: Soils
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ocean_richness.jpg">
-
-## Mapping biodiversity: Soils?
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soil_biodiversity.jpg">
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soil_biodiversity.jpg">
 
 ## Threats to biodiversity
 <hr>
+<br/>
+<br/>
+<br/>
 
-Species Loss (Extinction)
-Population Loss (Loss of Genetic Variation)
-Habitat Loss
+<div style="float: left; width: 40%;">
+* **Species Loss**
+    + Extinction
 
-##
-<hr>
-<IMG STYLE="position:absolute; TOP:200x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biodiversity_threats.jpg">
+<br/>
 
-##
-<hr>
-<IMG STYLE="position:absolute; TOP:200x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ecoregion_status.jpg">
+*  **Population Loss**
+  + Loss of Genetic Variation
+  
+ <br/> 
+ 
+* **Habitat Loss**
+  
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:400px; WIDTH:550px; HEIGHT:550px" SRC="images/biodiversity_threats.jpg">
+
+## 
+<IMG STYLE="position:absolute; TOP:100x; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/ecoregion_status.jpg">
 
 ## Hot Topic: Invasives
 <hr>
 <br/>
 <br/>
+<br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 50%;">
 
-* **Exotic species can change physical and biotic environment**
+* **Invasives change physical and biotic environment**
     + alter native species communities
 
 <br/>
 
-* **Aquatic ecosystems have been heavily affected**
+* **Aquatic ecosystems heavily affected**
     + accidental & intentional
 
 <br/>
@@ -139,12 +168,12 @@ Habitat Loss
 * **Impacts of invasives outweigh natural extinction rates**
  </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/invasives2.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/invasives2.png">
 
 ## Humans & Invasive Species
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/species_ship.jpg">
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/species_ship.jpg">
 
 ## Hot Topic: Homogenization
 <hr>
@@ -173,107 +202,14 @@ Habitat Loss
 
 ## Homogenization: USA?
 <hr>
-<IMG STYLE="position:absolute; TOP:170px; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/usa_diverse.png">
-
-## Species Effects: Trophic Levels
-<hr>
-<br/>
-
-<div style="float: left; width: 50%;">
-
-* **Several hierarchical levels in an ecosystem**
-      + organisms that share the same function in the food chain
-
-<br/>
-
-* **No single species performs all functional roles within a trophic level**
-* Biodiversity is important for ecosysem functioning**
-* ecosystems work better as a group than an indivdiual
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:625px; WIDTH:300px; HEIGHT:500px" SRC="images/species_eco.png">
-
-
-
-
-
-## Species Effects: Disturbance
-<hr>
-<br/>
-<br/>
-<div style="float: right; width: 50%;">
-
-* **Organisms can alter disturbance regimes**
-    + impact colonization and species interactions
-    + cheat grass promotes fire
-
-<br/>
-
-* **Ecosystem engineers create or modify habitats**
-    + physical disturbance alters succession
-    + trampling affects vegetation/nutrients
-    + plants and flammability (resins)
-    + dune plants and soil stability
-</div>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/beaver.jpg">
-
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:850px; HEIGHT:650px" SRC="images/mangroves.jpg">
-
-## Response Functional Types
-<hr>
-<br/>
-
-<div style="float: left; width: 45%;">
-
-* **Species occur together because they can survive, compete and reproduce in the environment the co-occur**
-    + not all perfectly adapted
-    + networks of trophic interactions
-
-<br/>
-
-* **Species differences in respones broaden ecosystem function**
-    + larger threshold of environmental conditions
-    + fosters ecosystem resilience
- </div>   
-        
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/interaction.jpg">  
-    
-
-## Response Diversity
-<hr>
-<br/>
-<br/>
-<div style="float: right; width: 50%;">
-* **Diversity impactst ecosystem resouce use**
-      + Leaching ↓ in more diverse grasslands
-      + High diversity may lead to ↑ nutrient use
-    
-<br/>
-
-* **Complementary patterns of resouce use**
-      + grasslands with C~3~ and C~4~ species
-      + summer vs winter rains in deserts
-
-<br/>
-
-* **Diverse ecosystems are not always more productive**
-    + plantations vs mixed-forests
-    + ecosystem processes may saturate
-</div>
- 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:400px" SRC="images/response.png"> 
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/usa_diverse.png">
 
 ## Biodiversity in a changing world
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/biodiversity_redistribution.jpg">
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biodiversity_redistribution.jpg">
 
-
-## Hitorical species diversity: Megafauna Extinction
+## Historical: Megafauna Extinction
 <hr>
 <br/>
 <br/>
@@ -288,32 +224,28 @@ Habitat Loss
 
 <br/>
 
-* **Do megafana impact ecological systems?**
+* **Do megafana impact ecosystems?**
     + consumption and digestion releases methane
     + trampling or browsing alters vegetation: albedo/water cycles 
 
 </div>
 
-## Diversity as Insurance
+## Historical: Are we experiencing a mass extinction?
 <hr>
 <br/>
 <br/>
 <br/>
-
-<div style="float: right; width: 48%;">
-* **Diversity buffers against functional changes**
-    + ecosystem stability maintained
-    + protects against drastic change to extreme events
-
 <br/>
-    
+
+<div style="float: left; width: 45%;">
+
 * **6^th^ major extinction event**
       + 100-fold greater than pre-human
       + biologically driven
       + loss of species is irreversible
 </div>
  
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/extinction2.png"> 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/extinction2.png"> 
 
 ##
 <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction3.jpg">

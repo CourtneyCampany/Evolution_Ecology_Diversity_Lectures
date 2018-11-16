@@ -413,4 +413,55 @@ energy dissipated by transpiration**
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/erosion.jpg">
 
+## Species Effects: Disturbance
+<hr>
+<br/>
+<br/>
+<div style="float: right; width: 50%;">
 
+* **Organisms can alter disturbance regimes**
+    + impact colonization and species interactions
+    + cheat grass promotes fire
+
+<br/>
+
+* **Ecosystem engineers create or modify habitats**
+    + physical disturbance alters succession
+    + trampling affects vegetation/nutrients
+    + plants and flammability (resins)
+    + dune plants and soil stability
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/beaver.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:850px; HEIGHT:650px" SRC="images/mangroves.jpg">
+
+## Response Diversity
+<hr>
+<br/>
+<br/>
+<div style="float: right; width: 50%;">
+* **Diversity impactst ecosystem resouce use**
+      + Leaching ↓ in more diverse grasslands
+      + High diversity may lead to ↑ nutrient use
+    
+<br/>
+
+* **Complementary patterns of resouce use**
+      + grasslands with C~3~ and C~4~ species
+      + summer vs winter rains in deserts
+
+<br/>
+
+* **Diverse ecosystems are not always more productive**
+    + plantations vs mixed-forests
+    + ecosystem processes may saturate
+</div>
+ 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:400px" SRC="images/response.png"> 
+
+## species diversity and disutrbance: humans
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:400px" SRC="images/Intactness_diversity.png"> 
