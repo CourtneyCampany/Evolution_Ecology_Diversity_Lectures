@@ -123,6 +123,11 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/wallaces-line.png">
 
+## Zoogeographic regions: Wallace
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/zoo_regions.jpg">
+
 ## Biogeography and species ranges: Andes uplift
 <hr>
 
