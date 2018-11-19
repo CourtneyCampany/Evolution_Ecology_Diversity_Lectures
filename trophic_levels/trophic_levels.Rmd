@@ -105,3 +105,38 @@ knitr::opts_chunk$set(echo = FALSE)
 
   + loss of dominant species hurts more
   + keystone species: ecologically distinct
+  
+  ## Ecosystem Resilience
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:475px; HEIGHT:475px" SRC="images/resistance.png">
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/seagrass.jpg">
+
+## Limits to Resilience
+<hr>
+<br/>
+<br/>
+<br/>
+<div style="float: right; width: 45%;">
+
+* **When change exceeds resilence**
+    + Examples:
+    
+<br/>
+
+* **Adaptive range of a system can decrease/shrink**
+    + no longer buffer the ecosystem
+  
+<br/>
+  
+* **Directional shifts exceeds the adaptive range of the system**
+</div>
+  
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:400px; HEIGHT:400x" SRC="images/invasives.jpg">  
+
+
+#
+* **Diverse ecosystems are not always more productive**
+    + plantations vs mixed-forests
+    + ecosystem processes may saturate

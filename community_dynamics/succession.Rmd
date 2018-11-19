@@ -13,207 +13,6 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Alternative Stable States
-<hr>
-<br/>
-<br/>
-
-<div style="float: left; width: 45%;">
-
-* **Given environment can support more than one potential state of an ecosystem**
-
-<br/>
-
-* **Ecosystems = complex adaptive systems**
-    + changes in properties adapt to changes imposed on it
-
-<br/>
-
-* **Historical legacy vs Future trajectory**
-
-<br/>
-
-* **Visual evidence of alternative stable states on any forest walk**
-    + heterogeneity
-  
-</div>
-  
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/ass.jpg">
-  
-
-## Ecosystem Resilience
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:475px; HEIGHT:475px" SRC="images/resistance.png">
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/seagrass.jpg">
-
-## Limits to Resilience
-<hr>
-<br/>
-<br/>
-<br/>
-<div style="float: right; width: 45%;">
-
-* **When change exceeds resilence**
-    + Examples:
-    
-<br/>
-
-* **Adaptive range of a system can decrease/shrink**
-    + no longer buffer the ecosystem
-  
-<br/>
-  
-* **Directional shifts exceeds the adaptive range of the system**
-</div>
-  
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:400px; HEIGHT:400x" SRC="images/invasives.jpg">  
-
-
-## ABOVE: Climate Resilience in Artic & Boreal ecosystems
-<hr>
-<div class="centered">
-https://above.nasa.gov/implementation_plan/framework.html
-</div>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:300px; WIDTH:450px; HEIGHT:450px" SRC="images/above.jpeg"> 
-
-
-## Regime Shifts
-<hr>
-<br/>
-<br/>
-
-<div style="float: left; width: 45%;">
-
-* <strong><span style="color:blue">Behavior of a ball on a surface</span></strong>
-    + Location = system state relative to variable
-
-<br/>
-
-* **Resilience = tendency of system to remain in state**
-    + despite fluctuations (a)
-    + size of adaptive range (b)
-  
-<br/>
-
-* **Events can push system into new state (c)**
-    + extreme drought, insect outbreaks, etc.
-    
-</div>  
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:475px; HEIGHT:475px" SRC="images/regime.png">
-
-## Cheatgrass
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/cheatgrass.jpg">
-
-##Disturbance
-<hr>
-<br/>
-
-<div style="float: left; width: 45%;">
-
-* **Discrete event in time that:**
-    + Removes plant biomass
-    + alters populations & communities
-    + alters structure of ecosystems 
-    + changes resources availability
-    + changes physical environment
-
-<br/>
-
-* **Major cause of long-term fluctuations in ecoystem function**
-
-<br/>
-
-* **What is the dividing line betweem disturbance and normal function?**
-
-</div>
-  
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/fire.jpg">
-
-
-##Human vs Natural Disturbance Types
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:450px; HEIGHT:350px" SRC="images/humandisturb.jpg">
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/humandisturb2.jpg">
-
-
-##Landuse change
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:350px" SRC="images/humandisturb3.png">
-
-##Impact of Disturbance: Size / Intensity / Frequency 
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:350px; HEIGHT:500px" SRC="images/disturbance4.jpg">
-
-<div style="float: right; width: 45%;">
-
-* **Gaps -- Stand Replacing**
-
-<br/>
-
-* **Intensity: magnitude in physical force of the event**
-    + duration of the event
-
-<br/>
-
-* **Whats left after**
-    + islands of undisturbed vegetation
-    + seed banks
- 
- <br/>
- 
-* **Intermediate Disturbance Hypothesis**
-</div>
-
-##Impact of Disturbance: Severity
-<hr>
-<br/>
-
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:550px; HEIGHT:300px" SRC="images/severity.png">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/disturbance_trend.png">
-
-## Recovery and Renewal
-<hr>
-<br/>
-
-<div style="float: left; width: 45%;">
-
-* **Who will survive, grow & reproduce?**
-    + dependent on type and severity
-
-<br/>
-
-* **Recruitment becomes important**
-
-<br/>
-
-* **Species traits define response**
-    + Serotiny
-    + Seed size
-  
-  <br/>
-  
-* **Novel disturbances lead to slow recovery**
-</div>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/serotiny.jpg">
-
-## Recovery and Renewal
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/exxon.png">
 
 ## Succession in Ecosystems
 <hr>
@@ -223,91 +22,134 @@ https://above.nasa.gov/implementation_plan/framework.html
 ## Disturbance & Succession
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/succession1c.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/succession1c.jpg">
 
-## Basics: Primary Succession
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/succession1b.png">
-
-## 1^o^ Succession: Ecosystem Structure
+##Disturbance
 <hr>
 <br/>
+<br/> 
+
+<div style="float: left; width: 45%;">
+
+* **Discrete event in time that:**
+    + Removes biomass
+    + alters populations & communities
+    + alters structure of ecosystems 
+    + changes resources availability
+    + changes physical environment
+
 <br/>
 
-* **Occurrs after severe disturbances**
-    + remove or bury products of ecosystem processes
+* **Disturbance vs normal function?**
+
+</div>
+  
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/fire.jpg">
+
+##Human vs Natural Disturbance Types
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:450px; HEIGHT:350px" SRC="images/humandisturb.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/humandisturb2.jpg">
+
+##Impact of Disturbance: Size / Intensity / Frequency 
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:350px; HEIGHT:500px" SRC="images/disturbance4.jpg">
+
+<div style="float: right; width: 45%;">
+
+* **Small gaps -- Forest removal**
 
 <br/>
 
-* **Glacial retreat, mudflows, floodplains, dunes**
+* **Intensity: magnitude in physical force of the event**
+    + duration
 
 <br/>
 
-* **Initial composition:**
+* **Natural pattern of periodic disturbances**
+    + fires, floods or pests
+ 
+</div>
+
+## Disturbance maintains communites in non-equilbrium (Connell)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:300px; HEIGHT:400px" SRC="images/succession_color.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/IDH.jpg">
+
+##Impact of Disturbance: Severity
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200; LEFT:175px; WIDTH:800px; HEIGHT:400px" SRC="images/severity.png">
+
+##Impact of Disturbance: Severity
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/disturbance_trend.png">
+
+## Primary Succession
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **After severe disturbances**
+    + remove or bury biomass
+
+<br/>
+
+* **Glacial retreat, mudflows, floodplains, lava flows**
+
+<br/>
+
+* **Colonization:**
     + plants that handle stresses
-    + low nutrients 
-    + poor soil
+    + low nutrients / poor soil
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/volcano.jpg">
 
-## 1^o^ Succession: Ecosystem Composition
+## Primary Succession
 <hr>
+<br/>
+<br/>
 <br/>
 
 * **Initial Species composition:**
     + nitrogen fixing plants
-    + facilitation
+    + **Facilitation**
  
  <br/>
  
 * **Colonizers disperse to site**
     + wind dispersed seeds/spores
     + algae & lichens
-    + small seeded woody plants
-    + distance to seed source
- 
- <br/>
- 
-* **Humans affect availability of propagules**
-    + alter successional trajectory
-    
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/crust.jpg">
+    + small seeded plants
+    + recuitment distance
 
-## Basics: Secondary Succession
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/crust.jpg">
+
+## Secondary Succession
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/succession2.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/succession2.jpg">
 
-## 2^o^ Succession: Ecosystem Structure
+## Secondary Succession: Pioneer species
 <hr>
 <br/>
 <br/>
 <br/>
-
-* **Starts on existing soils**
-    + nutrient pulse after disturbance
-    + less vegetation to uptake (mineralization)
-    + ash
-    
- <br/>
- 
-* **Colonizers already present**
-    + Seed bank
-    + Seedling bank
-    + Nearby dispersal
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:400px; HEIGHT:250px" SRC="images/seedlingbank.jpg">
-
-## 2^o^ Succession: Life history traits
-<hr>
-
-<div class="centered"><strong><span style="color:blue">
-Trait based framework to understand ecosystem succession
-</span></strong></div>
-
 <br/>
-<br/>
+
+<div style="float: right; width: 40%;">
 
 * **Seed size & Number:**
 
@@ -317,151 +159,90 @@ Trait based framework to understand ecosystem succession
 
 <br/>
 
-* **Maximum Size:**
+* **Tolerance:**
 
 <br/>
 
 * **Longevity:**
-
-
-## Glacial Retreat Case Study
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/glacial1.jpg">
-
-## Glacial Retreat Case Study
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/glacial2.png">
-
-## Disturbance: Water & Energy Exchange
-<hr>
-<br/>
-<div style="float: left; width: 45%;">
-* **Removing biomass reduces evapotranspiration**
-    + Runoff increases
-    
-    <br/>
-
-* **Effects of forest cutting and overgrazing**
-    + Management tool???
-
-<br/>
-
-* **Discharge reduced as succession progresses**
-    + high N, photosynthesis & leaf area of early species
-    + root proliferation
-    + complex canopy development
-    + increases evapotranpspiration
- </div>   
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/mudslide.jpg">
-
-## Disturbance: Water & Energy Exchange
-<hr>
-<br/>
-
-<div style="float: right; width: 40%;">
-
-* **Energy Budget dominated by surface temperatures**
-    + high emission of long-wave radiation 
-    + sensible heat high
-
-<br/>
-
-**1. Low albedo of recently distubed sites**
-
-<br/>
-
-**2. Low leaf area, hydraulic conductance and root mass decreases 
-energy dissipated by transpiration**
-
-<br/>
-
-**3. Smooth surfaces decreases turbulence**
-</div>
-<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:500px; HEIGHT:350px" SRC="images/albedo.jpg">
-
-
-## Nutrient Cycling: Succession
-<hr>
-<br/>
-
-<div style="float: left; width: 45%;">
-* **Initial accumulation of N in plants/soils**
-    + mostly atmospheric inputs
-    + N most limiting
-
-<br/>
-
-* **Litter accumulates with new N**
-    + N cycles closes
-    + plants & microbes efficient @ keeping nutrients
-
-<br/>
-
-* **Leaching eventually balances cycling**
 </div>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:575px; WIDTH:400px; HEIGHT:500px" SRC="images/nutrient2.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:550px; HEIGHT:450px" SRC="images/pioneer.jpg">
 
-## Nutrient Cycling: 2^o^ Succession
-<hr>
-<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:600px" SRC="images/nutrient.png">
-
-## Nutrient Cycling: Human disturbances
+## Late Succession: Inhibition & Tolerance pick ups
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/erosion.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/succession1.png">
 
-## Species Effects: Disturbance
+## Wildlife Succession
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/wildlife_succesion.jpg">
+
+## The Boreal: A forest shaped by fire
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/boreal1.jpg">
+
+## Boreal Forest: Secondary succesion
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:700px; HEIGHT:300px" SRC="images/boreal3.jpg">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:800px; WIDTH:200px; HEIGHT:200px" SRC="images/jackpine.jpg">
+
+## Boreal Forest: Secondary succesion
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/boreal_wildlife.jpg">
+
+## The Future of Boreal Forests
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:475px; HEIGHT:475px" SRC="images/boreal5.gif">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/boreal4.gif">
+
+## Glacial Retreat: Glacier Bay Alaska
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/glacial2.jpg">
+
+## Glacier Bay Alaska: Succession
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:550px; HEIGHT:450px" SRC="images/glacial1.jpg">
+
+## Glacier Bay: Community Dynamics
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/glacial4.jpg">
+
+## Glacier Bay: Community Dynamics
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/glacial3.jpeg">
+
+## Community Dynamics: Species Effects
 <hr>
 <br/>
 <br/>
 <div style="float: right; width: 50%;">
 
-* **Organisms can alter disturbance regimes**
-    + impact colonization and species interactions
-    + cheat grass promotes fire
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/cheatgrass.jpg">
 
-<br/>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/beaver.jpg">
 
-* **Ecosystem engineers create or modify habitats**
-    + physical disturbance alters succession
-    + trampling affects vegetation/nutrients
-    + plants and flammability (resins)
-    + dune plants and soil stability
-</div>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/beaver.jpg">
-
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:850px; HEIGHT:650px" SRC="images/mangroves.jpg">
-
-## Response Diversity
+## Fire Regimes and Humans
 <hr>
-<br/>
-<br/>
-<div style="float: right; width: 50%;">
-* **Diversity impactst ecosystem resouce use**
-      + Leaching ↓ in more diverse grasslands
-      + High diversity may lead to ↑ nutrient use
-    
-<br/>
 
-* **Complementary patterns of resouce use**
-      + grasslands with C~3~ and C~4~ species
-      + summer vs winter rains in deserts
+<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/fire_map.png">
 
-<br/>
+## Fire Regimes and Humans
+<hr>
 
-* **Diverse ecosystems are not always more productive**
-    + plantations vs mixed-forests
-    + ecosystem processes may saturate
-</div>
- 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:400px" SRC="images/response.png"> 
+<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/WUI.gif">
 
-## species diversity and disutrbance: humans
+## Human Disturbance and Community Recovery
+<hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:400px" SRC="images/Intactness_diversity.png"> 
+<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/exxon.png">
