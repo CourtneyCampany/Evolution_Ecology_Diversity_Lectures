@@ -1,5 +1,5 @@
 ---
-title: "Species Distribution"
+title: "Species Distributions"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -28,25 +28,28 @@ runtime: shiny
 
 * **Humans have altered 75% of ice-free surface**
     + alters species composition
+    
  </div>
  
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:475px; HEIGHT:350px" SRC="images/animals.jpg">
 
-## "Lines of the geography of plants” by Alexander von Humboldt, 1817
+## "Lines of the geography of plants” by Humboldt, 1817
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/humboldt-canaryislands.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/humboldt-canaryislands.jpg">
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:100; LEFT:50px; WIDTH:700px; HEIGHT:500px" SRC="images/humboldt2.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:15px; WIDTH:700px; HEIGHT:400px" SRC="images/humboldt2.jpg">
 
-<IMG STYLE="position:absolute; TOP:100; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/humboldt3.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:690px; WIDTH:400px; HEIGHT:400px" SRC="images/humboldt3.jpg">
 
 ## Species are spatially arranged
 <hr>
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:400px; HEIGHT:700px" SRC="images/scattered.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:350px; HEIGHT:450px" SRC="images/scattered.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/bald_eagle_map.jpg">
 
 ## Climate drives broad distribution of biomes
 <hr>
@@ -56,21 +59,19 @@ runtime: shiny
 ## Species distribution varies within and among biomes
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:500px; HEIGHT:500px" SRC="images/africa.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/africa.jpg">
 
 ## Species distribution depends on climate + soils
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:400px" SRC="images/soils.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soils2.png">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/soils2.png">
-
-## Seasonal patterns in distribution
+## Seasonal patterns in species distribution
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/seasons_monarch.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/seasons_monarch.png">
 
-## Species distribution likely depends on humans
+## Species distribution impacted by humans
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/species_climate.jpg">
@@ -90,18 +91,19 @@ runtime: shiny
 ## Niches define the limiting factors for a species
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/tolerance.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/tolerance.jpg">
 
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/coral_map.jpeg">
-
-## Ranges versus distributions
+## Coral Reefs
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:2500px; WIDTH:600px; HEIGHT:600px" SRC="images/croc.png>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/coral_map.jpeg">
 
-## Species ranges: animals
+## Ranges versus distribution: Crocodile
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:250px; WIDTH:600px; HEIGHT:600px" SRC="images/croc.png">
+
+## Species ranges: Polar Bear
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/polar_bear.jpg">
@@ -109,22 +111,36 @@ runtime: shiny
 ## Species ranges: plants
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/coconut.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/seeds.png">
 
-## Species ranges: plants
+## Species ranges: Coconut
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/seeds.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/coconut.png">
+
+## Biogeography and species ranges: Alfred Wallace 1859
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/wallaces-line.png">
+
+## Biogeography and species ranges: Andes uplift
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/andes1.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/andes2.jpg">
 
 ## Can we predict species distributions?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/dist_model.jpg"> 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/dist_model.jpg">
 
 ## Predicting aids in conservation: salamander
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:500px; HEIGHT:500px" SRC="images/dist_model2.png"> 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/dist_model2.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/sala.jpg">
 
 ## Global change: climate refugia (Polar bear)
 <hr>
@@ -134,10 +150,10 @@ runtime: shiny
 ## Global change: range shifts
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/tree_move.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/tree_move.jpg">
 
 ## Global change: range expansion
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/mosquito.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:40px" SRC="images/mosquito.png">
 
