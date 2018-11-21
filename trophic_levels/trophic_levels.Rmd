@@ -1,8 +1,11 @@
 ---
-title: "trophic levels"
-author: "Court Campany"
-date: "October 31, 2018"
-output: ioslides_presentation
+title: "Community Structure and Productivity"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
 runtime: shiny
 ---
 
@@ -10,133 +13,126 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Species Effects: Trophic Levels
-<hr>
-<br/>
-
-<div style="float: left; width: 50%;">
-
-* **Several hierarchical levels in an ecosystem**
-      + organisms that share the same function in the food chain
-
-<br/>
-
-* **No single species performs all functional roles within a trophic level**
-* Biodiversity is important for ecosysem functioning**
-* ecosystems work better as a group than an indivdiual
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:625px; WIDTH:300px; HEIGHT:500px" SRC="images/species_eco.png">
-
-## Trophic Dynamics
-<hr>
-<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/grazers.jpg">
-
-## Trophic Casacdes
-<hr>
-<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/energy_v_nutrient.jpg">
-
-## Consumers
-<hr>
-<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/trophic_levels.jpg">
-
-## Levels
-<hr>
-<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/pyramid.jpg">
-
-## Species Effects: Trophic Interactions
-<hr>
-<br/>
-<br/>
-<br/>
-
-<div style="float: left; width: 50%;">
-
-* **Top-down controls: removal of top predators**
-    + otters : urchins : kelp
-    + over-fishing : urchins : killer whales
-    + wolves : elk : vegetation
-    + elephants : savannas : forests
-
-<br/>
-
-* **Large impact on lower trophic levels**
-    + usually through nutrient cycling
-</div>
-
-<IMG STYLE="position:absolute; TOP:215px; LEFT:575px; WIDTH:450px; HEIGHT:400px" SRC="images/otter.png">
-
-## DDT case study
+## Community Structure 
 <hr>
 
-## other case study
-<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:120px; WIDTH:300px; HEIGHT:450px" SRC="images/desert.jpg">
 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/coral_reef.jpg">
 
-## NPP
-<hr>
-<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/npp_biome.jpg">
-
-## Most productive systems ?
-<hr>
-<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/npp_biome.jpg">
-
-## Response Functional Types
+## Diversive communities broaden ecosystem function
 <hr>
 <br/>
 
 <div style="float: left; width: 45%;">
 
-* **Species occur together because they can survive, compete and reproduce in the environment the co-occur**
+* **Species occur together**
     + not all perfectly adapted
     + networks of trophic interactions
+    + ecosystems work better as a group
 
 <br/>
 
-* **Species differences in respones broaden ecosystem function**
+* **Ecosystems work better as a group**
+    + No single species performs all roles
     + larger threshold of environmental conditions
     + fosters ecosystem resilience
  </div>   
         
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/interaction.jpg"> 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:400px" SRC="images/interaction.jpg"> 
 
-## Keystone species
+##
 
-  + loss of dominant species hurts more
-  + keystone species: ecologically distinct
-  
-  ## Ecosystem Resilience
-<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/seagrass.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:475px; HEIGHT:475px" SRC="images/resistance.png">
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/seagrass.jpg">
-
-## Limits to Resilience
-<hr>
-<br/>
-<br/>
-<br/>
-<div style="float: right; width: 45%;">
-
-* **When change exceeds resilence**
-    + Examples:
-    
-<br/>
-
-* **Adaptive range of a system can decrease/shrink**
-    + no longer buffer the ecosystem
-  
-<br/>
-  
-* **Directional shifts exceeds the adaptive range of the system**
+<div class="item-absolute">Communites help build resilient ecosystems</div>
 </div>
+
+## Interaction networks: Amazon birds
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/birds_network.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:300px; HEIGHT:600px" SRC="images/species_eco.png">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:350; HEIGHT:350px" SRC="images/bear.jpg">
+
+## Not all species are created equal
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/keystone.png">
   
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:400px; HEIGHT:400x" SRC="images/invasives.jpg">  
+## Reintroduction of wolves in Yellowstone: Top down control
+<hr>
 
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:450px; HEIGHT:500px" SRC="images/yellowstone-wolves-species.jpg">
 
-#
-* **Diverse ecosystems are not always more productive**
-    + plantations vs mixed-forests
-    + ecosystem processes may saturate
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400; HEIGHT:300px" SRC="images/wolf.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/otter.png">
+
+## Bottom up control: Resources matter
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/bottom_foodweb.png">
+
+## Hierarchical levels in an community: Food webs
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/grazing_foodweb.png">
+
+## Breaking down food webs
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/energy_v_nutrients.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/trophic_levels.jpg">
+
+## Trophic Casacdes: 10% Rule
+<hr>
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/trophic_cascade.png">
+
+## Energy flow limits length of food chain
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/pyramid.jpg">
+
+## Biomagnification
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/biomagnification.jpg">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:400px; HEIGHT:200px" SRC="images/biomagnification2.jpg">
+
+## Primary Productivity
+<hr>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:600px; HEIGHT:300px" SRC="images/biomass_pyramids.png">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:300px; HEIGHT:500px" SRC="images/GPP.gif">
+
+## Global Net Primary Production
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/oceans_vs_land.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:300px" SRC="images/Global-Patterns-of-NPP.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/NPP-seasons.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:125px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/npp_biome.jpg">
+
+## NPP and global change
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg">
+
+   
