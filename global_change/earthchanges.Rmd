@@ -32,6 +32,15 @@ runtime: shiny
 </div>
 <IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/biogeo.jpg">
 
+## CO2_history: Long time scales
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/CO2_history.jpg">
+
+## Climate is a **Hot** Topic
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wXrYvd-LBu0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Historical Human Drivers
 <hr>
 <br/>
