@@ -1,0 +1,12 @@
+name: climate_weather
+title: climate_weather
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 592673
+bundleId: 1724130
+url: https://courtneycampany.shinyapps.io/climate_weather/
+when: 1543347105.98506
+asMultiple: FALSE
+asStatic: FALSE

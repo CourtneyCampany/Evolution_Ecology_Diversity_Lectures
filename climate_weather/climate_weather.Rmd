@@ -44,7 +44,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:550px; HEIGHT:450px" SRC="images/elnino.jpg">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/elnino2.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/elnino2.png">
 
 <!-- ## Climate variability: Long time scales -->
 <!-- <hr> -->
@@ -54,16 +54,16 @@ runtime: shiny
 ## Climate Variability: Seasons
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:700px; HEIGHT:250px" SRC="images/seasons.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:700px; HEIGHT:250px" SRC="images/seasons.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:800px; WIDTH:225px; HEIGHT:450px" SRC="images/seasons2.jpg">
 
 ## Climate Variability: Weather
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190x; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/usa_weather.jpg">
+<IMG STYLE="position:absolute; TOP:200x; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/usa_weather.jpg">
 
-## Land impacts climate: Rain Shadow
+## Land alters climate: Rain shadow
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/rainshadow.jpg">
