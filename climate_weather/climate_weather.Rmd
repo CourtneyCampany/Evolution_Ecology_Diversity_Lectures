@@ -68,7 +68,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/rainshadow.jpg">
 
-## Land impacts weather: Hurricane
+## Land impacts weather: Atlantic hurricanes
 <hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h1eRp0EGOmE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -13,58 +13,41 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:800px; HEIGHT:500px" SRC="images/components.jpg">
 
 ## 
-<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:800px; HEIGHT:600px" SRC="images/diversity_role.jpg.">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/diversity_role.jpg.">
 
-## Diversity as Insurance
+## Biodiversity as insurance
 <hr>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-<div style="float: left; width: 50%;">
-* **Diversity buffers against functional changes**
-    + protects against drastic change to extreme events
 
-<br/>
-
-*  **No one species fills all the roles of an ecosystem**
-  + ecosystem stability maintained
+<div class="item-absolute">**Diversity buffers against functional changes**</div>
 </div>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/redund.jpg">
+
+<div class="item-absolute2">**No one species fills all the roles of an ecosystem**</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:150px; WIDTH:700px; HEIGHT:250px" SRC="images/redund.jpg">
 
 ## Measuring biodiversity (richness and eveness)
 <hr>
   
-<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/diverse_eco.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/diverse_eco.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:450px; HEIGHT:200px" SRC="images/simpson-index.jpeg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:40px; WIDTH:600px; HEIGHT:300px" SRC="images/diversity_example.jpeg">
 
-## Predicting species richness...
-<hr>
+<IMG STYLE="position:absolute; TOP:500px; LEFT:40px; WIDTH:600px; HEIGHT:200px" SRC="images/simpson-index.jpeg">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/island_biogeo.jpg">
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/islands.png">
-
-## Kipuka
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/kipuka1.jpg">
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/kipuka2.jpg">
+<IMG STYLE="position:absolute; TOP:325px; LEFT:675px; WIDTH:350px; HEIGHT:250px" SRC="images/simpsons_ex.png">
 
 ## Species diversity declines from tropics and from high elevation
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biomes2.png">
 
-##
-<IMG STYLE="position:absolute; TOP:300x; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/amazon_new.jpg">
+## Species diversity is also a balance
 
-<IMG STYLE="position:absolute; TOP:300x; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/extinction4.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/amazon_new.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/extinction4.jpg">
 
 ## Species types
 <hr>
@@ -147,33 +130,32 @@ runtime: shiny
 ## 
 <IMG STYLE="position:absolute; TOP:100x; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/ecoregion_status.jpg">
 
-## Hot Topic: Invasives
+## Invasice species are increasing
 <hr>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
 
 <div style="float: left; width: 50%;">
 
-* **Invasives change physical and biotic environment**
-    + alter native species communities
+* **Change physical and biotic environment**
 
 <br/>
 
 * **Aquatic ecosystems heavily affected**
-    + accidental & intentional
 
 <br/>
 
-* **Impacts of invasives outweigh natural extinction rates**
+* **Impacts outweigh natural extinction rates**
  </div>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/invasives2.png">
 
-## Humans & Invasive Species
-<hr>
+##
 
-<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/species_ship.jpg">
+<IMG STYLE="position:absolute; TOP:100x; LEFT:100px; WIDTH:800px; HEIGHT:600px" SRC="images/species_ship.jpg">
 
 ## Hot Topic: Homogenization
 <hr>
@@ -202,7 +184,7 @@ runtime: shiny
 
 ## Homogenization: USA?
 <hr>
-<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/usa_diverse.png">
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/usa_diverse.png">
 
 ## Biodiversity in a changing world
 <hr>
@@ -211,44 +193,32 @@ runtime: shiny
 
 ## Historical: Megafauna Extinction
 <hr>
-<br/>
-<br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:75px; WIDTH:425px; HEIGHT:425px" SRC="images/lostmega.jpeg">
 
-<div style="float: right; width: 45%;">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/lostmega.jpeg">
 
-* **Large herbivores and carnivores declined since the Late Pleistocene**
-      + land and oceans
-      + human induced effects
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:300px" SRC="images/cows.png">
 
-<br/>
-
-* **Do megafana impact ecosystems?**
-    + consumption and digestion releases methane
-    + trampling or browsing alters vegetation: albedo/water cycles 
-
-</div>
-
-## Historical: Are we experiencing a mass extinction?
+## Historical: Are we experiencing a new mass extinction?
 <hr>
-<br/>
-<br/>
-<br/>
-<br/>
 
-<div style="float: left; width: 45%;">
-
-* **6^th^ major extinction event**
-      + 100-fold greater than pre-human
-      + biologically driven
-      + loss of species is irreversible
-</div>
- 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/extinction2.png"> 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/extinction2.png"> 
 
 ##
 <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction3.jpg">
 
 ##
 <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction1.png">
+
+
+## Island biogeography (Wilson and MacArthur 1967)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/island_biogeo.jpg">
+
+## Island biogeography extended
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/islands.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/kipuka1.jpg">

@@ -75,3 +75,15 @@ slides > slide:not(.nobackground):before {
       background: url($logo$) no-repeat 0 50%;
     }
 
+.item-absolute {
+  position: absolute;
+  top: 200px;
+  left: 300px;
+}
+
+
+.item-absolute2 {
+  position: absolute;
+  top: 600px;
+  left: 300px;
+}
