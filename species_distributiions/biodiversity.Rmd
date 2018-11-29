@@ -38,16 +38,12 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:325px; LEFT:675px; WIDTH:350px; HEIGHT:250px" SRC="images/simpsons_ex.png">
 
-## Species diversity declines from tropics and from high elevation
+## Species diversity is also a balance
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biomes2.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/amazon_new.jpg">
 
-## Species diversity is also a balance
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/amazon_new.jpg">
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/extinction4.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/extinction4.jpg">
 
 ## Species types
 <hr>
@@ -61,20 +57,29 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:250x; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/ninja_turtles.jpg">
 
+## Species diversity declines from tropics and at elevation
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biomes2.png">
+
+## Hotspots: Endemics birds in the Andes
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:300px; HEIGHT:450px" SRC="images/andes2.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:450px; HEIGHT:450px" SRC="images/endemic_birds.jpg">
+
+## Hotspots: Endemic species of Madagascar
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:700px; HEIGHT:500px" SRC="images/madagascar.png">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/madagascar2.jpg">
+
 ## Species Richness: Fish
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/fish_endemics.jpg">
-
-## Endemics birds in the Andes
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/endemic_birds.jpg">
-
-## Endemic species of Madagascar
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160x; LEFT:225px; WIDTH:700px; HEIGHT:500px" SRC="images/madagascar.png">
 
 ## Biodiversity hotspots: species
 <hr>
@@ -106,33 +111,16 @@ runtime: shiny
 
 ## Threats to biodiversity
 <hr>
-<br/>
-<br/>
-<br/>
 
-<div style="float: left; width: 40%;">
-* **Species Loss**
-    + Extinction
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/biodiversity_threats.jpg">
 
-<br/>
-
-*  **Population Loss**
-  + Loss of Genetic Variation
-  
- <br/> 
- 
-* **Habitat Loss**
-  
-</div>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:400px; WIDTH:550px; HEIGHT:550px" SRC="images/biodiversity_threats.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/crops.gif">
 
 ## 
-<IMG STYLE="position:absolute; TOP:100x; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/ecoregion_status.jpg">
+<IMG STYLE="position:absolute; TOP:25x; LEFT:150px; WIDTH:900px; HEIGHT:600px" SRC="images/ecoregion_status.jpg">
 
-## Invasice species are increasing
+## Invasive species are increasing
 <hr>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -143,9 +131,11 @@ runtime: shiny
 * **Change physical and biotic environment**
 
 <br/>
+<br/>
 
 * **Aquatic ecosystems heavily affected**
 
+<br/>
 <br/>
 
 * **Impacts outweigh natural extinction rates**
@@ -155,7 +145,7 @@ runtime: shiny
 
 ##
 
-<IMG STYLE="position:absolute; TOP:100x; LEFT:100px; WIDTH:800px; HEIGHT:600px" SRC="images/species_ship.jpg">
+<IMG STYLE="position:absolute; TOP:125px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/species_ship.jpg">
 
 ## Hot Topic: Homogenization
 <hr>
