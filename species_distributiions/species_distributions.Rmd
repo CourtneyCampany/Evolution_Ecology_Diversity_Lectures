@@ -36,13 +36,15 @@ runtime: shiny
 ## "Lines of the geography of plants” by Humboldt, 1817
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/humboldt-canaryislands.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/humboldt-canaryislands.jpg"> -->
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px;HEIGHT:500px" SRC="images/humboldt2.jpg">
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:15px; WIDTH:700px; HEIGHT:400px" SRC="images/humboldt2.jpg">
+<IMG STYLE="position:absolute; TOP:125px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/humboldt4.jpg">
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:690px; WIDTH:400px; HEIGHT:400px" SRC="images/humboldt3.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:150px; LEFT:690px; WIDTH:400px; HEIGHT:400px" SRC="images/humboldt3.jpg"> -->
 
 ## Species are spatially arranged
 <hr>
@@ -158,14 +160,14 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/mosquito.png">
 
-## Can we predict species distributions?
-<hr>
+<!-- ## Can we predict species distributions? -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/dist_model.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/dist_model.jpg"> -->
 
-## Predicting aids in conservation: salamander
-<hr>
+<!-- ## Predicting aids in conservation: salamander -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/dist_model2.png">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/dist_model2.png"> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/sala.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/sala.jpg"> -->
