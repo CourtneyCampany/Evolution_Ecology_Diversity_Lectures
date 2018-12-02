@@ -1,5 +1,5 @@
 ---
-title: "Ecology and Earth's Energy Budget"
+title: "Earth's Energy Budget and Water Cycle"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
