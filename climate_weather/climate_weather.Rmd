@@ -14,17 +14,17 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/trumpcold.jpg">
 
-## Elements of weather
+## Elements of climate and weather
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:25px; WIDTH:400px; HEIGHT:350px" SRC="images/elements.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:400px; HEIGHT:350px" SRC="images/elements.png">
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:300px" SRC="images/earth_energy.jpg">
 
 ## What drives global climate zones?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/climate-world.gif">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/climate-world.gif">
 
 ## Slope of Earth's surface causes uneven heating
 <hr>
@@ -35,64 +35,61 @@ runtime: shiny
 ## Atmosphere circulation affects rainfall
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:500px" SRC="images/hadley.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:500px; HEIGHT:500px" SRC="images/hadley.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:500px" SRC="images/hadley2.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:500px; HEIGHT:500px" SRC="images/hadley2.jpg">
 
-## Climate variability: Long time scales
+## Climate variability: El Nino
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:500px; HEIGHT:500px" SRC="images/elnino.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:550px; HEIGHT:450px" SRC="images/elnino.jpg">
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:575px; WIDTH:500px; HEIGHT:300px" SRC="images/elnino2.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/elnino2.png">
 
-## Climate variability: Long time scales
+<!-- ## Climate variability: Long time scales -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/ice_ages.jpg"> -->
+
+## Climate Variability: Seasons
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ice_ages.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:700px; HEIGHT:250px" SRC="images/seasons.jpg">
 
-## Climate variability: Long time scales
+<IMG STYLE="position:absolute; TOP:200px; LEFT:800px; WIDTH:225px; HEIGHT:450px" SRC="images/seasons2.jpg">
+
+## Climate Variability: Weather
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/CO2_history.jpg">
+<IMG STYLE="position:absolute; TOP:200x; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/usa_weather.jpg">
 
-## Climate Variability: Short time scales = Seasons
+## Land alters climate: Rain shadow
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/seasons.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/rainshadow.jpg">
 
-## Climate Variability: Short time scales = Weather
-<hr>
-
-<IMG STYLE="position:absolute; TOP:190x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/usa_weather.jpg">
-
-## Landform impacts climate: Rain Shadow
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/rainshadow.jpg">
-
-## Landform impacts weather: Hurricane
+## Land impacts weather: Atlantic hurricanes
 <hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h1eRp0EGOmE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Ocean impacts climate
+## Oceans impacts climate
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/atlantic_currents.jpg">
 
-## Vegetation effects on climate
-<hr>
-https://www.youtube.com/watch?v=Y3OWgb0Bv-A
+<!-- ## Vegetation effects on climate -->
+<!-- <hr> -->
+<!-- https://www.youtube.com/watch?v=Y3OWgb0Bv-A -->
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:500px; HEIGHT:400px" SRC="images/cloudforest.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:500px; HEIGHT:400px" SRC="images/cloudforest.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/trees_rain.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/trees_rain.jpg"> -->
 
 ## How does climate impact ecology?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/climate_ecology.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/climate_ecology.png">
 
 ## How does weather impact ecology?
 <hr>
@@ -101,34 +98,23 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 <strong>Extreme weather such as hurricanes, torrential downpours and droughts will increases the risk for species extinction, especially in diverse ecosystems such as coral reefs and tropical rainforests.</strong>
 </div>
 
-<IMG STYLE="position:absolute; TOP:280px; LEFT:50px; WIDTH:350px; HEIGHT:350px" SRC="images/hurricanes.jpg">
+<IMG STYLE="position:absolute; TOP:270px; LEFT:50px; WIDTH:350px; HEIGHT:350px" SRC="images/hurricanes.jpg">
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:460px; WIDTH:600px; HEIGHT:400px" SRC="images/irma.jpg">
 
-## Climate is a **Hot** Topic
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wXrYvd-LBu0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-## We are *modifiying* Earth's climate and weather
+## Earth's climate and weather is changing
 <hr>
 <br />
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/humans_climate.png">
 
-**notes**
-* <strong>Changes in climate alter ecosystem processes</strong>
-  + subtly and not so subtly
-* <strong>USA 2017</strong>
-  + Fire and storm frequency
-  + Hurricane strength -- ?WHY?
+<!-- ## Atmosphere: Rotation → Corilis effect -->
+<!-- <hr> -->
 
-## Atmosphere: Rotation → Corilis effect
-<hr>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/i2mec3vgeaI?start=6" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i2mec3vgeaI?start=6" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<!-- ## Global Precipitation -->
+<!-- <hr> -->
 
-## Global Precipitation
-<hr>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c2-iquZziPU?rel=0&amp;start=52" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/c2-iquZziPU?rel=0&amp;start=52" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
 
