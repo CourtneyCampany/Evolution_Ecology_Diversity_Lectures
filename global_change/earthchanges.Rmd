@@ -585,3 +585,44 @@ Almost everywhere these heat waves are now warmer than a century ago
 ## 
 
 <IMG STYLE="position:absolute; TOP:75px; LEFT:150px; WIDTH:700px; HEIGHT:700px" SRC="images/eba_framework.jpg">
+
+## Homogenization: USA?
+<hr>
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/usa_diverse.png">
+
+## Biodiversity in a changing world
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biodiversity_redistribution.jpg">
+
+## Historical: Megafauna Extinction
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/lostmega.jpeg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/cows.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/newtree.jpg">
+
+## Historical: Are we experiencing a new mass extinction?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/extinction2.png"> 
+
+## Extinction versus humans
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200x; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/humans_pop.gif">
+
+## Ecoregions versus humans
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/World-Population-Density.png">
+
+##
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction3.jpg">
+
+##
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction1.png">
