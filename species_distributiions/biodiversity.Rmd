@@ -62,7 +62,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:250x; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/ninja_turtles.jpg">
 
-## Endemic fish in the USA
+## Endemic freshwater fish in the USA
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/fish_endemics.jpg">
@@ -71,6 +71,10 @@ runtime: shiny
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/carp.jpg">
+
+##  
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/non-native.png">
 
 ## Species diversity declines from tropics
 <hr>
@@ -86,7 +90,7 @@ runtime: shiny
 <hr>
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/ecoregions.jpg">
 
-## Hotspots: Andean uplift
+## Hotspots: Andean uplift and bird diversity
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:300px; HEIGHT:450px" SRC="images/andes2.jpg">
@@ -162,7 +166,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:125px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/species_ship.jpg">
 
-## Hot Topic: Homogenization
+## Homogenization
 <hr>
 <br/>
 
@@ -173,7 +177,8 @@ runtime: shiny
 
 <br/>
 
-* **Taxonomic homogenization: increased similarity of species** 
+* **Taxonomic homogenization**
+      + increased similarity of species
       + plants, insect, fish, birds & mammals
 
 <br/>
@@ -181,7 +186,7 @@ runtime: shiny
 * **Biotic homogenization tied to humans**
     + landscape simplification
     + habitat loss
-    + competition and hybridization with invasives
+    + invasives are highly competitive
 
 </div>
 
