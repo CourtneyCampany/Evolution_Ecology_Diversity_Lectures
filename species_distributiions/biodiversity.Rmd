@@ -13,7 +13,8 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/components.jpg">
 
 ## 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/diversity_role.jpg.">
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/diversity_role.jpg">
 
 ## Biodiversity as insurance
 <hr>
