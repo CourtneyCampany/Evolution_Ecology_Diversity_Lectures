@@ -13,6 +13,131 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Matter is conserved
+<hr>
+
+<div style="float: left; width: 45%;">
+
+* **Law of the conservation of mass**
+
+<br />
+
+* **Chemical elements are essential requirements for living organisms**
+
+<br />
+
+* **Elements move between atmosphere, soils, organisms and bodies of water**
+
+<br />
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/nutrients.jpg">
+
+## Importance of biogeochemical cycling
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/limitation_globe.jpg">
+
+
+## Nutrient cycling: Basics
+<hr>
+
+
+## Carbon cycle: small scale
+<hr>
+
+## Carbon cycle: global
+<hr>
+
+## Nitrogen cycle: small scale
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:550px; HEIGHT:450px" SRC="images/Nitrogen-cycle2.png">
+
+## Nitrogen cycle: global
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:550px; HEIGHT:450px" SRC="images/updated-nitrogen-cycle.jpg">
+
+## Ecosystem Carbon
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/usa_carbon.png">
+
+## Global Ecosystem Carbon: IPCC
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/globalgpp.jpg">
+
+##
+<IMG STYLE="position:absolute; TOP:25px; LEFT:175px; WIDTH:750px; HEIGHT:650px" SRC="images/carbon_cycle_wiki.png">
+
+## Carbon inputs to ecosystems
+<hr>
+<br />
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/tree_photosyn.png">
+
+<div style="float: left; width: 45%;">
+* Driven by plant photosynthesis
+
+<br />
+
+* C from photosynthesis = 50% of Earth's organic matter
+
+<br />
+
+*  Living biomass holds ~1,000 gigatons of C (mostly wood) 
+
+<br />
+
+*  Dead biomass holds ~1,200 gigatons of C
+</div>
+
+##
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/terrestrial_carbon.jpg">
+
+## Gross Primary Production (GPP)
+<hr> 
+<br />
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/gpp_usa.jpg">
+
+
+<div style="float: left; width: 45%;">
+>- Sum of net photosynthesis by all tissue at a given scale
+
+<br />
+
+>- Canopy processes + environmental factors
+
+<br />
+
+>- Canopy gradients are key but not always straightforwards
+
+<br />
+
+>- Water availability at larger scales RULES
+
+<br />
+
+>- Hard to physically measure
+
+</div>
+
+
+
+
+
+
+
+
+
+
 ## Essential Nutrients required for plant growth
 <hr>
 <br />
@@ -69,13 +194,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/limitation_globe.jpg">
 
-## Plant nutrient use: Co-limitation of N & P 
-<hr>
-<br />
-<br />
-<br />
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/nplimits.png">
 
 ## Fine roots: Biomes
 <hr>
@@ -132,18 +250,6 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 
 * **Common to high light / low N sites**
-
-
-## Root absorption properties
-<hr>
-<br />
-  
-* **Plant preferences for different forms**
-  + N = nitrate, ammonia or amino acids
-  + adaptation to ecosystem 
-  + most plants take up some nitrate
-  
-  <IMG STYLE="position:absolute; TOP:225px; LEFT:475px; WIDTH:500px; HEIGHT:300px" SRC="images/nforms.png">
 
 
 
@@ -288,13 +394,3 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:650px; WIDTH:300px; HEIGHT:200px" SRC="images/npk.jpg">
 
-
-## Phosphorus cycling
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soilP2.jpg">
-
-
-## Phosphorus cycling
-<hr>
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/soilP.png">
