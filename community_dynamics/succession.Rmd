@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/succession1c.jpg">
 
-##Disturbance
+## Disturbance
 <hr>
 <br/>
 <br/> 
@@ -46,14 +46,14 @@ knitr::opts_chunk$set(echo = FALSE)
   
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/fire.jpg">
 
-##Human vs natural disturbance types
+## Human vs natural disturbance types
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:450px; HEIGHT:350px" SRC="images/humandisturb.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/humandisturb2.jpg">
 
-##Impact of disturbance: size / intensity / frequency 
+## Impact of disturbance: size / intensity / frequency 
 <hr>
 <br/>
 <br/>
@@ -78,13 +78,13 @@ knitr::opts_chunk$set(echo = FALSE)
  
 </div>
 
-##Impact of disturbance: severity
+## Impact of disturbance: severity
 <hr>
 <br/>
 
 <IMG STYLE="position:absolute; TOP:200; LEFT:175px; WIDTH:800px; HEIGHT:400px" SRC="images/severity.png">
 
-##Impact of disturbance: severity
+## Impact of disturbance: severity
 <hr>
 <br/>
 

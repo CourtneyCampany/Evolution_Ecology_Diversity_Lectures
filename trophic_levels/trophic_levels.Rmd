@@ -27,6 +27,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Diverse communities broaden ecosystem function
 <hr>
 <br/>
+<br/>
 
 <div style="float: left; width: 45%;">
 
@@ -70,64 +71,64 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ##
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/otter.png">
+<IMG STYLE="position:absolute; TOP:75px; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/otter.png">
 
 ## Bottom up control: Resources matter
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/bottom_foodweb.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:300px; HEIGHT:450px" SRC="images/bottom_foodweb.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:450px" SRC="images/bottom2.gif">
 
 ## Hierarchical levels in an community: Food webs
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/grazing_foodweb.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/grazing_foodweb.png">
 
 ## Breaking down food webs
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/energy_v_nutrients.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:125px; WIDTH:350px; HEIGHT:450px" SRC="images/energy_v_nutrients.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/trophic_levels.jpg">
 
-## Trophic Casacdes: 10% Rule
+## Food webs: 10% Rule
 <hr>
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/trophic_cascade.png">
 
 ## Energy flow limits length of food chain
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/pyramid.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/pyramid.jpg">
 
-## Biomagnification
-<hr>
+##
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/biomagnification.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/biomagnification.jpg">
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:400px; HEIGHT:200px" SRC="images/biomagnification2.jpg">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:500px; HEIGHT:200px" SRC="images/biomagnification2.jpg">
 
-## Primary Productivity
+## Primary productivity
 <hr>
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:600px; HEIGHT:300px" SRC="images/biomass_pyramids.png">
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:300px; HEIGHT:500px" SRC="images/GPP.gif">
 
-## Global Net Primary Production
+## Global net primary production
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/oceans_vs_land.jpg">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:300px" SRC="images/Global-Patterns-of-NPP.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:575px; WIDTH:450px; HEIGHT:225px" SRC="images/Global-Patterns-of-NPP.jpg">
 
-## 
+## Global net primary production
+<hr>
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/NPP-seasons.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:40px; WIDTH:300px; HEIGHT:500px" SRC="images/NPP_seasons.png">
 
-## 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/npp_biome.jpg">
 
-<IMG STYLE="position:absolute; TOP:125px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/npp_biome.jpg">
-
-## NPP and global change
+## Net primary production and global change
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg">

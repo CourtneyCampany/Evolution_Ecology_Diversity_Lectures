@@ -1,0 +1,12 @@
+name: trophic_levels
+title: trophic_levels
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 605292
+bundleId: 1743429
+url: https://courtneycampany.shinyapps.io/trophic_levels/
+when: 1544036405.73534
+asMultiple: FALSE
+asStatic: FALSE
