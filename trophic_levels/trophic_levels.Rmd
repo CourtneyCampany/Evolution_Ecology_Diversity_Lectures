@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## What is an ecosystem?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:120px; WIDTH:300px; HEIGHT:450px" SRC="images/desert.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:350px; HEIGHT:450px" SRC="images/desert.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/coral_reef.jpg">
 
@@ -49,7 +49,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Coral reef resilience
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/coral.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/coral.jpg">
 
 ##
 
@@ -110,9 +110,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Primary productivity
 <hr>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:600px; HEIGHT:300px" SRC="images/biomass_pyramids.png">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:400px; WIDTH:600px; HEIGHT:300px" SRC="images/biomass_pyramids.png">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:300px; HEIGHT:500px" SRC="images/GPP.gif">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:300px; HEIGHT:500px" SRC="images/GPP.gif">
 
 ## Global net primary production
 <hr>
@@ -124,7 +124,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Global net primary production
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:40px; WIDTH:300px; HEIGHT:500px" SRC="images/NPP_seasons.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:40px; WIDTH:350px; HEIGHT:500px" SRC="images/NPP_seasons.png">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/npp_biome.jpg">
 

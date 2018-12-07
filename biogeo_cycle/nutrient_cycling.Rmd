@@ -50,6 +50,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Carbon cycle: global
 <hr>
 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:7px; HEIGHT:500px" SRC="images/carbon_cycle2.png">
+
 ## Nitrogen cycle: small scale
 <hr>
 
