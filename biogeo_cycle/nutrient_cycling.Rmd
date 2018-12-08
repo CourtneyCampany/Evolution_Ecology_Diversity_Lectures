@@ -44,187 +44,11 @@ knitr::opts_chunk$set(echo = FALSE)
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/limitation_globe.jpg">
 
 ## Energy flows, but matter is recycled.
+<hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:550px" SRC="images/general_cycle.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/energy.pnh">
-
-## Carbon cycle: small scale
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/carboncycle.png">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/ocean.jpg">
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/tree_photosyn.png">
-
-## Carbon cycle: global 
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:7px; HEIGHT:500px" SRC="images/carbon_cycle_wiki.png">
-
-## Carbon cycle: global 2018
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:7px; HEIGHT:500px" SRC="images/carbon_cycle2.png">
-
-## Nitrogen cycle: small scale
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:550px; HEIGHT:450px" SRC="images/Nitrogen-cycle2.png">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/n-fixers.png">
-
-## Nitrogen cycle: global
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:550px; HEIGHT:450px" SRC="images/updated-nitrogen-cycle.jpg">
-
-## Ecosystem Carbon Storage
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/usa_carbon.png">
-
-## Ecosystem Carbon Storage
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ocean2.jpg">
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/fossilfuels">
-
-## Global Ecosystem Carbon: IPCC
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/globalgpp.jpg">
-
-##
-<IMG STYLE="position:absolute; TOP:25px; LEFT:175px; WIDTH:750px; HEIGHT:650px" SRC="images/carbon_cycle_wiki.png">
-
-
-
-## Essential Nutrients required for plant growth
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/nutrients.jpg">
-
-## Macro vs Micro- nutrients
-<hr>
-<br />
-
-* **Macronutrients required in largest amounts**
-  + commonly limit plant growth
-
-<br />
-
-* **Micro-nutrients are required, but in small amounts**
-
-<br />
-
-* **Beneficial nutrients enhance growth under specific conditions**
-  + ferns required aluminum
-  + nitrogen-fixing plants need cobalt
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:300px; HEIGHT:400px" SRC="images/liebigs.png">
-
-## Nutrient limitation on ecosystem scale
-<hr>
-<br />
-
-<div style="float: left; width: 45%;">
-
-* **Most vegetation on Earth struggles to reach optimum productivity**
-  + sparse nutrients, such as N or P
-  
-  <br />
-
-* **Global vegetation productivity -25% compared to a completely fertile Earth**
-
-<br />
-
-* **How do we define plant nutrient limitation?**
-
-<br />
-
-* **How do ecosystems respond to Δ in nutrients?**
-</div>
-
-<IMG STYLE="position:absolute; TOP:165px; LEFT:575px; WIDTH:450px; HEIGHT:250px" SRC="images/calcium.png">
-
-<IMG STYLE="position:absolute; TOP:425px; LEFT:575px; WIDTH:450px; HEIGHT:250px" SRC="images/np_add.png">
-
-## Nutrient limitation in plants
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/limitation_globe.jpg">
-
-
-## Fine roots: Biomes
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:550px; HEIGHT:400px" SRC="images/root_diameter_biomes.jpg">
-
-## Mycorrhizal symbiosis with plant roots
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mycorr.jpg">
-
-## Mycorrhizae
-<hr>
-<br />
-<br />
-
-<div style="float: left; width: 45%;">
-
-* **Extrension of roots systems into bulk soil**
-  + carbon source for fungus
-  + nutrients passed to plants
-  + <strong><span style="color:green">adds 1-15m per 1cm of root</span></strong>
-
-<br />
-<br />
-<br />
-
-* **Most plants associate with mycorrhizae**
-  + 80% angiosperms
-  + all gymnosperms
-  + many ferns
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:575px; WIDTH:440px; HEIGHT:450px" SRC="images/mycorr3.png">
-
-## Nitrogen fixing plants
-<hr>
-<br />
-<br />
-<br />
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/Nitrogen-Fixing.jpg">
-
-* **Symbiosis with N-fixing bacteria**
-  + similar trade as mycorrhizae
-
-<br />
-
-* **N instead fixed from atmosphere**
-  + energetically expensive
-
-<br />
-
-* **Common to high light / low N sites**
-
-
-
-## Ecosystem Nutrient Cycling
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/nutrient_cycle2.png">
-
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/energy.png">
 
 ## Ecosystem Nutrient Cycling
 <hr>
@@ -252,38 +76,67 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/nutrient_cycle1.png">
 
+## Carbon cycle: small scale
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/carboncycle.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/ocean.jpg">
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/tree_photosyn.png">
+
+## Carbon cycle: global 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/carbon_cycle_wiki.png">
+
+## Carbon cycle: global 2018
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:7px; HEIGHT:500px" SRC="images/carbon_cycle2.png">
+
+## Ecosystem Carbon Storage
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/usa_carbon.png">
+
+## Ecosystem Carbon Storage
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ocean2.jpg">
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/fossilfuels">
+
+## Global Ecosystem Carbon: IPCC
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/globalgpp.jpg">
+
+##
+<IMG STYLE="position:absolute; TOP:25px; LEFT:175px; WIDTH:750px; HEIGHT:650px" SRC="images/carbon_cycle_wiki.png">
+
+## Nitrogen cycle: small scale
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:550px; HEIGHT:450px" SRC="images/Nitrogen-cycle2.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/n-fixers.png">
+
+## Nitrogen cycle: global
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:550px; HEIGHT:450px" SRC="images/updated-nitrogen-cycle.jpg">
+
 ## Ecosystem Nitrogen Cycling
 <hr>
 <br />
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/Nitrogen-cycle2.png">
 
-## Nitrogen inputs: Fixation
-<hr>
-<br />
-<br />
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/Nitrogen-Fixing.jpg">
-
-<div style="float: left; width: 45%;">
-
-* **Energetically expensive**
-  + can be highly advantageous
-
-<br />
-
-* **N fixers limited by other resources**
-  + co-limitation of P
-  + limited once canopies closed (light)
-  
-<br />
-
-* **These factors reduce the competitive advantageof N fixers**
-  + N absorption becomes cheaper
- 
- </div>   
-
-## Nitrogen inputs: Deposition
+## Nitrogen inputs: Deposition & Fixation
 <hr>
 <br />
 
@@ -300,15 +153,9 @@ knitr::opts_chunk$set(echo = FALSE)
  <br /> 
  
 * **Dust / aerosols**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/n-fixers.png">
   
-<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/artichaze.jpg">
-
-## Nitrogen inputs: Clean air act (1970)
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/epa-trends.jpg">
-
 
 ## Decomposition: Leaching / Fragmentation / Alteration
 <hr>
@@ -321,40 +168,17 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/decomp_biomes.jpg">
 
- 
-## Soil Nitrogen Pool
+
+## Internal transfer: Mycorrhizal and Roots - SOIL N
 <hr>
 <br />
-<br />
-<br />
 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:550px; HEIGHT:400px" SRC="images/root_diameter_biomes.jpg">
 
-<div style="float: left; width: 45%;">
-
-* **N availability determines fate**
-  + organic N → NH<sub>4</sub> → NO<sub>3</sub>
-  + Shifts in mycorrhizal contribution
-  
-  Release inorganic NH<sub>4</sub> into soil
- 
- <br />
- 
-* **When N availability ↓:**
-  + competition !!!
-
- </div> 
- 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:400px; HEIGHT:450px" SRC="images/mycorr2.jpg">
 
-## Pathways of N loss
-<hr>
-<br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/nitro_loss.jpg">
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:625px; WIDTH:400px; HEIGHT:500px" SRC="images/nitrate_loss2.png">
-
-## Agriculture: N solution losses
+## N solution losses: Leaching and Agriculture
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:500px; HEIGHT:300px" SRC="images/nitrate_loss.jpg">
