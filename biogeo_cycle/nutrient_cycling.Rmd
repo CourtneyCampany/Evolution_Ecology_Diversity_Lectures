@@ -1,6 +1,5 @@
 ---
 title: "Biogeochemical Cycling"
-date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
     css: custom.css
@@ -16,41 +15,29 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Matter is conserved
 <hr>
 <br />
-<br />
-<br />
-<br />
 
-<div style="float: left; width: 45%;">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/nutrients.jpg">
 
-* **Law of the conservation of mass**
-
-<br />
-
-* **Chemical elements are essential requirements for living organisms**
-
-<br />
-
-* **Elements move between atmosphere, soils, organisms and bodies of water**
-
-<br />
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/nutrients.jpg">
-
-## Importance of biogeochemical cycling
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/limitation_globe.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/matterconserved.jpg">
 
 ## Energy flows, but matter is recycled.
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:550px" SRC="images/general_cycle.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/energy.png">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/energy.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:600px; WIDTH:400px; HEIGHT:550px" SRC="images/general_cycle.jpg">
 
-## Ecosystem Nutrient Cycling
+## Importance of biogeochemical cycling
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/limitation_globe.jpg">
+
+## Biogeochemical cycles: Global
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/spheres.png">
+
+## Nutrient cycles: Ecosystem
 <hr>
 <br />
 <br />
@@ -58,104 +45,52 @@ knitr::opts_chunk$set(echo = FALSE)
 <div style="float: left; width: 40%;">
 
 * **Entry of nutrients into system**
-  + biological fixation
+  + fixation
   + weathering
   + deposition
 
 <br />
 
 * **Internal transfer**
-  + plants, microbes, consumers & environment
+  + food webs
   + decomposition
  
  <br />
  
-* **Loss**
+* **Losses**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/nutrient_cycle1.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:450px; WIDTH:550px; HEIGHT:500px" SRC="images/nutrient_cycle1.png">
 
-## Carbon cycle: small scale
+## Carbon cycle: Ecosystems
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/carboncycle.png">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/carboncycle.png"> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/ocean.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/tree_photosyn.png">
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/tree_photosyn.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/ocean.jpg">
 
-## Carbon cycle: global 
+## Carbon cycle: Global
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/carbon_cycle_wiki.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/carboncycle.jpg">
 
-## Carbon cycle: global 2018
-<hr>
+## 
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:7px; HEIGHT:500px" SRC="images/carbon_cycle2.png">
-
-## Ecosystem Carbon Storage
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/usa_carbon.png">
-
-## Ecosystem Carbon Storage
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/ocean2.jpg">
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/fossilfuels">
-
-## Global Ecosystem Carbon: IPCC
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/globalgpp.jpg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/carbon_cycle2.png">
 
 ##
-<IMG STYLE="position:absolute; TOP:25px; LEFT:175px; WIDTH:750px; HEIGHT:650px" SRC="images/carbon_cycle_wiki.png">
 
-## Nitrogen cycle: small scale
+<IMG STYLE="position:absolute; TOP:10px; LEFT:250px; WIDTH:600px; HEIGHT:700px" SRC="images/storedC.png">
+
+## Nitrogen cycle: Ecosystems
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:550px; HEIGHT:450px" SRC="images/Nitrogen-cycle2.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/Nitrogen-cycle2.png">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/n-fixers.png">
-
-## Nitrogen cycle: global
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:550px; HEIGHT:450px" SRC="images/updated-nitrogen-cycle.jpg">
-
-## Ecosystem Nitrogen Cycling
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/Nitrogen-cycle2.png">
-
-## Nitrogen inputs: Deposition & Fixation
-<hr>
-<br />
-
-* **Humans**
-  + fertilizers
-  + animal husbandry
-  + fossil fuels
-  + released as NH3 & NOx
- 
- <br /> 
-  
-* **Precipitation**
-
- <br /> 
- 
-* **Dust / aerosols**
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/n-fixers.png">
-  
+<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/n-fixers.png">
 
 ## Decomposition: Leaching / Fragmentation / Alteration
 <hr>
@@ -168,20 +103,28 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/decomp_biomes.jpg">
 
-
-## Internal transfer: Mycorrhizal and Roots - SOIL N
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:550px; HEIGHT:400px" SRC="images/root_diameter_biomes.jpg">
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:400px; HEIGHT:450px" SRC="images/mycorr2.jpg">
-
-
-## N solution losses: Leaching and Agriculture
+## Nitrogen cycle: global
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:500px; HEIGHT:300px" SRC="images/nitrate_loss.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/globalN.png">
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:650px; WIDTH:300px; HEIGHT:200px" SRC="images/npk.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/algalbloom.jpg">
 
+## Eutrophication
+<hr>
+  
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/erie.jpg">
+
+
+<!-- ## Internal transfer: Mycorrhizal and Roots - SOIL N -->
+<!-- <hr> -->
+<!-- <br /> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:550px; HEIGHT:400px" SRC="images/root_diameter_biomes.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/mycorr2.jpg"> -->
+
+## Nutrient transfer: Soils
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/uptake.jpg">
