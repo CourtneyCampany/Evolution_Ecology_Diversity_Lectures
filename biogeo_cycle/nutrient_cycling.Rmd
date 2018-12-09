@@ -92,18 +92,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/n-fixers.png">
 
-## Decomposition: Leaching / Fragmentation / Alteration
+## Decomposition
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/decomp.png">
 
-## Decomposition rate: Ecosystems
+## Decomposition rate: Biomes
 <hr>
 <br />
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/decomp_biomes.jpg">
 
-## Nitrogen cycle: global
+## Nitrogen cycle: Global
 <hr>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/globalN.png">
