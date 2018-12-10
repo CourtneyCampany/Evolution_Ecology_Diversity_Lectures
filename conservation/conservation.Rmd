@@ -1,0 +1,15 @@
+---
+title: "Conservation and Ecosystem Services"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+
+## 
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:150px; WIDTH:700px; HEIGHT:700px" SRC="images/eba_framework.jpg">

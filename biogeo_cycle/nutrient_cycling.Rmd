@@ -101,7 +101,12 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/decomp_biomes.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/decomp_biomes.jpg"> 
+
+## Nutrient transfer: Soils
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/uptake.jpg">
 
 ## Nitrogen cycle: Global
 <hr>
@@ -123,8 +128,3 @@ knitr::opts_chunk$set(echo = FALSE)
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:550px; HEIGHT:400px" SRC="images/root_diameter_biomes.jpg"> -->
 
 <!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/mycorr2.jpg"> -->
-
-## Nutrient transfer: Soils
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/uptake.jpg">
