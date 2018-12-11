@@ -1,6 +1,5 @@
 ---
-title: "Changes in the Earth System"
-date: '`r format(Sys.time(), "%d %B, %Y")`'
+title: "Changes in Earth Systems"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -12,291 +11,157 @@ runtime: shiny
 ## Whats in a name...
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:650px; HEIGHT:500px" SRC="images/globalchange.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/globalchange.jpg">
 
 ## Global change at unprecedented rates
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:650px; HEIGHT:500px" SRC="images/medival.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/medival.jpg">
 
 ## Global change at unprecedented rates
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/CO2_history.jpg">
 
-## Dutch Elfstedentocht: 1985
+## Dutch Elfstedentocht: February 1985
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/icerace1985.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/icerace1985.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/Elfstedentocht-1997.gif">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/Elfstedentocht-1997.gif">
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/anamoly.png">
+<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/anamoly.png">
 
-## Last 4 years....warmest ever (Ed Hawkins)
+## Last 4 years are the warmest ever (Ed Hawkins)
 <hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 http://blogs.reading.ac.uk/climate-lab-book/files/2018/12/spiral_2018_WMO_large.gif
 
-## Warming -> Climate change
+## Physical impacts of climate change
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/seaice.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:550px; HEIGHT:400px" SRC="images/seaice2.png">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/seaice2.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/seaice.png">
 
-## Last 12 years....smallest sea ice extents (Ed Hawkins)
+## Last 12 years are smallest sea ice extents (Ed Hawkins)
 <hr>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
 
 
-## How have humans altered Earth's systems
-<hr>
-<hr>
-<br/>
+##   
 
-<div style="float: left; width: 45%;">
-* **Agriculture started ~10,000 yrs ago**
-      + Holocene inter-glacial period
-      + stable climate period
-      + population increased 100x till industrial period
-
-<br/>
-
-* **Sedentary communities**
-      + population increased 10x since industrial revolution
-      + land cover changes = 50% surface
-
-<br/>
-
-* **Population & consumption affects ecosystems**
-    + dramatic since 1950
-</div>   
-
-<IMG STYLE="position:absolute; TOP:150px; LEFT:125px; WIDTH:850px; HEIGHT:400px" SRC="images/agri.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/agri.jpg">
 
 <!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:610px; WIDTH:400px; HEIGHT:400px" SRC="images/irpop.jpg"> -->
 
-## The Great Acceleration
+## Haber-bosch process and human population
 <hr>
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:275px; WIDTH:525px; HEIGHT:625px" SRC="images/greataccel.png">
+<IMG STYLE="position:absolute; TOP:255px; LEFT:25px; WIDTH:400px; HEIGHT:300px" SRC="images/haber2.jpg">
 
-# Haber bosch and human population
+<IMG STYLE="position:absolute; TOP:220px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/haber3.jpg">
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:275px; WIDTH:525px; HEIGHT:625px" SRC="images/haber.jpg">
+##
 
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/greataccel2.jpg">
 
-## Atmospheric C is dynamic
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/icecore.png">
-
-*vegetataion uptake*
-~5 year turnover
-
-## C cycle changes: emissions
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:600px; HEIGHT:450px" SRC="images/methane2.jpg">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:600px; HEIGHT:450px" SRC="images/methane.png">
-
-## Who is respobsible for CO2
+## Greenhouse gases (ice cores)
 <hr>
-<br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/climate-people.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/icecore.png">
 
-## Where does it come from?
+##
 
-## Anthropogenic Changes in Energy Budget
+<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/climate-people.png">
+
+## Greenhouse gases: Carbon dioxide (CO~2~)
 <hr>
-<br/>
 
-    + agriculture areas sensitive
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/greenhouse.png">
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:575px; WIDTH:425px; HEIGHT:500px" SRC="images/landuse.jpg">
-    
-## Anthropogenic Changes in Water Cycle
+<IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/carbonbudget.jpg">
+
+<!-- ## -->
+
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/anthropogenic-co2-by-country.png"> -->
+
+## Greenhouse gases: Methane (CH~4~)
 <hr>
-<br/>
-<br/>
-<br/>
 
-<div style="float: left; width: 45%;">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:600px; HEIGHT:450px" SRC="images/methane2.jpg"> -->
 
-* **Societal**
-    + small vulnerable pool of freshwater
-    + search for clean drinking water
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/methane.png">
 
-<br/>
+<!-- ## Nitrous oxide (N~2~O) -->
+<!-- <hr> -->
 
-* **Irrigation increased 5x in 20^th^ century**
-    + draw from lakes, rivers & groundwater
-    + Ground water turns over ~ 200 years
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:40px; WIDTH:400px; HEIGHT:450px" SRC="images/nitrous_source.png"> -->
 
- </div>
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:550px; HEIGHT:300px" SRC="images/nitrous2.jpg"> -->
+
+## Land use and biogeochemical cycles: Carbon
+<hr>
  
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/irrigation2.jpg">
+<IMG STYLE="position:absolute; TOP:230px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/landsink.gif">
 
-## Agricultural Water Availability: Mediterranean
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/carbonusa.png">
+
+## Land use and biogeochemical cycles: Energy & water
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/deforest.png">
+
+## Land use and biogeochemical cycles: Water
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/irrigation.png">
 
-* **Irrigate to offest impacts on soil moisture**
-
-## Anthropogenic Changes in Nitrogen Cycle
-<hr>
-<br/>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:500px; HEIGHT:350px" SRC="images/carbon-cycle.jpg">
-
-* **Carbon is disrupted among 4 pools**
-    + atmosphere
-    + ocean
-    + land 
-    + sediments/rocks
-
-<br/>
-
-* **Atmospheric C is most dynamic**
-    + driven by metabolism of organisms
-    + ~5 year turnover
-    + https://www.co2.earth/
-    
-## Greenhouse CO<sub>2</sub> Emissions sources
+## Land use and biogeochemical cycles: Nitrogen
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/greenhouse.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/eutro.png">
 
+<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/erie.jpg">
 
-## Greenhouse CO<sub>2</sub> Emissions
+## Biological effects of global change: Oceans
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/anthropogenic-co2-by-country.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/oceanph.png">
 
-## How is the USA doing?
-<hr>
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/carbonusa.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/oceanshell.jpg">
 
-
-## Global storage of CO<sub>2</sub>
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:450px; HEIGHT:450px" SRC="images/sinks.jpg">
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/npp.png">
-
-* **Power of plants**
-
-
-## The Other CO<sub>2</sub> Problem
+## Biological effects of global change: Homogenization
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:800px; HEIGHT:550px" SRC="images/oceanph.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/extinction2.png"> 
 
-## CO<sub>2</sub> Effects on Climate
-<hr>
-<br/>
-<br/>
+<IMG STYLE="position:absolute; TOP:300px; LEFT:575px; WIDTH:500px; HEIGHT:250px" SRC="images/humans_pop.gif">
 
-* **If emisions stopped today:**
-    + 50% absorbed by land/water in 30 yrs
-    + 30% in atmosphere for centuries
-    + 20% in atmospere for 1000 yrs
+<!-- ## Ecoregions versus humans -->
+<!-- <hr> -->
 
-<br/>
+<!-- <IMG STYLE="position:absolute; TOP:200x; LEFT:200px; WIDTH:450px; HEIGHT:450px" SRC="images/ecoregion.jpg"> -->
 
-* **Future warming is inevitable**
-    + sinks are weakening
-    + deep sea sinks and weathering are slow
-    
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/warming.jpg">
-
-## Climate and Weather changes
-<hr>
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/extreme.jpg">
-
-## Extremes - Heat Waves
-<hr>
-
-<div class="centered"><span style="color:red">
-Almost everywhere these heat waves are now warmer than a century ago
-</span></div>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/heatwaves.png">
-
-## Extremes - Precipitation in the USA
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/downpours.jpg">
-
-## Extremes - Precipitation in the USA
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/soil_moisture.jpg">
-
-## Ocean evaporation going up
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/oceanevap.jpg">
-
-
-## Anthropogenic Changes in Nitrogen Cycle
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/fert.png">    
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/nagri.jpg">
-
-##Nitrogen Leaching and Agriculture
-<hr>
-
-<IMG STYLE="position:absolute; TOP:165px; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/nwater.jpg">
-
-<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:800px; HEIGHT:600px" SRC="images/eutro.png">
-
-
-## Is 1.5C Global Target Reachable?
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:600px; HEIGHT:400px" SRC="images/globalmeantemp2.png">
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:600px; HEIGHT:400px" SRC="images/globalmeantemp.png">
-
-## It is not to late, but the risks are less if we start earlier
-
-<IMG STYLE="position:absolute; TOP:350px; LEFT:50px; WIDTH:200px; HEIGHT:200px" SRC="images/greenline.jpg">
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:800px; HEIGHT:500px" SRC="images/emissions.png">
-
-## Global change: the pulse of the planet
-
-## Homogenization: USA?
-<hr>
-<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/usa_diverse.png">
-
-## Historical: Are we experiencing a new mass extinction?
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/extinction2.png"> 
-
-## Extinction versus humans
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200x; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/humans_pop.gif">
-
-## Ecoregions versus humans
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/World-Population-Density.png">
+<!-- <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/World-Population-Density.png"> -->
 
 ##
 <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction3.jpg">
@@ -304,17 +169,73 @@ Almost everywhere these heat waves are now warmer than a century ago
 ##
 <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction1.png">
 
-
-## 
+##
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/climatepeople.jpg">
 
-## Food Insecurity
+<!-- ## Biological effects of global change: People -->
+<!-- <hr> -->
+<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/foodinsecurity.png"> -->
+
+## Is 1.5C global target reachable?
 <hr>
-<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/foodinsecurity.png">
 
-## What should I do
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/greenline.jpg">
 
-The average age the night we had splashdown was 28." When Space Shuttle Atlantis left Earth on May 11, 2009, the average NASA civil servant's age was 47.
+## What should you do....
+<hr>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/nasa.png">
+<div style="float: left; width: 45%;">
+
+* **If CO~2~ emissions stopped today:**
+    + 50% absorbed by land/water in 30 yrs
+    + 30% in atmosphere for centuries
+    + 20% in atmosphere for 1000 yrs
+
+<br/>
+
+* **Future warming is inevitable**
+    + land sinks uncertain
+    + ocean sinks weakening
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/nasa.png">
+
+## What should you do... (For Emma)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/cow.jpg">
+
+<!-- ## Climate and Weather changes -->
+<!-- <hr> -->
+<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/extreme.jpg"> -->
+
+<!-- ## Extremes - Heat Waves -->
+<!-- <hr> -->
+
+<!-- <div class="centered"><span style="color:red"> -->
+<!-- Almost everywhere these heat waves are now warmer than a century ago -->
+<!-- </span></div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/heatwaves.png"> -->
+
+<!-- ## Extremes - Precipitation in the USA -->
+<!-- <hr> -->
+<!-- <br/> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/downpours.jpg"> -->
+
+<!-- ## Extremes - Precipitation in the USA -->
+<!-- <hr> -->
+<!-- <br/> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/soil_moisture.jpg"> -->
+
+<!-- ## Ocean evaporation going up -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/oceanevap.jpg"> -->
