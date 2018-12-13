@@ -1,0 +1,12 @@
+name: eco_services
+title: eco_services
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 616348
+bundleId: 1761270
+url: https://courtneycampany.shinyapps.io/eco_services/
+when: 1544719174.13623
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,6 +1,5 @@
 ---
 title: "Ecosystem Services"
-date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
     css: custom.css
@@ -9,34 +8,69 @@ output:
 runtime: shiny
 ---
 
-## Sustainability and System Science 
-<hr>
-<br/>
+##
 
->- <strong>Consider that I give everyone 1 dollar each time you come to class</strong> 
-  >- Is that sustainable?    
-<br/>
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:800px; HEIGHT:600px" SRC="images/biodiverse.png">
 
->- <strong>What information do we need?</strong>
-  >- What is my 'stock' of money?
-<br/>
-
->- <strong>What if I spend $ on other stuff? </strong>  
-  >- What is my 'input' of new money
-  >- What is my 'turnover' time of money based on my consumption of money
-<br/>
-
->- <strong>What if the class size grows....because Im giving away money?</strong> 
-<br/>
-<br/>
->- <strong><span style="color:green">This question relates to a 'system' which has a balancing point</strong></span>
-
-## Climate Resilience: Human Interactions
+## Where do we fit in?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/buildreslience.png"> 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/humansfood.jpeg">
 
-## Restoration Ecology
+## Ethics of ecology
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/restoration_ecology.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/ethics.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:650px; HEIGHT:650px" SRC="images/Ecosystem-Services2.png">
+
+## Provisioning services
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/provision.png">
+
+## Regulating services
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/catskills2.jpg">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/catskills.jpg">
+
+## Cultural services
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:700px; HEIGHT:400px" SRC="images/cultural.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:775px; WIDTH:300px; HEIGHT:400px" SRC="images/birding.jpg">
+
+## Are we disconnected from nature?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/naturewords.png">
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:625px; WIDTH:450px; HEIGHT:300px" SRC="images/outdoors.jpg">
+
+## Supporting services
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:700px; HEIGHT:400px" SRC="images/bees.png">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/chinaapple.jpg">
+
+## Conservation and restoration
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/pest_recovery.jpg">
+
+## The importance of connectedness
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:300px; HEIGHT:450px" SRC="images/corridors.jpg">
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/corridors2.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/agri.jpg">
