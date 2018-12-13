@@ -10,21 +10,23 @@ runtime: shiny
 
 ##
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:800px; HEIGHT:600px" SRC="images/biodiverse.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/biodiverse.png">
 
 ## Where do we fit in?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/humansfood.jpeg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/humansfood.jpeg">
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/trophic.png">
 
 ## Ethics of ecology
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/ethics.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/ethics.jpg">
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:650px; HEIGHT:650px" SRC="images/Ecosystem-Services2.png">
+<IMG STYLE="position:absolute; TOP:25px; LEFT:200px; WIDTH:650px; HEIGHT:650px" SRC="images/Ecosystem-Services2.png">
 
 ## Provisioning services
 <hr>
@@ -74,3 +76,7 @@ runtime: shiny
 ##
 
 <IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/agri.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/urban.png">
