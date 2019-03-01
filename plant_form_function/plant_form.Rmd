@@ -98,32 +98,24 @@ runtime: shiny
 ## How do plants create such dynamic structures?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/cell_types.png">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/cell_types.png">
 
-## Plant tissue systems
+## Plants have 3 tissue systems
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:600px; HEIGHT:400px" SRC="images/plant_tissues.jpg">
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:300px; HEIGHT:300px" SRC="images/tissue_structure.jpg">
 
-## Roots and and plant function
+## Roots integral for plant function
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/root_roles.jpg">
 
-## Resonsible for supplying key nutrients & water to plant
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:600px; HEIGHT:300px" SRC="images/rootuptake.jpg">
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/roottip.png">
-
-## Resource availability drives root diversity
+## Root morphology is super diverse
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/rootsystems1.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/rootsystems1.jpg">
 
 ## Roots have their own super information highway
 <hr>
@@ -133,16 +125,26 @@ runtime: shiny
 ## Root exudation: Who's in charge?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/exudates.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:450px; HEIGHT:400px" SRC="images/exudates.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/mycorr.jpg">
+
+## Roots supply key nutrients & water to plant
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:600px; HEIGHT:300px" SRC="images/rootuptake.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/roottip.png">
 
 ## Vascular tissue system: Moving the good stuff
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:750px; HEIGHT:500px" SRC="images/vascular_tissues.png">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:800px; HEIGHT:500px" SRC="images/vascular_tissues.png">
 
 
-## Plant growth
+## Primary plant growth
 <hr>
 <br/>
 
@@ -182,41 +184,14 @@ runtime: shiny
         
  </div> 
  
-## Why do plants look so different?
+## Plant form: building the perfect plant...
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/forest.jpg">
-      
-## Classic economic theory applied to plants
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/perfect_plant.png">
+ 
+## Plants alter form do make a living
 <hr>
 
-<div style="float: right; width: 60%;">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:550px; HEIGHT:450px" SRC="images/forest.jpg">
 
-* **Investment**
-* storage versus use of photosynthetic products
-
-<br/>
-
-* **Marginal cost and revenue**
-* new leaves vs support structures 
-* law of diminishing returns
-      
-<br/>
-
-* **Marginal product**
-* profit of photosynthesis vs resource availability
-      
-<br/>
-
-* **Exchange ratios** 
-* balancing C gain, nutrient use & water loss
-
- </div>     
-      
-<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:300px; HEIGHT:300px" SRC="images/leafdollar.png">
-
-## Economic strategies drive leaf form and function
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/spectrum_plantform.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:650px; HEIGHT:450px" SRC="images/spectrum_plantform.jpg">
