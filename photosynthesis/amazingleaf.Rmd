@@ -11,7 +11,7 @@ runtime: shiny
 
 ##
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:325px; WIDTH:400px; HEIGHT:6000x" SRC="images/plantbiomass.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:350px; WIDTH:400px; HEIGHT:6000x" SRC="images/plantbiomass.png">
 
 ## Leaf structure and why it matters
 <hr>
@@ -21,57 +21,45 @@ runtime: shiny
 ## Leaves exchange gases via stomata
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:400x" SRC="images/stomata.png">
+<IMG STYLE="position:absolute; TOP:260px; LEFT:100px; WIDTH:400px; HEIGHT:400x" SRC="images/stomata.png">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:350px; HEIGHT:450x" SRC="images/stomatal_evolution.jpg">
-
 
 ## How stomata work...
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:400x" SRC="images/stomata4a.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400x" SRC="images/stomata4a.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:500px; HEIGHT:400x" SRC="images/stomata4b.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400x" SRC="images/stomata4b.jpg">
 
-## Leaf veins
+## Vascular tissues in leaves are confined to veins
 <hr>
-<br/>
-<br/>
 <br/>
 <br/>
 
 <div style="float: right; width: 65%;">
 * **_Transpiration_ is a by‐product of opening stomatal pores**
-
 <br/>
 
-* **Water transport needs to be sufficient to keep stomata open** 
-
+* **H~2~O transport needs to be sufficient to keep stomata open** 
 <br/>
 
-* **Leaf must invest in H~2~O transport**
-
+* **Venation represents investment in H~2~O supply**
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:80px; WIDTH:250px; HEIGHT:400x" SRC="images/leafveins.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:80px; WIDTH:250px; HEIGHT:350x" SRC="images/leafveins.jpg">
 
-## Evolution of leaf vein density
+<IMG STYLE="position:absolute; TOP:365px; LEFT:395px; WIDTH:600px; HEIGHT:300x" SRC="images/venation.jpg">
+
+## How leaf veins changed the world....
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:750px; HEIGHT:400x" SRC="images/vein_evolution.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:450x" SRC="images/vein_evolution.jpg">
 
-## Leaf structure and economics
+## Are plants intelligent? Leaf economics theory
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:325px; WIDTH:400px; HEIGHT:300x" SRC="images/stomata5.jpg">
-
-<IMG STYLE="position:absolute; TOP:425px; LEFT:250px; WIDTH:600px; HEIGHT:300x" SRC="images/vein_density.jpg">
-
-## Economic strategies drive leaf form and function
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/needles.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:600x" SRC="images/leafecon.png">
 
 ## Photosynthesis is complicated....
 <hr>
@@ -83,14 +71,14 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:400px; HEIGHT:300x" SRC="images/hangry.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:125px; WIDTH:400px; HEIGHT:300x" SRC="images/hangry.png">
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/fastfood.jpg">
 
 ## What do plants do when they are hungry?
 <hr>
     
-<IMG STYLE="position:absolute; TOP:300px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/candy.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:900px; HEIGHT:700x" SRC="images/candy.png">
 
 ## Photosynthesis is the basis for most life on Earth
 <hr>
@@ -111,10 +99,11 @@ runtime: shiny
 <br/>
 
 * **Photosynthesis is an energy pathway**
+    * 2 linked reactions
 
  </div>
  
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400x" SRC="images/leaf_solar.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:400px; HEIGHT:400x" SRC="images/leaf_solar.jpg">
 
 ## Chloroplasts: Where the magic happens
 <hr>
@@ -135,6 +124,13 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts_light.png">
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:600px; WIDTH:450px; HEIGHT:450x" SRC="images/pigments.jpg">
+
+## When pigments absorbing photons an election gets excited
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:450x" SRC="images/pigmentphoton.png">
+
+<div class="item-absolute6"> Photosystems (2) convert light energy to chemical energy  </div>
  
 ## Light reactions: make ATP + NADPH for Calvin cycle
 <hr>
@@ -152,22 +148,28 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/lightreaction3.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/lightreaction3.png">
 
 ## Dark Reactions (aka Calvin cycle)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/photosynthesis.png">
 
+<IMG STYLE="position:absolute; TOP:290px; LEFT:600px; WIDTH:450px; HEIGHT:300x" SRC="images/leaf_structure.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin.jpg">
+## Calvin cycle is a 3-step process
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:450px; HEIGHT:450px" SRC="images/calvin.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:300px; HEIGHT:300px" SRC="images/rubisco3.png">
 
 ## Making sugars requires several cycles
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:400px; HEIGHT:400px" SRC="images/calvin2.jpg">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/equation2.png">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/equation2.png">
 
 ## Rubisco - the enzyme that dominates carbon fixation
 <hr>
@@ -177,9 +179,9 @@ runtime: shiny
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/rubisco.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:425px; HEIGHT:400px" SRC="images/rubisco.jpg">
 
-<div style="float: right; width: 60%;">
+<div style="float: right; width: 55%;">
 
 * **Most abundant enzyme in the world**
 
@@ -193,17 +195,21 @@ runtime: shiny
 
 </div>
 
-## Why does Rubisco suck so bad...
+## Rubsico: the clunky and slow carbon fixer
 <hr>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 55%;">
 
-* **Only performs 3-10 reactions per second: SLOW**
+* **Only performs 3-10 reactions per second**
 
 <br/>
 
 * **Has an error rate of 20%**
-* gets worse at high temperatures
+    * gets worse at high temperatures
         
 <br/>
 
@@ -211,12 +217,13 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/photo.jpg">
-
-<IMG STYLE="position:absolute; TOP:425px; LEFT:300px; WIDTH:500px; HEIGHT:250x" SRC="images/photorespiration.jpeg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:500px; WIDTH:500px; HEIGHT:250x" SRC="images/photorespiration.jpeg">
 
 ## C3 photosynthesis how did we get here...
 <hr>
+<br/>
+<br/>
+<br/>
 <br/>
 
 <div style="float: left; width: 60%;">
@@ -232,8 +239,6 @@ runtime: shiny
 * **Nearly 2x energy to produce the same amount of sugar than if Rubisco just reacted with CO~2~**
 
  </div>
- 
-<IMG STYLE="position:absolute; TOP:475px; LEFT:200px; WIDTH:300px; HEIGHT:300x" SRC="images/photosystems.png">
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:250px; HEIGHT:500x" SRC="images/atmosphere.png">
 

@@ -75,3 +75,9 @@ slides > slide:not(.nobackground):before {
       background: url($logo$) no-repeat 0 50%;
     }
 
+.item-absolute6 {
+  position: absolute;
+  top: 635px;
+  left: 225px;
+  font-size: 24px;
+}
