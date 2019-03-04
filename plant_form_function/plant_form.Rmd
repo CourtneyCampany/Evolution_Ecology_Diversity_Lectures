@@ -62,9 +62,9 @@ runtime: shiny
 <div style="float: left; width: 38%;">
 
 * **Plants gather materials to grow**
-* soil
-* atmosphere
-* materials can be limiting
+    * soil
+    * atmosphere
+    * materials can be limiting
 
 <br/> 
 
@@ -73,27 +73,27 @@ runtime: shiny
 <br/> 
 
 * **Plants exhibit _indeterminate growth_**
-* "foragers"
-* diversity of size & shape
+    * "foragers"
+    * diversity of size & shape
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:325px" SRC="images/raunkiaer.jpg">
 
-## Diversity in plant form via uptake
+## Diversity in plant form via uptake and structure
 <hr>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/areavolume.png">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/areavolume.png">
 
 ## Diversity in plant form via evolution
 <hr>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:125px; WIDTH:800px; HEIGHT:300px" SRC="images/angioradiation.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:900px; HEIGHT:400px" SRC="images/angioradiation.png">
 
 ## Diversity in plant form via environment
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/leafsize.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/leafsize.jpg">
 
 ## How do plants create such dynamic structures?
 <hr>
@@ -105,22 +105,22 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:600px; HEIGHT:400px" SRC="images/plant_tissues.jpg">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:300px; HEIGHT:300px" SRC="images/tissue_structure.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:715px; WIDTH:300px; HEIGHT:300px" SRC="images/tissue_structure.jpg">
 
 ## Roots integral for plant function
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/root_roles.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:185px; WIDTH:700px; HEIGHT:500px" SRC="images/root_roles.jpg">
 
 ## Root morphology is super diverse
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/rootsystems1.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/rootsystems1.jpg">
 
-## Roots have their own super information highway
+## Roots are a member of the the biotic soil community
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/plants-fungi.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/plants-fungi2.jpg">
 
 ## Root exudation: Who's in charge?
 <hr>
@@ -141,8 +141,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:800px; HEIGHT:500px" SRC="images/vascular_tissues.png">
-
+<IMG STYLE="position:absolute; TOP:150px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/vascular_tissues.png">
 
 ## Primary plant growth
 <hr>
@@ -165,6 +164,7 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
+<br/>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/growthrings.png">
 
@@ -175,12 +175,12 @@ runtime: shiny
 <br/>
 
 * **Complete cycle of seasons**
-* record atmospheric conditions
+    * record atmospheric conditions
 
 <br/>
 
 * **Agreement on solar storms on a global scale!**
-* Wang et al. 2017. Nature Communications 8:1487
+    * Wang et al. 2017. Nature Communications
         
  </div> 
  
@@ -189,9 +189,9 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/perfect_plant.png">
  
-## Plants alter form do make a living
+## Sessile plants alter form to make a living
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:550px; HEIGHT:450px" SRC="images/forest.jpg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:25px; WIDTH:450px; HEIGHT:350px" SRC="images/forest.jpg">
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:650px; HEIGHT:450px" SRC="images/spectrum_plantform.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:550px; HEIGHT:400px" SRC="images/spectrum_plantform.jpg">
