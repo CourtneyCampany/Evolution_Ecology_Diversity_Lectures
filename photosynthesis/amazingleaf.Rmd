@@ -11,26 +11,31 @@ runtime: shiny
 
 ##
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:350px; WIDTH:400px; HEIGHT:6000x" SRC="images/plantbiomass.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:350px; WIDTH:400px; HEIGHT:600px" SRC="images/plantbiomass.png">
 
 ## Leaf structure and why it matters
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/leaf_structure.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/leaf_structure.jpg">
 
 ## Leaves exchange gases via stomata
 <hr>
 
-<IMG STYLE="position:absolute; TOP:260px; LEFT:100px; WIDTH:400px; HEIGHT:400x" SRC="images/stomata.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/stomata.png">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:350px; HEIGHT:450x" SRC="images/stomatal_evolution.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:350px; HEIGHT:450px" SRC="images/stomatal_evolution.jpg">
 
 ## How stomata work...
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:500px; HEIGHT:400x" SRC="images/stomata4a.jpg">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400x" SRC="images/stomata4b.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/stomata4b.jpg">
+
+## Leaf gas exchange impacts global ecology
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/maunaloa.png">
 
 ## Vascular tissues in leaves are confined to veins
 <hr>
@@ -47,19 +52,19 @@ runtime: shiny
 * **Venation represents investment in H~2~O supply**
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:80px; WIDTH:250px; HEIGHT:350x" SRC="images/leafveins.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:80px; WIDTH:250px; HEIGHT:350px" SRC="images/leafveins.jpg">
 
-<IMG STYLE="position:absolute; TOP:365px; LEFT:395px; WIDTH:600px; HEIGHT:300x" SRC="images/venation.jpg">
+<IMG STYLE="position:absolute; TOP:365px; LEFT:395px; WIDTH:600px; HEIGHT:300px" SRC="images/venation.jpg">
 
 ## How leaf veins changed the world....
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:450x" SRC="images/vein_evolution.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/vein_evolution.jpg">
 
 ## Are plants intelligent? Leaf economics theory
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:600x" SRC="images/leafecon.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafecon.png">
 
 ## Photosynthesis is complicated....
 <hr>
@@ -71,14 +76,14 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:125px; WIDTH:400px; HEIGHT:300x" SRC="images/hangry.png">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:350px; HEIGHT:250x" SRC="images/hangry.png">
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/fastfood.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/fastfood.jpg">
 
 ## What do plants do when they are hungry?
 <hr>
     
-<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:900px; HEIGHT:700x" SRC="images/candy.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:950px; HEIGHT:350px" SRC="images/candy.png">
 
 ## Photosynthesis is the basis for most life on Earth
 <hr>
@@ -103,32 +108,32 @@ runtime: shiny
 
  </div>
  
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:400px; HEIGHT:400x" SRC="images/leaf_solar.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/leaf_solar.jpg">
 
 ## Chloroplasts: Where the magic happens
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/chlroplasts.png">
 
-<IMG STYLE="position:absolute; TOP:260px; LEFT:600px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts3.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/chlroplasts3.png">
 
 ## The nature of light
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:500px; HEIGHT:500x" SRC="images/light_spectrum.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/light_spectrum.jpg">
 
 ## When light hits chlorophyll a few things can happen
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:400px; HEIGHT:400x" SRC="images/chlroplasts_light.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:400px; HEIGHT:400px" SRC="images/chlroplasts_light.png">
 
-<IMG STYLE="position:absolute; TOP:210px; LEFT:600px; WIDTH:450px; HEIGHT:450x" SRC="images/pigments.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/pigments.jpg">
 
 ## When pigments absorbing photons an election gets excited
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:450x" SRC="images/pigmentphoton.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/pigmentphoton.png">
 
 <div class="item-absolute6"> Photosystems (2) convert light energy to chemical energy  </div>
  
@@ -136,13 +141,13 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:400x" SRC="images/photosystems2.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/photosystems2.png">
 
 ## Light reactions: make ATP + NADPH for Calvin cycle
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:600px; HEIGHT:600x" SRC="images/lightreaction4.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/lightreaction4.png">
 
 ## Light energy to chemical energy 
 <hr>
@@ -155,7 +160,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/photosynthesis.png">
 
-<IMG STYLE="position:absolute; TOP:290px; LEFT:600px; WIDTH:450px; HEIGHT:300x" SRC="images/leaf_structure.jpg">
+<IMG STYLE="position:absolute; TOP:290px; LEFT:600px; WIDTH:450px; HEIGHT:300px" SRC="images/leaf_structure.jpg">
 
 ## Calvin cycle is a 3-step process
 <hr>
@@ -195,7 +200,7 @@ runtime: shiny
 
 </div>
 
-## Rubsico: the clunky and slow carbon fixer
+## Rubisco: the clunky and slow carbon fixer
 <hr>
 <br/>
 <br/>
@@ -204,20 +209,20 @@ runtime: shiny
 
 <div style="float: left; width: 55%;">
 
-* **Only performs 3-10 reactions per second**
+* **Only 3-10 reactions per second**
 
 <br/>
 
-* **Has an error rate of 20%**
+* **20% error rate**
     * gets worse at high temperatures
         
 <br/>
 
-* **Performs carboxylation as well as OXYGENATION**
+* **Performs carboxylation and OXYGENATION**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:500px; WIDTH:500px; HEIGHT:250x" SRC="images/photorespiration.jpeg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:500px; WIDTH:500px; HEIGHT:250px" SRC="images/photorespiration.jpeg">
 
 ## C3 photosynthesis how did we get here...
 <hr>
@@ -226,20 +231,24 @@ runtime: shiny
 <br/>
 <br/>
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 55%;">
 
 * **Evolution doesn't necessarily create the best solution**
 
 <br/>
 
-* **Oxygenation products are completely wasted**
+* **Oxygenation products are completely wasteful**
 
 <br/>
 
-* **Nearly 2x energy to produce the same amount of sugar than if Rubisco just reacted with CO~2~**
+* **2x energy to produce the same amount of sugar than if Rubisco just reacted with CO~2~**
 
  </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:250px; HEIGHT:500x" SRC="images/atmosphere.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:675px; WIDTH:325px; HEIGHT:450px" SRC="images/atmosphere.png">
 
+## Calvin Benson won a Nobel prize, is TA won best practical joke
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/bensonwilson.png">
  
