@@ -9,12 +9,40 @@ output:
 runtime: shiny
 ---
 
+## Review: Light energy to chemical energy
+<hr>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/chlorophyll.jpeg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/photosystem.jpeg">
+
+## Review: Calvin
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:550px; HEIGHT:400px" SRC="images/calvin.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/calvin2.png">
+
 ## Review: Issues with C3 photosynthesis
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/photorespiration.jpeg">
 
-## Has rubisco evolved?
+<div class="item-absolute6"> Like having a really good friend with a disgusting habit  </div>
+
+## 2 factors regulate the frequency of substrate choice
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:600px; HEIGHT:300px" SRC="images/rubisco_temp.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:225px; HEIGHT:450px" SRC="images/atmosphere.png">
+
+## Photorespiration inpacts food security
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:900px; HEIGHT:500px" SRC="images/crop-yield-map.png">
+
+## Rubisco: How did we get here?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/evol_rubisco.jpg">
@@ -30,18 +58,18 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 * **Evolution of enzymes subject to strong biophysical constraints**
-* tradeoffs between activity and stability
+    * tradeoffs between activity and stability
  
  <br/>
  
 * **Removing the oxygenation capability breaks rubisco**
-* heavy selection against modifying mutations
+    * heavy selection against modifying mutations
 
 <br/>
 
 * **RubisCO → RubisC**
-* requires a decrease in fitness 
-* Studer et al. 2014
+    * requires a decrease in fitness 
+    * "heartbeat of C3 photosynthesis"
 
 </div>
 
@@ -62,16 +90,50 @@ runtime: shiny
 <br/>
 
 * **In response to environmental change**
-* lower [CO~2~]
-* high temperatures 
-* water limitations 
+    * lower [CO~2~]
+    * high temperatures 
+    * water limitations 
 
 <br/>
 
 * **Allowed plants to exploit new habitats**
 </div>
 
+## C4 photosynthesis: Evolved many times
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/c4map.png">
+
 ## Evolution of C4 photosynthesis
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 55%;">
+
+* **C3 plants use the CO~2~ directly in the Calvin cycle**
+
+<br/>
+
+* **C4 plants first fix CO~2~ to PEP**
+
+<br/>
+
+* **Mesophyll cells @ top are CO~2~ pumps**
+    * flood rubisco in **bundle sheath cells** with CO~2~
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/c3vsc4.jpg">
+
+## Functional change in bundle sheath cells (C3 -> C4)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:800px; HEIGHT:400px" SRC="images/c3_c4_anatomy.png"
+
+<div class="item-absolute6"> Calvin cycle now occurs in BSC cells around leaf veins </div>
+
+## Evolution of C4 photosynthesis: Why?
 <hr>
 <br/>
 <br/>
@@ -82,23 +144,21 @@ runtime: shiny
 
 <br/>
 
-* **Mesophyll cells @ top are CO~2~ pumps**
-* flood rubisco in **bundle sheath cells** with CO~2~
-
-<br/>
-
 * **New enzyme, phosphoenolpyruvate carboxlylase (PEPC)**
-* fixes CO~2~ to PEP
-* no affinity for O~2~
-* 4C malate carries CO~2~ to Calvin cycle
+    * fixes CO~2~ to PEP
+    * no affinity for O~2~
+    * 4C malate carries CO~2~ to Calvin cycle
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4.jpg">
 
-##
+## Anatomically visible
+<hr>
 
-<IMG STYLE="position:absolute; TOP:200x; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/crosssection.jpg">
+<IMG STYLE="position:absolute; TOP:200x; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/c3_cs.gif">
+
+<IMG STYLE="position:absolute; TOP:200x; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/c4_cs.gif">
 
 ## Why has C4 not taken over?
 <hr>
@@ -123,7 +183,9 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4_2.jpg">
 
 ##
-<IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/c4_distribution.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/c4_distribution.jpg">
+
+**In hot conditions, the benefits of reduced photorespiration likely exceed the ATP cost of moving CO~2~ from the mesophyll cell to the bundle-sheath cell**
 
 ## CAM (Crassulacean Acid Metabolism) plants
 <hr>
@@ -145,8 +207,8 @@ runtime: shiny
 <br/>
 
 * **Exist in arid environments or habitats**
-* cacti
-* epiphytes
+    * cacti
+    * epiphytes
 
 <br/>
 
@@ -161,18 +223,18 @@ runtime: shiny
 
 <div style="float: right; width: 55%;">
 * **C4 plants are economically important**
-* corn, sugarcane, sorghum & switchgrass
+    * corn, sugarcane, sorghum & switchgrass
 
 <br/>
 
 * **So are C3 crops**
-* beans, rice, wheat, potatoes (temperate crops)
+    * beans, rice, wheat, potatoes (temperate crops)
 
 <br/>
 
 * **Global water use is set to triple by 2050**
-* 70%  to the agriculture sector
-* 50% transpired through stomatal pores
+    * 70%  to the agriculture sector
+    * 50% transpired through stomatal pores
 
 </div>
 
@@ -205,4 +267,5 @@ runtime: shiny
 * https://c4rice.com/
 
 </div>
+
 
