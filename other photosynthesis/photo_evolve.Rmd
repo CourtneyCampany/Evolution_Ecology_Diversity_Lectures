@@ -12,44 +12,45 @@ runtime: shiny
 ## Review: Light energy to chemical energy
 <hr>
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/chlorophyll.jpeg">
+<IMG STYLE="position:absolute; TOP:265px; LEFT:25px; WIDTH:400px; HEIGHT:300px" SRC="images/chlorophyll.jpeg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/photosystem.jpeg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/photosystem.jpeg">
 
-## Review: Calvin
+## Review: Calvin cycle
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:550px; HEIGHT:400px" SRC="images/calvin.png">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:50px; WIDTH:550px; HEIGHT:400px" SRC="images/calvin.png">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/calvin2.png">
+<IMG STYLE="position:absolute; TOP:195px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/calvin2.png">
 
 ## Review: Issues with C3 photosynthesis
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/photorespiration.jpeg">
+<IMG STYLE="position:absolute; TOP:215px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/photorespiration.jpeg">
 
 <div class="item-absolute6"> Like having a really good friend with a disgusting habit  </div>
 
-## 2 factors regulate the frequency of substrate choice
+## Rubisco substrate choice (2 factors)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:600px; HEIGHT:300px" SRC="images/rubisco_temp.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:700px; HEIGHT:350px" SRC="images/rubisco_temp.png">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:225px; HEIGHT:450px" SRC="images/atmosphere.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:750px; WIDTH:225px; HEIGHT:450px" SRC="images/atmosphere.png">
 
 ## Photorespiration inpacts food security
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:900px; HEIGHT:500px" SRC="images/crop-yield-map.png">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/crop-yield-map.png">
 
 ## Rubisco: How did we get here?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/evol_rubisco.jpg">
 
-## 
+## Plant evolution tied to atmospheric shifts in CO~2~:O~2~ 
+<hr>
 
-<IMG STYLE="position:absolute; TOP:75px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/evolution_rubisco.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/evolution_rubisco.jpg">
 
 ## Why has rubisco not been replaced?
 <hr>
@@ -63,25 +64,25 @@ runtime: shiny
  <br/>
  
 * **Removing the oxygenation capability breaks rubisco**
-    * heavy selection against modifying mutations
+    * selection against modifying mutations
 
 <br/>
 
 * **RubisCO → RubisC**
     * requires a decrease in fitness 
-    * "heartbeat of C3 photosynthesis"
+    * "heartbeat" of photosynthesis
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/rubisco_mutations.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/rubisco_mutations.jpg">
 
-## Evolution has tinkered with photosynthesis
+## Evolution tinkers with other parts of photosynthesis
 <hr>
 <br/>
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:150px; WIDTH:300px; HEIGHT:200px" SRC="images/c3c4cam.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:400px; HEIGHT:225px" SRC="images/c3c4cam.jpg">
 
 <div style="float: right; width: 55%;">
 
@@ -102,14 +103,16 @@ runtime: shiny
 ## C4 photosynthesis: Evolved many times
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/c4map.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:700px; HEIGHT:450px" SRC="images/c4map.png">
 
 ## Evolution of C4 photosynthesis
 <hr>
 <br/>
 <br/>
+<br/>
+<br/>
 
-<div style="float: right; width: 55%;">
+<div style="float: right; width: 50%;">
 
 * **C3 plants use the CO~2~ directly in the Calvin cycle**
 
@@ -124,17 +127,19 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/c3vsc4.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/c3vsc4.jpg">
 
-## Functional change in bundle sheath cells (C3 -> C4)
+## Functional change in bundle sheath cells (C3 → C4)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:800px; HEIGHT:400px" SRC="images/c3_c4_anatomy.png"
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:800px; HEIGHT:425px" SRC="images/c3_c4_anatomy.png"
 
 <div class="item-absolute6"> Calvin cycle now occurs in BSC cells around leaf veins </div>
 
-## Evolution of C4 photosynthesis: Why?
+## C4 concentrates CO~2~ around Rubisco spatially
 <hr>
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -151,17 +156,17 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4.jpg">
+<IMG STYLE="position:absolute; TOP:215px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4.jpg">
 
-## Anatomically visible
+## 
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/c3_cs.gif">
+
+<IMG STYLE="position:absolute; TOP:375px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/c4_cs.gif">
+
+## Why is C4 photosynthesis not dominant?
 <hr>
-
-<IMG STYLE="position:absolute; TOP:200x; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/c3_cs.gif">
-
-<IMG STYLE="position:absolute; TOP:200x; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/c4_cs.gif">
-
-## Why has C4 not taken over?
-<hr>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -180,14 +185,19 @@ runtime: shiny
 * **Where should C4 plants live**
 </div>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4_2.jpg">
+<IMG STYLE="position:absolute; TOP:185px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4_2.jpg">
 
 ##
-<IMG STYLE="position:absolute; TOP:150px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/c4_distribution.jpg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/c4_distribution.jpg">
 
-**In hot conditions, the benefits of reduced photorespiration likely exceed the ATP cost of moving CO~2~ from the mesophyll cell to the bundle-sheath cell**
+<div class="item-absolute2"> In hot conditions, the benefits of reduced photorespiration likely exceed the ATP cost of moving CO~2~ from the mesophyll cell to the bundle-sheath cell </div>
 
-## CAM (Crassulacean Acid Metabolism) plants
+## CAM (Crassulacean Acid Metabolism) photosynthesis
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/cam2.png">
+
+## CAM concentrates CO~2~ around Rubisco temporally
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/cam2.png">
@@ -215,6 +225,10 @@ runtime: shiny
 * **Are CAM plants fast or slow growing?**
 </div>
 
+## C3 vs C4 vs CAM
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/c3c4cam.jpeg">
 
 ## Why does this matter to you...
 <hr>
@@ -243,10 +257,10 @@ runtime: shiny
 ## 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/crops.jpg">
 
-<!-- <IMG STYLE="position:absolute; TOP:300px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/crops2.jpg"> -->
 
 ## Can science TUNE photosynthesis?
 <hr>
+<br/>
 <br/>
 <br/>
 <br/>
