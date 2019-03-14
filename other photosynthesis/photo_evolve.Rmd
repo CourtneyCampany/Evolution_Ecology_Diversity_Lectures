@@ -21,16 +21,16 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:50px; WIDTH:550px; HEIGHT:400px" SRC="images/calvin.png">
 
-<IMG STYLE="position:absolute; TOP:195px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/calvin2.png">
+<IMG STYLE="position:absolute; TOP:185px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/calvin2.png">
 
 ## Review: Issues with C3 photosynthesis
 <hr>
 
 <IMG STYLE="position:absolute; TOP:215px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/photorespiration.jpeg">
 
-<div class="item-absolute6"> Like having a really good friend with a disgusting habit  </div>
+<div class="item-absolute3"> Like having a really good friend with a disgusting habit </div>
 
-## Rubisco substrate choice (2 factors)
+## Rubisco substrate choice: 2 factors
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:700px; HEIGHT:350px" SRC="images/rubisco_temp.png">
@@ -42,7 +42,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/crop-yield-map.png">
 
-## Rubisco: How did we get here?
+## Rubisco evolution: How did we get here?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/evol_rubisco.jpg">
@@ -52,7 +52,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:125px; WIDTH:800px; HEIGHT:500px" SRC="images/evolution_rubisco.jpg">
 
-## Why has rubisco not been replaced?
+## Why has Rubsico not been replaced?
 <hr>
 <br/>
 <br/>
@@ -74,7 +74,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/rubisco_mutations.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/rubisco_mutations.jpg">
 
 ## Evolution tinkers with other parts of photosynthesis
 <hr>
@@ -112,9 +112,9 @@ runtime: shiny
 <br/>
 <br/>
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 53%;">
 
-* **C3 plants use the CO~2~ directly in the Calvin cycle**
+* **C3 plants use CO~2~ directly in the Calvin cycle**
 
 <br/>
 
@@ -123,7 +123,7 @@ runtime: shiny
 <br/>
 
 * **Mesophyll cells @ top are CO~2~ pumps**
-    * flood rubisco in **bundle sheath cells** with CO~2~
+    * flood Rubsico in **bundle sheath cells** with CO~2~
 
 </div>
 
@@ -134,11 +134,14 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:800px; HEIGHT:425px" SRC="images/c3_c4_anatomy.png"
 
-<div class="item-absolute6"> Calvin cycle now occurs in BSC cells around leaf veins </div>
+* **Calvin cycle now occurs in BSC cells around leaf veins**
+    * chloroplasts now present
+    
+* **BSC cells are less permeable to gases**
+    * what does this mean for photorespiration?
 
-## C4 concentrates CO~2~ around Rubisco spatially
+## C4 plants concentrate CO~2~ around Rubisco spatially
 <hr>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -153,6 +156,11 @@ runtime: shiny
     * fixes CO~2~ to PEP
     * no affinity for O~2~
     * 4C malate carries CO~2~ to Calvin cycle
+
+<br/>
+
+* **Hyper efficient with use of CO~2~**
+    * How does this impact stomata behavior?
 
 </div>
 
@@ -170,7 +178,6 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
-<br/>
 
 <div style="float: right; width: 50%;">
 
@@ -183,6 +190,8 @@ runtime: shiny
 <br/>
 
 * **Where should C4 plants live**
+    * efficiency vs dehyrdration
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:185px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4_2.jpg">
@@ -199,8 +208,27 @@ runtime: shiny
 
 ## CAM concentrates CO~2~ around Rubisco temporally
 <hr>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/cam2.png">
+<div style="float: right; width: 47%;">
+
+* **Stomata open at night and close during the day**
+ 
+<br/>
+ 
+* **4C compounds produced in large quantities**
+    + store CO~2~ when Rubsico is inactive
+
+<br/>
+
+* **C4 vs CAM**
+    * substitute BSC for "night shift"
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/cam5.jpg">
 
 ## Yes we CAM!!
 <hr>
@@ -213,6 +241,7 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 * **CAM evolved independently several times**
+    + ~16,000 species
 
 <br/>
 
@@ -273,12 +302,12 @@ runtime: shiny
 
 <br/>
 
-* **Redesign to mask rubisco's side reaction with O~2~**
+* **Redesign to mask photorespiration**
 
 <br/>
 
 * **Turning C3 crops to C4...**
-* https://c4rice.com/
+    * https://c4rice.com/
 
 </div>
 
