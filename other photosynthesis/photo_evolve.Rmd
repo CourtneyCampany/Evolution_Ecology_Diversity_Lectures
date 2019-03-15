@@ -30,7 +30,7 @@ runtime: shiny
 
 <div class="item-absolute3"> Like having a really good friend with a disgusting habit </div>
 
-## Rubisco substrate choice: 2 factors
+## Rubisco substrate choice
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:700px; HEIGHT:350px" SRC="images/rubisco_temp.png">
@@ -59,7 +59,7 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 * **Evolution of enzymes subject to strong biophysical constraints**
-    * tradeoffs between activity and stability
+    * trade-offs between activity and stability
  
  <br/>
  
@@ -111,6 +111,7 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
+<br/>
 
 <div style="float: right; width: 53%;">
 
@@ -131,14 +132,33 @@ runtime: shiny
 
 ## Functional change in bundle sheath cells (C3 → C4)
 <hr>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:800px; HEIGHT:425px" SRC="images/c3_c4_anatomy.png"
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/c3_c4_anatomy.png"
+
+<div style="float: right; left: 45%;">
 
 * **Calvin cycle now occurs in BSC cells around leaf veins**
     * chloroplasts now present
-    
+
+<br/>
+<br/>
+<br/>
+<br/>
+
 * **BSC cells are less permeable to gases**
     * what does this mean for photorespiration?
+
+</div>
+
+## 
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/c3_cs.gif">
+
+<IMG STYLE="position:absolute; TOP:375px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/c4_cs.gif">
 
 ## C4 plants concentrate CO~2~ around Rubisco spatially
 <hr>
@@ -166,12 +186,6 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:215px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/c4.jpg">
 
-## 
-
-<IMG STYLE="position:absolute; TOP:25px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/c3_cs.gif">
-
-<IMG STYLE="position:absolute; TOP:375px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/c4_cs.gif">
-
 ## Why is C4 photosynthesis not dominant?
 <hr>
 <br/>
@@ -190,7 +204,7 @@ runtime: shiny
 <br/>
 
 * **Where should C4 plants live**
-    * efficiency vs dehyrdration
+    * efficiency vs dehydration
     
 </div>
 
@@ -214,12 +228,12 @@ runtime: shiny
 
 <div style="float: right; width: 47%;">
 
-* **Stomata open at night and close during the day**
+* **Stomata open at night only**
  
 <br/>
  
 * **4C compounds produced in large quantities**
-    + store CO~2~ when Rubsico is inactive
+    + store CO~2~ when Rubisco is inactive
 
 <br/>
 
@@ -281,7 +295,7 @@ runtime: shiny
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/dry_corn.jpg">
+<IMG STYLE="position:absolute; TOP:285px; LEFT:50px; WIDTH:400px; HEIGHT:250px" SRC="images/dry_corn.jpg">
 
 ## 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/crops.jpg">
@@ -298,7 +312,7 @@ runtime: shiny
 
 <div style="float: left; width: 40%;">
 
-* **↑ efficiency of Rubsico in C4 crops**
+* **↑ efficiency of Rubisco in crops**
 
 <br/>
 
