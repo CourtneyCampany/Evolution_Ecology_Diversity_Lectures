@@ -20,13 +20,13 @@ runtime: shiny
 <div style="float: right; left: 50%;">
 
 * **Do plants sense their environment?**
-* changes in essential resources
-*  herbivory
+    * changes in essential resources
+    * herbivory
 
 <br/>
 
 * **If so, what do they do about it?**
-* do plants process information?
+    * do plants process information?
 
 </div>
 
@@ -76,7 +76,7 @@ runtime: shiny
 <div style="float: right; width: 45%;">
 
 * **Are their limitations to plant height?**
-* Redwoods = 116 m
+      * Redwoods = 116 m
       
 <br/>
 
@@ -106,8 +106,8 @@ runtime: shiny
 <br/>
 
 * **Gravity**
-* harder and harder to move water
-* limits growth to 122-130 m
+    * harder and harder to move water
+    * limits growth to 122-130 m
 
 <br/>
 
@@ -123,17 +123,17 @@ runtime: shiny
 <div style="float: left; width: 55%;">
 
 * **Cohesion tension theory**
-* plants use water properties to cheat gravity
+    * plants use water properties to cheat gravity
 
 <br/>
 
 * **Cohesion: H~2~0 stick to other H~2~0 molecules**
-* via H bonds
+    * via H bonds
 
 <br/>
 
 * **Adhension: water sticks to non water moelcules**
-* stick to sides of plant vascular tissue
+    * stick to sides of plant vascular tissue
 
 <br/>
 
@@ -152,13 +152,14 @@ runtime: shiny
 <div style="float: left; width: 55%;">
 
 * **H~2~O is pulled in zig zag motion**
-* shape of tracheids
-* pits and perforations
+    * shape of tracheids
+    * pits and perforations
 
 <br/>
 
 * **Vascular tissue is tough**
-+ high resistance of lignified walls
+    * high resistance of lignified walls
+  
 </div> 
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/vessels_pits.jpg">
@@ -219,7 +220,7 @@ runtime: shiny
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lzq-wRHCTKc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Wounding triggers transmission of Ca^2+^ to start defense response
+## Wounding triggers transmission of Ca^2+^ to start defense
 <hr>
 <br/>
 
