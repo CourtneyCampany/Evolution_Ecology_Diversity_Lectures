@@ -137,7 +137,7 @@ runtime: shiny
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/c3_c4_anatomy.png"
+<IMG STYLE="position:absolute; TOP:275px; LEFT:25px; WIDTH:500px; HEIGHT:250px" SRC="images/c3c4_anatomy.png">
 
 <div style="float: right; left: 45%;">
 
