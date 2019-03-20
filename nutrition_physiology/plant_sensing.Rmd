@@ -3,7 +3,7 @@ title: "Plant environmental physiology"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
-    css: custom2.css
+    css: custom.css
     widescreen: true
     smaller: true
 runtime: shiny
@@ -40,25 +40,29 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:400px; HEIGHT:500px" SRC="images/signals.jpg">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:400px; HEIGHT:500px" SRC="images/signals.jpg">
 
 <div style="float: right; left: 55%;">
 
 * **What external factors elicit responses from plants?**
 
+<br/>
+<br/>
+
+* **Ca^2^ based signals are common**
+
 </div>
 
-## Plants in the light
+## Plants grow towards light:  Phototropism via Auxin
 <hr>
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:100px; WIDTH:400px; HEIGHT:250px" SRC="images/auxin.png">
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/light_exp.png">
 
-## Plants in the light
+## Sunflowers in the light
 <hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GCRNHdGXTi4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -71,7 +75,7 @@ runtime: shiny
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/redwood.jpg">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/redwood.jpg">
 
 <div style="float: right; width: 45%;">
 
@@ -80,7 +84,7 @@ runtime: shiny
       
 <br/>
 
-* **What is the most limiting resource?** 
+* **What resource most limits growth?** 
 
 </div> 
 
@@ -114,8 +118,13 @@ runtime: shiny
 * **Efficiency of xylem elements**
 
 </div> 
+
+## How long a straw could Superman use?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:400px; WIDTH:300px; HEIGHT:450px" SRC="images/straw.jpg">
  
-## How can redwoods grow so tall?
+## How can redwood trees grow so tall?
 <hr>
 <br/>
 <br/>
@@ -132,7 +141,7 @@ runtime: shiny
 
 <br/>
 
-* **Adhension: water sticks to non water moelcules**
+* **Adhesion: water sticks to non water molecules**
     * stick to sides of plant vascular tissue
 
 <br/>
@@ -142,8 +151,9 @@ runtime: shiny
  
 <IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/water_drop.jpg">
 
-## How can redwoods grow so tall?
+## How can redwood trees grow so tall?
 <hr>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -162,7 +172,7 @@ runtime: shiny
   
 </div> 
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/vessels_pits.jpg">
+<IMG STYLE="position:absolute; TOP:260px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/vessels_pits.jpg">
 
 ##
 
@@ -185,7 +195,7 @@ runtime: shiny
 ## How do plants avoid water problems #1
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/closed_stomata.jpg">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/closed_stomata.jpg">
 
 ## Risky stomatal behavior
 <hr>
@@ -200,9 +210,9 @@ runtime: shiny
 ## How do plants avoid water problems #3
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art_1.jpg">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art_1.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art2.jpg">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/xylem_art2.jpg">
 
 ## Remember the acacia tree?
 <hr>
