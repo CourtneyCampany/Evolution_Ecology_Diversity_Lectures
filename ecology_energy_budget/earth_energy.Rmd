@@ -43,7 +43,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## What does ecology have to do with me?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/ecology3.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/ecology3.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/footprint.jpg">
 
@@ -54,16 +54,30 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ##
 
-<IMG STYLE="position:absolute; TOP:125px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/albedo_paint.jpg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/albedo_paint.jpg">
 
-## Albedo
+## Albedo: measure of light/radiation reflected by a surface
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/albedo.png">
 
+## Global albedo is highly variable
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O0B8Yi7AZvQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Albedo Feed-backs and Snowball Earth
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:500px; HEIGHT:300px" SRC="images/albedo3.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/snowball.jpg">
+
 ##
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:350px; HEIGHT:600px" SRC="images/albedo2.jpg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:350px; HEIGHT:600px" SRC="images/albedo2.jpg">
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/greenland.png">
 
 <div class="item-absolute">Earth's average albedo is ~0.3, but it is changing. What does this actually mean? </div>
 </div>
@@ -88,7 +102,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * **Exact amount absorbed depends on reflectivity of atmosphere and surface**
 </div>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:525px; WIDTH:500px; HEIGHT:500px" SRC="images/newradiation.gif">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:525px; HEIGHT:350px" SRC="images/newradiation2.png">
 
 ##
 
@@ -104,22 +118,22 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:80px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/rad_balance.jpg">
 
-## Greenhouse effect 
-<hr>
-<br />
+## 
 
-<IMG STYLE="position:absolute; TOP:200 px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/greenhouse.jpg">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/2018GreenhouseEffect.png">
 
 ## Greenhouse effect (Review Video)
 <hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VYMjSule0Bw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Atmospheric absorption
+## Atmospheric absorption spectra
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:750px; HEIGHT:450px" SRC="images/spectral_absorb.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:550px; HEIGHT:450px" SRC="images/spectra2.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/spectra.png">
 
 ## Composition of the atmosphere
 <hr>
@@ -146,6 +160,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 </div>
 
+## Changes in composition impact atmospheric heating
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/greenhouse-gas-potential.jpg">
+
 <!-- ## Surface energy budget -->
 <!-- <hr> -->
 <!-- <br /> -->
@@ -171,21 +190,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div class="centered"><strong><span style="color:red">25% of incoming solar energy leaves the surface through evaporation</span></strong></div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/Solar-Energy.jpg">
+<IMG STYLE="position:absolute; TOP:215px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/Solar-Energy.jpg">
 
-## Water vapor feedback
+## Water vapor is the most abundant greenhouse gas
 <hr>
+<br />
+<br />
 <br />
 <br />
 <br />
 
 <div style="float: left; width: 50%;">
-* **Water vapor most abundant greenhouse gas**
 
-<br />
-
-* **NASA confirms heat-trapping effect of water in the air** 
-  + critical component of climate change
+* **NASA recently confirmed heat-trapping effect of water in the air** 
+  + critical component of global change
   + collects at tropical latitudes
 
 <br />
@@ -193,7 +211,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * **2x climate warming caused by increased CO<sub>2</sub>**
 </div> 
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:375px; HEIGHT:375x" SRC="images/watervapor_globe.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:475px; HEIGHT:375px" SRC="images/watervapor_globe.jpg">
 
 ## Water vapor feedback loop
 <hr>
@@ -208,6 +226,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <div style="float: left; width: 50%;">
 
 * **30% of oceans evaporate per year**
+* **>60% of rainfall is lost to evapotranspiration**
 
 <br />
 
@@ -228,12 +247,17 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Evapotranspiration USA
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/evapotrans_usa.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/evapotrans_usa.png">
 
-## Global water cycle
+## Global water cycle: 577,000 km^3^ of water circulates each year
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/water_cycle.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/water_cycle.png">
+
+## Global water cycle: Residence times matter
+<hr>
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:100px; WIDTH:900px; HEIGHT:425px" SRC="images/water_residence.png">
 
 <!-- ## Ecosystem water budgets: Big buckets -->
 <!-- <hr> -->
@@ -243,12 +267,12 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Water movements within ecosystems
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/recharge.png">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:690px; HEIGHT:550px" SRC="images/recharge.png">
 
 ## Changing water cycle
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/people_climate.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:190px; WIDTH:700px; HEIGHT:500px" SRC="images/people_climate.jpg">
 
 ## Water for humans?
 <hr>
@@ -257,10 +281,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/water_sphere.jpg">
 
-## Hot topic: Groundwater supports 40% of agriculture
+## Hot topic: Groundwater now supports 40% of modern agriculture
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150x; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/fossilwater2.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:400px; HEIGHT:400px" SRC="images/fossilwater2.png">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:450px; WIDTH:600px; HEIGHT:300px" SRC="images/groundwater.jpg">
 
 ## In the news: Megadrought
 <hr>

@@ -5,8 +5,8 @@ account: courtneycampany
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 582599
-bundleId: 1719684
+bundleId: 2006511
 url: https://courtneycampany.shinyapps.io/earth_energy_water/
-when: 1543186107.07961
+when: 1555091474.0691
 asMultiple: FALSE
 asStatic: FALSE
