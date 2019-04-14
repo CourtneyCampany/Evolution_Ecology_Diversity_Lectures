@@ -66,7 +66,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O0B8Yi7AZvQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Albedo Feed-backs and Snowball Earth
+## Albedo feedbacks and Snowball Earth
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:500px; HEIGHT:300px" SRC="images/albedo3.jpg">
@@ -99,7 +99,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br />
 
-* **Exact amount absorbed depends on reflectivity of atmosphere and surface**
+* **Exact amount absorbed depends on both surface and atmosphere**
 </div>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:525px; HEIGHT:350px" SRC="images/newradiation2.png">
@@ -144,19 +144,19 @@ knitr::opts_chunk$set(echo = FALSE)
 <div style="float: right; width: 50%;">
 <br />
 
-* <strong>Gases have different residence times</strong>
-  + N<sub>2</sub> = 13 million years
-  + O<sub>2</sub> = 10,000 years
-  + N<sub>2</sub>0 = 114 years
-  + **CO<sub>2</sub> = 5-200 years (1/2 removed quickly)**
-  + **CH4 (methane) = 12 years**
+* **Gases have different residence times**
+    + N<sub>2</sub> = 13 million years
+    + O<sub>2</sub> = 10,000 years
+    + N<sub>2</sub>0 = 114 years
+    + **CO<sub>2</sub> = 5-200 years (1/2 removed quickly)**
+    + **CH4 (methane) = 12 years**
 
 <br />
 <br />
 
-* <strong>Water vapor is reactive and variable</strong>
-  + **10 days residence time**
-  + seasonally and spatially
+* **Water vapor is reactive and variable**
+    + **10 day residence time**
+    + seasonally and spatially
 
 </div>
 
@@ -185,13 +185,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:500px; HEIGHT:400px" SRC="images/surface_budget.jpg"> -->
 
-## Solar energy & water cycle connected
-<hr>
-
-<div class="centered"><strong><span style="color:red">25% of incoming solar energy leaves the surface through evaporation</span></strong></div>
-
-<IMG STYLE="position:absolute; TOP:215px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/Solar-Energy.jpg">
-
 ## Water vapor is the most abundant greenhouse gas
 <hr>
 <br />
@@ -203,8 +196,8 @@ knitr::opts_chunk$set(echo = FALSE)
 <div style="float: left; width: 50%;">
 
 * **NASA recently confirmed heat-trapping effect of water in the air** 
-  + critical component of global change
-  + collects at tropical latitudes
+    + critical component of global change
+    + collects at tropical latitudes
 
 <br />
 
@@ -219,6 +212,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/wv_feedback.gif">
 
+## Solar energy & water cycle connected
+<hr>
+
+<div class="centered"><strong><span style="color:red">25% of incoming solar energy leaves the surface through evaporation</span></strong></div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/Solar-Energy.jpg">
+
 ## Evapotranspiration: Energetics of water movement
 <hr>
 <br />
@@ -231,14 +231,14 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 
 * **Water has high specific heat**
-  + 4x more energy to heat water than air
-  + uses up solar energy 
+      + 4x more energy to heat water than air
+      + uses up solar energy 
 
 <br />
 
 * **Large energy fluxes when water changes state**
-  + Evapotranspiration cools surfaces
-  + Condensation warms atmosphere
+      + Evapotranspiration cools surfaces
+      + Condensation warms atmosphere
 
 </div>
 
@@ -288,10 +288,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:450px; WIDTH:600px; HEIGHT:300px" SRC="images/groundwater.jpg">
 
-## In the news: Megadrought
-<hr>
+<!-- ## In the news: Megadrought -->
+<!-- <hr> -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ToY4eeWsdLc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/ToY4eeWsdLc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
 
 
 
