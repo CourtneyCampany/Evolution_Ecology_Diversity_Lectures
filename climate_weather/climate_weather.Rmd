@@ -14,54 +14,140 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/trumpcold.jpg">
 
+## Current vs Collective state of the atmosphere
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:800px; HEIGHT:550px" SRC="images/climate_weather.png">
+
+## Elements of climate and weather
+<hr>
+<br />
+
+<div style="float: left; width: 48%;">
+
+* **Precipitation**
+    * process that ends with the fall of water to the earth’s surface.
+
+<br />
+
+* **Temperature**
+  * amount of heat energy in the air
+
+<br />
+
+* **Atmospheric pressure**
+    * force exerted on a surface by the weight of the atmosphere. 
+    * faries vertically; decrease as you ascend
+
+</div>
+
+<div style="float: right; width: 48%;">
+
+* **Wind**
+    * moving air. 
+    * dries humidity, causesg storms, and contribes to evaporation
+
+<br />
+
+* **Solar radiation**
+    * provides heat
+
+<br />
+
+* **Cloudiness**
+    * form when humid air cools to dew point & water/ice attaches to dust, ash, etc.
+    * type and # are important
+</div>
+
 ## Elements of climate and weather
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:400px; HEIGHT:350px" SRC="images/elements.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/weathersymbols.jpg">
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:300px" SRC="images/earth_energy.jpg">
 
-## What drives global climate zones?
+## Global climate zones
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/climate-world.gif">
 
+## What drives climate zones?
+<hr>
+
+## What drives global climate zones?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/dayenergy_globe.png">
+
 ## Slope of Earth's surface causes uneven heating
 <hr>
-<br />
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/uneven_heating.gif">
 
-## Atmosphere circulation affects rainfall
+## Uneven heating
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:800px; HEIGHT:400px" SRC="images/annual_energy.png">
+
+## Atmosphere circulation impacts climate via "Air Donuts"
 <hr>
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:500px; HEIGHT:500px" SRC="images/hadley.jpg">
 
 <IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:500px; HEIGHT:500px" SRC="images/hadley2.jpg">
 
-## Climate variability: El Nino
+## Earth's atmosphere contains six rotating "Air Donuts"
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:550px; HEIGHT:450px" SRC="images/elnino.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/circulation_zones.png">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/elnino2.png">
-
-<!-- ## Climate variability: Long time scales -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/ice_ages.jpg"> -->
-
-## Climate Variability: Seasons
+## Earth's axial tilt (23.5&deg;) contributes to climate patterns
 <hr>
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:700px; HEIGHT:250px" SRC="images/seasons.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:800px; WIDTH:225px; HEIGHT:450px" SRC="images/seasons2.jpg">
 
-## Climate Variability: Weather
+## Changes in axial tilt may cause ice ages...
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/ice_ages.jpg">
+
+# Ocean currents impact climate via wind patterns and Earth's rotation
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:800px; HEIGHT:400px" SRC="images/currents.png">
+
+## Why is the United Kingdom not freezing?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/atlantic_currents.jpg">
+
+## Global climate variability: El Nino
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:550px; HEIGHT:450px" SRC="images/elnino.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/elnino2.png">
+
+## These phenomenon also alter weather
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200x; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/usa_weather.jpg">
+
+## Climate zones are scale dependent
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mexico_region.jpg">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/climate_sierras.jpg">
+
+## San Francisco climate and weather can vary 30&deg;C
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/sf_climate.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:500px; HEIGHT:400px" SRC="images/urban_climate.png">
 
 ## Land alters climate: Rain shadow
 <hr>
@@ -73,18 +159,13 @@ runtime: shiny
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h1eRp0EGOmE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Oceans impacts climate
+## Vegetation alters on climate
 <hr>
+https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/atlantic_currents.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:500px; HEIGHT:400px" SRC="images/cloudforest.jpg">
 
-<!-- ## Vegetation effects on climate -->
-<!-- <hr> -->
-<!-- https://www.youtube.com/watch?v=Y3OWgb0Bv-A -->
-
-<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:500px; HEIGHT:400px" SRC="images/cloudforest.jpg"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/trees_rain.jpg"> -->
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/trees_rain.jpg">
 
 ## How does climate impact ecology?
 <hr>

@@ -13,25 +13,6 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Seminars this week
-<hr>
-<br />
-<br />
-<br />
-<br />
-
-**Tuesday April 16, 11:30 - 12:30 in 326 Ho:**
-**Yi Zhang, PhD Candidate Dept of Geographical Sciences, University of Maryland**
-**Observe the earth's surface shortwave radiation budget from satellites:** **algorithms,products, and application**
-
-<br />
-<br />
-
-**Thursday April 18, 11:30 - 12:30 in 326 Ho: **
-**Anna Talucci, PhD Candidate Dept Forest Ecosystems and Society, OSU**
-**Interacting disturbances: beetle outbreaks and wildfires in sub-boreal forests**
-
-
 ##
 
 <div class="centered"><span style="color:black">The relationships of organisms to one another and to their surroundings</span></div>
@@ -253,14 +234,14 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 
 * **Water has high specific heat**
-      + 4x more energy to heat water than air
-      + uses up solar energy 
+    + 4x more energy to heat water than air
+    + uses up solar energy 
 
 <br />
 
 * **Large energy fluxes when water changes state**
-      + Evapotranspiration cools surfaces
-      + Condensation warms atmosphere
+    + evapotranspiration cools surfaces
+    + condensation warms atmosphere
 
 </div>
 
@@ -309,11 +290,6 @@ knitr::opts_chunk$set(echo = FALSE)
 <IMG STYLE="position:absolute; TOP:225px; LEFT:15px; WIDTH:400px; HEIGHT:400px" SRC="images/fossilwater2.png">
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:450px; WIDTH:600px; HEIGHT:300px" SRC="images/groundwater.jpg">
-
-<!-- ## In the news: Megadrought -->
-<!-- <hr> -->
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/ToY4eeWsdLc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
 
 
 
