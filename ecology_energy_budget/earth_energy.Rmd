@@ -13,7 +13,27 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Seminars this week
+<hr>
+<br />
+<br />
+<br />
+<br />
+
+**Tuesday April 16, 11:30 - 12:30 in 326 Ho:**
+**Yi Zhang, PhD Candidate Dept of Geographical Sciences, University of Maryland**
+**Observe the earth's surface shortwave radiation budget from satellites:** **algorithms,products, and application**
+
+<br />
+<br />
+
+**Thursday April 18, 11:30 - 12:30 in 326 Ho: **
+**Anna Talucci, PhD Candidate Dept Forest Ecosystems and Society, OSU**
+**Interacting disturbances: beetle outbreaks and wildfires in sub-boreal forests**
+
+
 ##
+
 <div class="centered"><span style="color:black">The relationships of organisms to one another and to their surroundings</span></div>
 
 
@@ -56,7 +76,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/albedo_paint.jpg">
 
-## Albedo: measure of light/radiation reflected by a surface
+## Albedo
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/albedo.png">
@@ -221,6 +241,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Evapotranspiration: Energetics of water movement
 <hr>
+<br />
+<br />
 <br />
 
 <div style="float: left; width: 50%;">
