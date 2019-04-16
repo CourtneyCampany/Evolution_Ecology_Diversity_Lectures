@@ -5,8 +5,8 @@ account: courtneycampany
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 592673
-bundleId: 1724404
+bundleId: 2016517
 url: https://courtneycampany.shinyapps.io/climate_weather/
-when: 1543354304.49928
+when: 1555438176.91138
 asMultiple: FALSE
 asStatic: FALSE

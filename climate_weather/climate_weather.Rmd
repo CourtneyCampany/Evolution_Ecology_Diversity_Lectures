@@ -11,13 +11,14 @@ runtime: shiny
 
 ## Climate vs Weather
 <hr>
+<br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/trumpcold.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/trumpcold.jpg">
 
 ## Current vs Collective state of the atmosphere
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:800px; HEIGHT:550px" SRC="images/climate_weather.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/climate_weather.png">
 
 ## Elements of climate and weather
 <hr>
@@ -31,21 +32,20 @@ runtime: shiny
 <br />
 
 * **Temperature**
-  * amount of heat energy in the air
+    * amount of heat energy in the air
 
 <br />
 
 * **Atmospheric pressure**
     * force exerted on a surface by the weight of the atmosphere. 
-    * faries vertically; decrease as you ascend
+    * varies vertically; decrease as you ascend
 
 </div>
 
 <div style="float: right; width: 48%;">
 
 * **Wind**
-    * moving air. 
-    * dries humidity, causesg storms, and contribes to evaporation
+    * dries humidity, causes storms, and drives evaporation
 
 <br />
 
@@ -59,102 +59,71 @@ runtime: shiny
     * type and # are important
 </div>
 
-## Elements of climate and weather
-<hr>
+##
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/weathersymbols.jpg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/polarvortes.png">
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:300px" SRC="images/earth_energy.jpg">
+<!-- ## Elements of climate and weather -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/weathersymbols.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:475px; WIDTH:600px; HEIGHT:300px" SRC="images/earth_energy.jpg"> -->
 
 ## Global climate zones
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/climate-world.gif">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/climatezones.gif">
 
-## What drives climate zones?
-<hr>
+<!-- ## What drives global climate zones? -->
+<!-- <hr> -->
 
-## What drives global climate zones?
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/dayenergy_globe.png">
+<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/dayenergy_globe.png"> -->
 
 ## Slope of Earth's surface causes uneven heating
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/uneven_heating.gif">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:450px; HEIGHT:450px" SRC="images/uneven_heating.gif">
 
-## Uneven heating
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:800px; HEIGHT:400px" SRC="images/annual_energy.png">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:500px; WIDTH:550px; HEIGHT:275px" SRC="images/annual_energy.png">
 
 ## Atmosphere circulation impacts climate via "Air Donuts"
 <hr>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:25px; WIDTH:500px; HEIGHT:500px" SRC="images/hadley.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/hadley.jpg">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:500px; HEIGHT:500px" SRC="images/hadley2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/hadley2.jpg">
 
 ## Earth's atmosphere contains six rotating "Air Donuts"
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/circulation_zones.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:450px" SRC="images/circulation_zones.png">
 
-## Earth's axial tilt (23.5&deg;) contributes to climate patterns
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:425px; HEIGHT:425px" SRC="images/coriolis.png">
+
+## Earth's axial tilt (23.5&deg;) creates seasons
 <hr>
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:700px; HEIGHT:250px" SRC="images/seasons.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:800px; WIDTH:225px; HEIGHT:450px" SRC="images/seasons2.jpg">
 
-## Changes in axial tilt may cause ice ages...
+## Changes in Earth's tilt and Ice Ages
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:350px" SRC="images/ice_ages.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/ice_ages.jpg">
 
-# Ocean currents impact climate via wind patterns and Earth's rotation
+## Earth surface processes impact climate
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:800px; HEIGHT:400px" SRC="images/currents.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/landsurface.jpg">
 
-## Why is the United Kingdom not freezing?
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/atlantic_currents.jpg">
-
-## Global climate variability: El Nino
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:550px; HEIGHT:450px" SRC="images/elnino.jpg">
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/elnino2.png">
-
-## These phenomenon also alter weather
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200x; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/usa_weather.jpg">
-
-## Climate zones are scale dependent
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mexico_region.jpg">
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/climate_sierras.jpg">
-
-## San Francisco climate and weather can vary 30&deg;C
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/sf_climate.jpg">
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:500px; HEIGHT:400px" SRC="images/urban_climate.png">
-
-## Land alters climate: Rain shadow
+## Mountains and the rain shadow effect
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/rainshadow.jpg">
 
-## Land impacts weather: Atlantic hurricanes
+## Surface features impacts weather: Atlantic hurricanes
 <hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h1eRp0EGOmE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -166,6 +135,37 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 <IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:500px; HEIGHT:400px" SRC="images/cloudforest.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/trees_rain.jpg">
+
+## Ocean currents heavily impact global climates
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/currents.png">
+
+## Why is the United Kingdom warmer thatn Hamilton, NY?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/atlantic_currents.jpg">
+
+## Global climate and weather: El Nino
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:550px; HEIGHT:450px" SRC="images/elnino.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:450px; HEIGHT:350px" SRC="images/elnino2.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:125px; WIDTH:850px; HEIGHT:650px" SRC="images/elnino_2019.png">
+
+<!-- ## These phenomenon also alter weather -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200x; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/usa_weather.jpg"> -->
+
+## Climate zones are scale dependent
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:900px; HEIGHT:450px" SRC="images/scale.png">
 
 ## How does climate impact ecology?
 <hr>
@@ -183,19 +183,9 @@ https://www.youtube.com/watch?v=Y3OWgb0Bv-A
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:460px; WIDTH:600px; HEIGHT:400px" SRC="images/irma.jpg">
 
-## Earth's climate and weather is changing
+## Climate, weather and people
 <hr>
 <br />
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/humans_climate.png">
-
-<!-- ## Atmosphere: Rotation → Corilis effect -->
-<!-- <hr> -->
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/i2mec3vgeaI?start=6" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
-
-<!-- ## Global Precipitation -->
-<!-- <hr> -->
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/c2-iquZziPU?rel=0&amp;start=52" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
 
