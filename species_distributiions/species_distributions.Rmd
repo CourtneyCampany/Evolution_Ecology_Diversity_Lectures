@@ -91,6 +91,11 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:350px; HEIGHT:450px" SRC="images/warbler.jpg">
 
+## Species distributions are related to their niche space
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:350px; HEIGHT:450px" SRC="images/warbler.jpg">
+
 <IMG STYLE="position:absolute; TOP:180px; LEFT:475px; WIDTH:550px; HEIGHT:450px" SRC="images/avoidance.jpg">
 
 ## Niches define the limiting factors for a species
@@ -143,7 +148,7 @@ runtime: shiny
 ## Species distributions: Human impacts
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/species_climate.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/species_climate.jpg">
 
 ## Global change: climate refugia (Polar bear)
 <hr>
