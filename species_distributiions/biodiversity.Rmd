@@ -26,12 +26,12 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:150px; WIDTH:700px; HEIGHT:250px" SRC="images/redund.jpg">
 
-## Genetic diversity bottlenecked for bees
-<hr>
+<!-- ## Genetic diversity bottlenecked for bees -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:650px; HEIGHT:400px" SRC="images/bees.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:650px; HEIGHT:400px" SRC="images/bees.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/bees90percent.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/bees90percent.jpg"> -->
 
 ## Measuring biodiversity (richness and eveness)
 <hr>
@@ -44,12 +44,12 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:325px; LEFT:675px; WIDTH:350px; HEIGHT:250px" SRC="images/simpsons_ex.png">
 
-## Species diversity is also a balance
-<hr>
+<!-- ## Species diversity is also a balance -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/amazon_new.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/amazon_new.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/extinction4.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/extinction4.jpg"> -->
 
 ## Species types
 <hr>
@@ -62,11 +62,6 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:250x; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/exotic.jpg">
 
 <IMG STYLE="position:absolute; TOP:250x; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/ninja_turtles.jpg">
-
-## Endemic freshwater fish in the USA
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/fish_endemics.jpg">
 
 ## Invasive carp in the USA
 <hr>
@@ -87,9 +82,24 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/altitude.jpg">
 
+## Mapping biodiversity: Soils
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soil_biodiversity.jpg">
+
+## Mapping biodiversity: Oceans
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180x; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/ocean_richness.jpg">
+
 ## Ecoregions: Where hotspots exists
 <hr>
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/ecoregions.jpg">
+
+<!-- ## Hotspots: Endemic freshwater fish in the USA -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/fish_endemics.jpg"> -->
 
 ## Hotspots: Andean uplift and bird diversity
 <hr>
@@ -104,16 +114,6 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:700px; HEIGHT:500px" SRC="images/madagascar.png">
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/madagascar2.jpg">
-
-## Mapping biodiversity: Soils
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soil_biodiversity.jpg">
-
-## Mapping biodiversity: Oceans
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180x; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/ocean_richness.jpg">
 
 <!-- ## Biodiversity hotspots: species -->
 <!-- <hr> -->
@@ -135,9 +135,6 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/biodiversity_threats.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/crops.gif">
-
-## 
-<IMG STYLE="position:absolute; TOP:25x; LEFT:150px; WIDTH:900px; HEIGHT:600px" SRC="images/ecoregion_status.jpg">
 
 ## Invasive species are increasing
 <hr>
@@ -163,35 +160,43 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/invasives2.png">
 
-<!-- ## -->
+##
 
-<!-- <IMG STYLE="position:absolute; TOP:125px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/species_ship.jpg"> -->
+<IMG STYLE="position:absolute; TOP:125px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/species_ship.jpg">
 
-<!-- ## Homogenization -->
+## 
+<IMG STYLE="position:absolute; TOP:25x; LEFT:150px; WIDTH:900px; HEIGHT:600px" SRC="images/ecoregion_status.jpg">
+
+<!-- ## Ecoregions versus humans -->
 <!-- <hr> -->
-<!-- <br/> -->
 
-<!-- <div style="float: left; width: 55%;"> -->
+<!-- <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/World-Population-Density.png"> -->
 
-<!-- * **Replacement of native species by exotics** -->
-<!--     + ecosystems lose their uniqueness  -->
+## Homogenization
+<hr>
+<br/>
 
-<!-- <br/> -->
+<div style="float: left; width: 55%;">
 
-<!-- * **Taxonomic homogenization** -->
-<!--       + increased similarity of species -->
-<!--       + plants, insect, fish, birds & mammals -->
+* **Replacement of native species by exotics**
+    + ecosystems lose their uniqueness
 
-<!-- <br/> -->
+<br/>
 
-<!-- * **Biotic homogenization tied to humans** -->
-<!--     + landscape simplification -->
-<!--     + habitat loss -->
-<!--     + invasives are highly competitive -->
+* **Taxonomic homogenization**
+    + increased similarity of species
+    + plants, insect, fish, birds & mammals
 
-<!-- </div> -->
+<br/>
 
-<!-- <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/blender.jpg"> -->
+* **Biotic homogenization tied to humans**
+    + landscape simplification
+    + habitat loss
+    + invasives are highly competitive
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/blender.jpg">
 
 <!-- ## Homogenization: USA? -->
 <!-- <hr> -->
@@ -213,26 +218,21 @@ runtime: shiny
 
 <!-- <IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/newtree.jpg"> -->
 
-<!-- ## Historical: Are we experiencing a new mass extinction? -->
-<!-- <hr> -->
+## Historical: Are we experiencing a new mass extinction?
+<hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/extinction2.png">  -->
+<IMG STYLE="position:absolute; TOP:180px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/extinction2.png">
 
 <!-- ## Extinction versus humans -->
 <!-- <hr> -->
 
 <!-- <IMG STYLE="position:absolute; TOP:200x; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/humans_pop.gif"> -->
 
-<!-- ## Ecoregions versus humans -->
-<!-- <hr> -->
+##
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction3.jpg">
 
-<!-- <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/World-Population-Density.png"> -->
-
-<!-- ## -->
-<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction3.jpg"> -->
-
-<!-- ## -->
-<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction1.png"> -->
+##
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction1.png">
 
 <!-- ## Island biogeography (Wilson and MacArthur 1967) -->
 <!-- <hr> -->
