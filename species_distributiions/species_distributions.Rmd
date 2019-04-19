@@ -51,7 +51,13 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/scattered.jpg">
 
+## Species are spatially arranged
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:350px; HEIGHT:450px" SRC="images/scattered.jpg">
+
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/bald_eagle_map.jpg">
+
 
 ## 
 
