@@ -13,6 +13,15 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Ecosystems and how the function
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/forest.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:10px; LEFT:75px; WIDTH:900px; HEIGHT:700px" SRC="images/ecosystem.png">
+
 
 ## Succession in ecosystems
 <hr>
@@ -63,7 +72,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div style="float: right; width: 45%;">
 
-* **Small gaps -- Forest removal**
+* **Tree blow down -- Forest removal**
 
 <br/>
 
@@ -184,19 +193,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/boreal1.jpg">
 
-## Boreal Forest: Secondary succesion
+## Boreal forest: Secondary succesion
 <hr>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:700px; HEIGHT:300px" SRC="images/boreal3.jpg">
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:800px; WIDTH:200px; HEIGHT:200px" SRC="images/jackpine.jpg">
 
-## Boreal Forest: Secondary succesion
+## Boreal forest: Secondary succesion
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/boreal_wildlife.jpg">
 
-## The future of borealforests
+## The future of boreal forests
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:475px; HEIGHT:475px" SRC="images/boreal5.gif">
@@ -243,7 +252,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/WUI.gif">
 
-## Human disturbance and ecosystem recovery
-<hr>
+<!-- ## Human disturbance and ecosystem recovery -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/exxon.png">
+<!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/exxon.png"> -->
