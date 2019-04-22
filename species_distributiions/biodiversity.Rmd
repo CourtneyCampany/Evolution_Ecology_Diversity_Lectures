@@ -8,7 +8,7 @@ output:
 runtime: shiny
 ---
 
-## 
+##
 
 <IMG STYLE="position:absolute; TOP:100px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/components.jpg">
 
@@ -33,7 +33,7 @@ runtime: shiny
 
 <!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:750px; WIDTH:300px; HEIGHT:300px" SRC="images/bees90percent.jpg"> -->
 
-## Measuring biodiversity (richness and eveness)
+## Measuring biodiversity (richness,eveness and Simpson's)
 <hr>
   
 <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/diverse_eco.jpg"> -->
@@ -56,6 +56,11 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/australia_species.jpg">
 
+## The march of the cane toad
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225x; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/canetoad.png">
+
 ## Exotic vs Invasive
 <hr>
 
@@ -63,10 +68,10 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:250x; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/ninja_turtles.jpg">
 
-## Invasive carp in the USA
-<hr>
+<!-- ## Invasive carp in the USA -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/carp.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:180x; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/carp.jpg"> -->
 
 ##  
 
@@ -92,7 +97,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:180x; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/ocean_richness.jpg">
 
-## Ecoregions: Where hotspots exists
+## Ecoregions: Where biodiversity hotspots exists
 <hr>
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/ecoregions.jpg">
 
@@ -179,6 +184,7 @@ runtime: shiny
 <div style="float: left; width: 55%;">
 
 * **Replacement of native species by exotics**
+    + invasives are highly competitive
     + ecosystems lose their uniqueness
 
 <br/>
@@ -192,7 +198,6 @@ runtime: shiny
 * **Biotic homogenization tied to humans**
     + landscape simplification
     + habitat loss
-    + invasives are highly competitive
 
 </div>
 
