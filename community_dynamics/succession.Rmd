@@ -13,7 +13,7 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Ecosystems and how the function
+## Ecosystems and how they function
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/forest.jpg">
@@ -31,11 +31,12 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Disturbance & succession
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/succession1c.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/succession1c.jpg">
 
 ## Disturbance
 <hr>
 <br/>
+<br/> 
 <br/> 
 
 <div style="float: left; width: 45%;">
@@ -55,7 +56,7 @@ knitr::opts_chunk$set(echo = FALSE)
   
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/fire.jpg">
 
-## Human vs natural disturbance types
+## Natural vs human caused disturbance
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:450px; HEIGHT:350px" SRC="images/humandisturb.jpg">
@@ -123,7 +124,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Colonization:**
     + species that handle stresses
-    + low nutrients / poor soil
+    + low nutrients / minimal soil
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/volcano.jpg">
 
@@ -139,11 +140,11 @@ knitr::opts_chunk$set(echo = FALSE)
  
  <br/>
  
-* **Colonizers disperse to site**
+* **Colonizers must disperse to site**
     + wind dispersed seeds/spores
     + algae & lichens
     + small seeded plants
-    + recruitment distance
+    + distance matters
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/crust.jpg">
 
@@ -183,7 +184,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/succession1.png">
 
-## Wildlife succession
+## Wildlife and succession
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/wildlife_succesion.jpg">
@@ -217,10 +218,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:850px; HEIGHT:350px" SRC="images/glacial2.jpg">
 
-## Glacier Bay, Alaska: succession
-<hr>
+##
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:550px; HEIGHT:450px" SRC="images/glacial1.jpg">
+<IMG STYLE="position:absolute; TOP:100px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/glacial1.jpg">
 
 ## Glacier Bay: community dynamics
 <hr>
@@ -246,6 +246,13 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/fire_map.png">
+
+## Distrubance regimes of Giant Sequoia forests
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:450px; HEIGHT:400px" SRC="images/fire-sequoia.jpg">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:674px; WIDTH:300px; HEIGHT:500px" SRC="images/fire-sequoia2.jpg">
 
 ## Fire regimes and humans
 <hr>
