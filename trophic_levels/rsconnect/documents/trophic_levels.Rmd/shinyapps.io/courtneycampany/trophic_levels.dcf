@@ -5,8 +5,8 @@ account: courtneycampany
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 605292
-bundleId: 1747884
+bundleId: 2036041
 url: https://courtneycampany.shinyapps.io/trophic_levels/
-when: 1544189543.04705
+when: 1556120878.08604
 asMultiple: FALSE
 asStatic: FALSE

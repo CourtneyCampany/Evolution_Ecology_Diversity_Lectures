@@ -12,12 +12,17 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## What is an ecosystem?
+## Ecosystem bits and pieces
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:350px; HEIGHT:450px" SRC="images/desert.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/coral_reef.jpg">
+
+## Knight et al. 2005
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/knight.png">
 
 ## Interaction networks: Amazon birds
 <hr>
