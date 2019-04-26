@@ -247,7 +247,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/fire_map.png">
 
-## Distrubance regimes of Giant Sequoia forests
+## Disturbance regimes of Giant Sequoia forests
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:450px; HEIGHT:400px" SRC="images/fire-sequoia.jpg">
