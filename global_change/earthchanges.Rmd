@@ -11,12 +11,19 @@ runtime: shiny
 ## Whats in a name...
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/globalchange.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:550px; HEIGHT:450px" SRC="images/globalchange.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:450px; HEIGHT:450px" SRC="images/anthropocene2.jpg">
 
 ## Global change at unprecedented rates
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/medival.jpg">
+
+## Hockey stick contreversy
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/hockeystick.gif">
 
 ## Global change at unprecedented rates
 <hr>
@@ -34,7 +41,7 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/anamoly.png">
 
-## Last 4 years are the warmest ever (Ed Hawkins)
+## NOAA: climate at a glance
 <hr>
 <br/>
 <br/>
@@ -45,7 +52,8 @@ runtime: shiny
 <br/>
 <br/>
 
-http://blogs.reading.ac.uk/climate-lab-book/files/2018/12/spiral_2018_WMO_large.gif
+https://www.ncdc.noaa.gov/cag/global/time-series/globe/land_ocean/all/3/1880-2019
+
 
 ## Physical impacts of climate change
 <hr>
@@ -66,6 +74,19 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2018/12/spiral_2018_WMO_large.
 <br/>
 http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
 
+## Last 4 years are the warmest ever (Ed Hawkins)
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+http://blogs.reading.ac.uk/climate-lab-book/files/2018/12/spiral_2018_WMO_large.gif
+
 
 ##   
 
@@ -78,16 +99,25 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
 
 <IMG STYLE="position:absolute; TOP:255px; LEFT:25px; WIDTH:400px; HEIGHT:300px" SRC="images/haber2.jpg">
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/haber3.jpg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:500px; WIDTH:550px; HEIGHT:325px" SRC="images/haber3.jpg">
 
-##
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/greataccel2.jpg">
+## The Great acceleration
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:475px; HEIGHT:515px" SRC="images/socio_trends.png">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:475px; HEIGHT:515px" SRC="images/earth_trends.png">
 
 ## Greenhouse gases (ice cores)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/icecore.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:725px; HEIGHT:500px" SRC="images/icecore.png">
+
+<!-- ## Atmospheric heating (review) -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:160px; WIDTH:775px; HEIGHT:500px" SRC="images/atmos_warming.jpg"> -->
 
 ##
 
@@ -100,6 +130,10 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/carbonbudget.jpg">
 
+##
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kCmwKbVFbWg?start=15" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <!-- ## -->
 
 <!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/anthropogenic-co2-by-country.png"> -->
@@ -107,9 +141,14 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
 ## Greenhouse gases: Methane (CH~4~)
 <hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:600px; HEIGHT:450px" SRC="images/methane2.jpg"> -->
-
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/methane.png">
+
+## In the news: Methane
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:350px; HEIGHT:450px" SRC="images/gnd.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:590px; HEIGHT:450px" SRC="images/methane.jpg">
 
 <!-- ## Nitrous oxide (N~2~O) -->
 <!-- <hr> -->
@@ -149,6 +188,12 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/oceanshell.jpg">
 
+## Biological effects of global change: Greener plants???
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg">
+
+
 ## Biological effects of global change: Homogenization
 <hr>
 
@@ -177,7 +222,7 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
 <!-- <hr> -->
 <!-- <IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/foodinsecurity.png"> -->
 
-## Is 1.5C global target reachable?
+## Is 1.5C target of the Paris Climate Agreement reachable?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/greenline.jpg">
@@ -205,7 +250,7 @@ http://blogs.reading.ac.uk/climate-lab-book/files/2017/05/maparctic_sept.gif
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/nasa.png">
 
-## What should you do... (For Emma)
+## What should you do
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/cow.jpg">

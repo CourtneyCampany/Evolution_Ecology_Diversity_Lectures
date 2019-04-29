@@ -133,15 +133,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/algalbloom.jpg">
 
-## Eutrophication
-<hr>
-  
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/erie.jpg">
+<!-- ## Eutrophication -->
+<!-- <hr> -->
 
-## Net primary productivity of plants and global change
-<hr>
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/erie.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg">
+<!-- ## Net primary productivity of plants and global change -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/leafarea.jpg"> -->
 
 
 
