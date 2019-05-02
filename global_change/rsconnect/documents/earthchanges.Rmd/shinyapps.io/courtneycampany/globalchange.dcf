@@ -5,8 +5,8 @@ account: courtneycampany
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 614397
-bundleId: 2047516
+bundleId: 2052541
 url: https://courtneycampany.shinyapps.io/globalchange/
-when: 1556563478.98409
+when: 1556715960.08465
 asMultiple: FALSE
 asStatic: FALSE
