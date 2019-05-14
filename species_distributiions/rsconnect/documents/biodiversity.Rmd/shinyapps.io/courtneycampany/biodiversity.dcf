@@ -5,8 +5,8 @@ account: courtneycampany
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 600588
-bundleId: 2029721
+bundleId: 2079174
 url: https://courtneycampany.shinyapps.io/biodiversity/
-when: 1555947124.98202
+when: 1557705183.81515
 asMultiple: FALSE
 asStatic: FALSE
