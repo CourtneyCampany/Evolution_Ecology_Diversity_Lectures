@@ -5,8 +5,8 @@ account: courtneycampany
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 616348
-bundleId: 1761857
+bundleId: 2056127
 url: https://courtneycampany.shinyapps.io/eco_services/
-when: 1544737310.13785
+when: 1556827564.99547
 asMultiple: FALSE
 asStatic: FALSE

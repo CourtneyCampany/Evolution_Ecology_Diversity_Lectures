@@ -12,17 +12,22 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/biodiverse.png">
 
+## Earth's vital signs: Millenium ecosystem assessment (2005)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/ma2005.png">
+
+## Ethics of ecology: Ego versus Eco
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/ethics.jpg">
+
 ## Where do we fit in?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/humansfood.jpeg">
 
 <IMG STYLE="position:absolute; TOP:230px; LEFT:675px; WIDTH:400px; HEIGHT:400px" SRC="images/trophic.png">
-
-## Ethics of ecology
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/ethics.jpg">
 
 ## 
 
